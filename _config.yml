@@ -12,10 +12,9 @@ baseurl: ''                 # the subpath of your site, e.g. /blog
 permalink: /:year/:title/   # how should we display posts url
 
 # Meta settings
-email: jackal@gmail.com
-author: The Jackal
-twitter_username: clenemt
-github_username: clenemt
+email: momohuang@gmail.com
+author: Robert Huang
+github_username: momohuang
 github_source: jackal
 
 # Put your ga tracking code below
@@ -66,4 +65,3 @@ exclude:
   - vendor
 gems:
   - jekyll-paginate
-
