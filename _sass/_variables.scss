@@ -7,8 +7,8 @@ $gray-light:                #818a91;
 $gray-lighter:              #eceeef;
 $gray-lightest:             #fafaf8;
 
-$blue:                      #4072AF;
-$light-blue:                lighten($blue, 45%);
+$blue:                      #1E8459;
+$light-blue:                lighten($blue, 20%);
 $dark-blue:                 darken($blue, 20%);
 
 $ligt-yellow:               #fcf8e3;
@@ -84,6 +84,6 @@ $mq-breakpoints: (
 
 $container-widths: (
   sm: 620px,
-  md: 748px
+  md: 850px
 );
 

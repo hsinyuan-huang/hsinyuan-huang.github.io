@@ -49,7 +49,7 @@
 
   &:focus,
   &:active {
-    background-color: $link-color;
+  background-color: $link-color;
     text-decoration: none;
     color: #fff;
   }
@@ -78,16 +78,16 @@
 @include mq-up(md) {
   .site-logo {
     margin-left: $spacer0;
-    width: 3.5rem;
-    height: 3.5rem;
+    width: 5rem;
+    height: 5rem;
   }
 
   .site-nav {
     float: right;
     width: 80%;
-    margin-top: $spacer0;
+    margin-top: $spacer1;
     justify-content: space-around;
-    font-size: 1.25rem;
+    font-size: 1.75rem;
 
     a {
       margin-right: 0;
