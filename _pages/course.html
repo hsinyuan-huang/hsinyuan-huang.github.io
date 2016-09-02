@@ -12,8 +12,16 @@ permalink: /course/
   <div class="grid no-gutters">
     <div class="unit whole">
       <div class="project">
-        <h4 class="project-title"><a href="sample-project/">Image Stitching with Different Blending Techniques</a></h4>
-        <p>Laeva clamat qui Perseus erit, discrimine ramos illa <a href="sample-project/">restabat</a>: bracchia, templa, ab spectans. Monte contigit Rhodosque manus mille est omnia eiusdem nondum: qui Modo.</p>
+        <h4 class="project-title"><a href="/course/">Image Stitching</a></h4>
+		<a href="{{ site.baseurl }}/assets/img/panorama.jpg" target="_blank">
+		  <img width="100%" style="margin:0px auto;display:block" src="{{ site.baseurl }}/assets/img/panorama.jpg">
+		</a>
+		<div style="clear:both;height:0.2em;"></div>		
+		<a href="{{ site.baseurl }}/assets/img/panorama2.jpg" target="_blank">
+		  <img width="100%" style="margin:0px auto;display:block" src="{{ site.baseurl }}/assets/img/panorama2.jpg">
+		</a>
+		<div style="clear:both;height:1em;"></div>
+		<p>In this project, we took several pictures and automatically stitch them together to create the above panoramas. First of all, we warp the images onto a cylinder so they can be joined. Then we apply feature detection and feature matching algorithm (using <a href="http://graphics.cs.cmu.edu/courses/15-463/2005_fall/www/Papers/MOPS.pdf" target="_blank">MSOP</a> and KD-tree) to find the corresponding pixels in consecutive images. Next, we use <a href="http://www.wikiwand.com/en/RANSAC" target="_blank">RANSAC</a> algorithm to robustly stitch the images by exploiting the pixel matching informations. Then we perform a greedy graph cut algorithm to find good seamlines between consecutive images. And at last, we wrote a conjugate gradient solver to solve for the partial differential equation (with the seamline found using graph cut as the boundary condition) used in <a href="https://www.cs.jhu.edu/~misha/Fall07/Papers/Perez03.pdf" target="_blank">Poisson Blending</a> to seamlessly combine the images. Due to our sophisticated blending technique, our produced panorama is robust and natural. For example, it can handle the case when people have moved during the shooting of panorama. Therefore our artifacts have <strong>won the first place</strong> when taking this course with ~130 competitors. We have wrote everything in C++ with openCV for image I/O. A detailed report can be downloaded <a href="{{ site.baseurl }}/assets/img/panorama_report.pdf" target="_blank">from here</a>.</p>
       </div>
     </div>
   </div><!-- grid --> 
@@ -21,8 +29,16 @@ permalink: /course/
   <div class="grid no-gutters">
     <div class="unit whole">
       <div class="project">
-        <h4 class="project-title"><a href="sample-project/">Fluid Simulation with SPH and Surface Reconstruction</a></h4>
-        <p>Laeva clamat qui Perseus erit, discrimine ramos illa <a href="sample-project/">restabat</a>: bracchia, templa, ab spectans. Monte contigit Rhodosque manus mille est omnia eiusdem nondum: qui Modo.</p>
+        <h4 class="project-title"><a href="sample-project/">Fluid Simulation with SPH</a></h4>
+		<video width="49.5%" controls>
+          <source src="{{ site.baseurl }}/assets/img/gold_fluid.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
+		<video width="49.5%" controls>
+          <source src="{{ site.baseurl }}/assets/img/water_fluid.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
+        <p></p>
       </div>
     </div>
   </div><!-- grid -->
