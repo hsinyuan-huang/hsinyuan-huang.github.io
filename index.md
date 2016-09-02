@@ -3,9 +3,13 @@ layout: default
 ---
 
 <div class="lead pretty-links">
-  Hi! this is just aAAAAA sample **intro text**. You would normally put your [full name](about/) here and say something *smart* about yourself.
+  Welcome to my personal webpage.
+  
+  My full name is **Hsin-Yuan Huang** (or in Chinese characters: 黃信元). If you find it difficult to remember or pronounce, you can also call me, Robert. To learn more about me, you may [click here](about/).
+  
+  I am currently an undergraduate student in National Taiwan University, where I double-majored in (and enchanted by) **Computer Science** and **Physics**. For some interesting projects I have done in taking the courses, please go to the [Coursework page](course/).
 
-  This could also be the good place to say were you are coming from, what you [do for a living](work/) and maybe what you are [interested in](projects/). You might also be [writing](articles/) about stuff.
+  My present research field is in Machine Learning. But before I came across Machine Learning, I have also worked in Earth Science and Bioinformatics. If you are interested in the details of my research, please go to the [Research page](research/).
 
-  But after all this is your site and I'm just a **placeholder text** so what would i know about some *home page content*.
+  Additionally, I have a strong background in **programming** (started since 7th grade), and have participated in the 25th International Olympiad in Informatics, held in Australia in 2013.
 </div>

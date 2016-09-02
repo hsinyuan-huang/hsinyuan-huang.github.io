@@ -1,9 +1,11 @@
 ---
 layout: page
 title: Project
-permalink: research/sample-work/
+permalink: research/autoML/
 subtitle: Sample work
 ---
+
+The goal of recommendation system is to create an algorithm that is capable of learning to give accurate recommendation to the users, such as music recommendation on iTunes, or movie recommendation on Netflix. However traditional approach is based on the rating, users gave, after listening to the music (or watching the movie). But in real life, most users don't tend to give ratings frequently. (Do you remember the last time you gave a rating after listening a song?)
 
 ## Liber orbes sternentemque nunc mortalia rotae supplex
 
