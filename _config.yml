@@ -3,9 +3,7 @@
 # Site settings
 title: Momo's Website               # used for the html title of every page
 desc: >
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This is my personal website to showcase the projects I have done before, including several courseworks and a few major research projects.
 
 url: https://momohuang.github.io/      # put your website hosting url here
 baseurl: ''                 # the subpath of your site, e.g. /blog
