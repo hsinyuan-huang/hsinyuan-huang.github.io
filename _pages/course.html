@@ -9,112 +9,156 @@ permalink: /course/
 <p>Lorem markdownum liquidas. Ad qui saxo prodis una, dextra medicamina fremit voce, Iuppiter, sum morte, et. Est hos est vultum ocius dextra praetulit aequoris hominem.</p>
 
 <div class="projects">
-  <div class="grid no-gutters">
-    <div class="unit whole">
-      <div class="project">
-        <h4 class="project-title"><a href="/course/">Image Stitching</a></h4>
-		<a href="{{ site.baseurl }}/assets/img/panorama.jpg" target="_blank">
-		  <img width="100%" style="margin:0px auto;display:block" src="{{ site.baseurl }}/assets/img/panorama.jpg">
-		</a>
-		<div style="clear:both;height:0.2em;"></div>		
-		<a href="{{ site.baseurl }}/assets/img/panorama2.jpg" target="_blank">
-		  <img width="100%" style="margin:0px auto;display:block" src="{{ site.baseurl }}/assets/img/panorama2.jpg">
-		</a>
+	<div class="grid no-gutters">
+		<div class="unit whole">
+			<div class="project">
+				<h4 class="project-title"><a href="/course/">Image Stitching</a></h4>
+				<a href="{{ site.baseurl }}/assets/img/panorama.jpg" target="_blank">
+					<img width="100%" style="margin:0px auto;display:block" src="{{ site.baseurl }}/assets/img/panorama.jpg">
+				</a>
+				<div style="clear:both;height:0.2em;"></div>		
+				<a href="{{ site.baseurl }}/assets/img/panorama2.jpg" target="_blank">
+					<img width="100%" style="margin:0px auto;display:block" src="{{ site.baseurl }}/assets/img/panorama2.jpg">
+				</a>
+				<div style="clear:both;height:1em;"></div>
+				<p>In this project, we wrote a program that can automatically stitch and blend several photos to create panorama. First of all, we warp the images onto a cylinder so they can be joined. Then we apply feature detection and feature matching algorithm (using <a href="http://graphics.cs.cmu.edu/courses/15-463/2005_fall/www/Papers/MOPS.pdf" target="_blank">MSOP</a> and KD-tree) to find the corresponding pixels in consecutive images. Next, we use <a href="http://www.wikiwand.com/en/RANSAC" target="_blank">RANSAC</a> algorithm to robustly stitch the images by exploiting the pixel matching informations. Then we perform a greedy graph cut algorithm to find good seamlines between consecutive images. And at last, we wrote a conjugate gradient solver to solve for the partial differential equation (with the seamline found using graph cut as the boundary condition) used in <a href="https://www.cs.jhu.edu/~misha/Fall07/Papers/Perez03.pdf" target="_blank">Poisson Blending</a> to seamlessly combine the images. Due to our sophisticated blending technique, our produced panorama is robust and natural. For example, it can handle the case when people have moved during the shooting of panorama. Therefore our artifacts have <strong>won the first place</strong> when taking this course with ~130 competitors. We have wrote everything in C++ with openCV for image I/O. A detailed report can be downloaded <a href="{{ site.baseurl }}/assets/img/panorama_report.pdf" target="_blank">from here</a>.</p>
+			</div>
+		</div>
+	</div><!-- grid --> 
+
+	<div class="project">
+		<h4 class="project-title"><a href="sample-project/">Fluid Simulation with SPH</a></h4>
+		<div class="grid no-gutters">
+			<div class="unit half">
+				<video width="99%" controls>
+					<source src="{{ site.baseurl }}/assets/img/gold_fluid.mp4" type="video/mp4">
+					Your browser does not support the video tag.
+				</video>
+			</div>
+			<div class="unit half">
+				<video width="99%" controls>
+					<source src="{{ site.baseurl }}/assets/img/water_fluid.mp4" type="video/mp4">
+					Your browser does not support the video tag.
+				</video> 
+			</div>
+		</div><!-- grid -->
 		<div style="clear:both;height:1em;"></div>
-		<p>In this project, we took several pictures and automatically stitch them together to create the above panoramas. First of all, we warp the images onto a cylinder so they can be joined. Then we apply feature detection and feature matching algorithm (using <a href="http://graphics.cs.cmu.edu/courses/15-463/2005_fall/www/Papers/MOPS.pdf" target="_blank">MSOP</a> and KD-tree) to find the corresponding pixels in consecutive images. Next, we use <a href="http://www.wikiwand.com/en/RANSAC" target="_blank">RANSAC</a> algorithm to robustly stitch the images by exploiting the pixel matching informations. Then we perform a greedy graph cut algorithm to find good seamlines between consecutive images. And at last, we wrote a conjugate gradient solver to solve for the partial differential equation (with the seamline found using graph cut as the boundary condition) used in <a href="https://www.cs.jhu.edu/~misha/Fall07/Papers/Perez03.pdf" target="_blank">Poisson Blending</a> to seamlessly combine the images. Due to our sophisticated blending technique, our produced panorama is robust and natural. For example, it can handle the case when people have moved during the shooting of panorama. Therefore our artifacts have <strong>won the first place</strong> when taking this course with ~130 competitors. We have wrote everything in C++ with openCV for image I/O. A detailed report can be downloaded <a href="{{ site.baseurl }}/assets/img/panorama_report.pdf" target="_blank">from here</a>.</p>
-      </div>
-    </div>
-  </div><!-- grid --> 
+		<p>In this project, I simulated realistic fluid dynamics based on <strong>Smoothed Particle Hydrodynamics</strong>. The project consist of three steps: (1) particle simulation, (2) surface reconstruction and (3) video rendering. The first step is to simulate the dynamic of the fluid particles using Navier-Stokes equation. However Navier-Stokes equation is a continuous velocity field differential equation, so to discretize it, I applied the SPH technique that is often used in solving astrophysical problems. To speed-up the dynamic process, I have employed a simple grid accelaration structure in the calculation. In the second step, due to SPH's particle nature, traditional method for surface reconstruction will result in very unrealistic water surface (very bumpy). Therefore, I adopted a <a href="http://www.cs.nyu.edu/~jihun/paper/sca2010.pdf">PCA anisotropic kernel method</a> proposed in SIGGRAPH SCA'10. Then I wrote a <a href="http://paulbourke.net/geometry/polygonise/">marching cube algorithm</a> to reconstruct the surface. For the final step, I feed the resulting fluid surface into <a href="http://www.luxrender.net/">LuxRender</a> and used <a href="https://ffmpeg.org">FFmpeg</a> to create realistic video as shown above. Everything is written from scratch using C++ and used MATLAB for realtime rendering when tuning the physical parameters (which I have spent days to create a more realistic movement). A detailed report can be downloaded <a href="{{ site.baseurl }}/assets/img/fluid_report.pdf" target="_blank">from here</a>.</p>
+	</div>
 
-  <div class="project">
-    <h4 class="project-title"><a href="sample-project/">Fluid Simulation with SPH</a></h4>
-    <div class="grid no-gutters">
-      <div class="unit half">
-	  	<video width="99%" controls>
-            <source src="{{ site.baseurl }}/assets/img/gold_fluid.mp4" type="video/mp4">
-            Your browser does not support the video tag.
-          </video>
-  	  </div>
-	  <div class="unit half">
-		  <video width="99%" controls>
-            <source src="{{ site.baseurl }}/assets/img/water_fluid.mp4" type="video/mp4">
-            Your browser does not support the video tag.
-          </video> 
-	  </div>
-    </div><!-- grid -->
-	<div style="clear:both;height:1em;"></div>
-    <p>I am momo.</p>
-  </div>
+	<div class="grid no-gutters">  
+		<div class="unit whole">
+			<div class="project">
+				<h4 class="project-title"><a href="sample-project/">High Dynamic Range Imaging</a></h4>
+				<div class="grid no-gutters">
+					<div class="unit half">
+						<a href="{{ site.baseurl }}/assets/img/HDR_flower.jpg" target="_blank">
+							<img width="98%" style="margin:0px auto;display:block" src="{{ site.baseurl }}/assets/img/HDR_flower.jpg">
+						</a>
+					</div>
+					<div class="unit half">
+						<a href="{{ site.baseurl }}/assets/img/HDR_wine.jpg" target="_blank">
+							<img width="99.2%" style="margin:0px auto;display:block" src="{{ site.baseurl }}/assets/img/HDR_wine.jpg">
+						</a>
+					</div>
+				</div><!-- grid -->
+				<div style="clear:both;height:1em;"></div>
 
-  <div class="grid no-gutters">
-    <div class="unit half">
-      <div class="project">
-        <h4 class="project-title"><a href="sample-project/">Special Visual Effects Film</a></h4>
-        <p>Laeva clamat qui Perseus erit, discrimine ramos illa <a href="sample-project/">restabat</a>: bracchia, templa, ab spectans. Monte contigit Rhodosque manus mille est omnia eiusdem nondum: qui Modo.</p>
-      </div>
-    </div>
-    <div class="unit half">
-      <div class="project">
-        <h4 class="project-title"><a href="sample-project/">High Dynamic Range Imaging</a></h4>
-        <p><em>Quoque videri</em>: sibi in qua nexibus rapto, Munychiosque bracchia sua pars, iram nec tonitruque. Quisquis thalamis Lyncides e remorum an omnibus monstri dempta. Mea tecta! Orbem haut non procumbit <em>facit</em>.</p>
-      </div>
-    </div>
-  </div><!-- grid -->
+				<p>The light intensity in our world ranges across several magnitudes. However, our usual camera can not capture images with such rich information. In this project, we aim to reconstruct the actual light intensity by taking several normal images under different exposure time. We have implemented the following components: (1) Image Alignment using <a href="http://www.anyhere.com/gward/papers/jgtpap2.pdf" target="_blank">Ward's MTB algorithm</a>; (2) HDR reconstruction algorithm, where we have investigated <a href="http://www.pauldebevec.com/Research/HDR/debevec-siggraph97.pdf" target="_blank">Debevec's</a> and <a href="http://wearcam.org/ece516/comparametrics_references/JEI00219.pdf" target="_blank">Robertson's</a> algorithm; and (3) Our own ghost removal algorithm. The created high dynamic range (HDR) image is then stored in <a href="http://www.openexr.com" target="_blank">EXR format</a>. And the final artifact is created after applying tone mapping to the HDR image. We have wrote everything in C++ with openCV for image I/O. A detailed report can be downloaded <a href="{{ site.baseurl }}/assets/img/HDR_report.pdf" target="_blank">from here</a>.</p>
+			</div>
+		</div>
+	</div><!-- grid -->
 
-  <div class="grid no-gutters">
-    <div class="unit half">
-      <div class="project">
-        <h4 class="project-title"><a href="sample-project/">Sentence Redundancy Correction</a></h4>
-        <p>Laeva clamat qui Perseus erit, discrimine ramos illa <a href="sample-project/">restabat</a>: bracchia, templa, ab spectans. Monte contigit Rhodosque manus mille est omnia eiusdem nondum: qui Modo.</p>
-      </div>
-    </div>
-    <div class="unit half">
-      <div class="project">
-        <h4 class="project-title"><a href="sample-project/">Recent Advances on Consciousness</a></h4>
-        <p><em>Quoque videri</em>: sibi in qua nexibus rapto, Munychiosque bracchia sua pars, iram nec tonitruque. Quisquis thalamis Lyncides e remorum an omnibus monstri dempta. Mea tecta! Orbem haut non procumbit <em>facit</em>.</p>
-      </div>
-    </div>
-  </div><!-- grid --> 
+	<div class="project">
+		<h4 class="project-title"><a href="https://youtu.be/JWKmh01Ng7Y" target="_blank">Special Visual Effects Film</a></h4>
+		<div class="grid no-gutters">
+			<div class="unit half">
+				<a href="{{ site.baseurl }}/assets/img/Speedy.pdf" target="_blank">
+					<img width="98%" style="margin:0px auto;display:block" src="{{ site.baseurl }}/assets/img/Speedy.pdf">
+				</a>
+			</div>
+			<div class="unit half">
+				<a href="{{ site.baseurl }}/assets/img/Speedy2.pdf" target="_blank">
+					<img width="98%" style="margin:0px auto;display:block" src="{{ site.baseurl }}/assets/img/Speedy2.pdf">
+				</a>
+			</div>
+		</div><!-- grid -->
+		<div style="clear:both;height:1em;"></div>
 
-  <div class="grid no-gutters">
-    <div class="unit one-third">
-      <div class="project">
-        <h4 class="project-title"><a href="sample-project/">Heightfield Geometry</a></h4>
-        <p>Inpune adsueta ac portasque, esse bella satis; meum arserunt coepit. Anguesque caeleste, dixit: pars nemus igne sedes nigrantis dea omnia.</p>
-      </div>
-    </div>
-    <div class="unit one-third">
-      <div class="project">
-        <h4 class="project-title"><a href="sample-project/">Camera Simulation</a></h4>
-        <p>Laeva clamat qui Perseus erit, discrimine ramos illa <a href="sample-project/">restabat</a>: bracchia, templa, ab spectans. Monte contigit Rhodosque manus mille est omnia eiusdem nondum: qui Modo.</p>
-      </div>
-    </div>
-	<div class="unit one-third">
-      <div class="project">
-        <h4 class="project-title"><a href="sample-project/">Environment Light</a></h4>
-        <p>Laeva clamat qui Perseus erit, discrimine ramos illa <a href="sample-project/">restabat</a>: bracchia, templa, ab spectans. Monte contigit Rhodosque manus mille est omnia eiusdem nondum: qui Modo.</p>
-      </div>
-    </div>
-  </div><!-- grid --> 
+		<p>In this project, we have created a special visual effects film: <a href="https://youtu.be/JWKmh01Ng7Y" target="_blank">Speedy X Nerdy with Photographer</a>. To enjoy our film, please click on the project title or the film name above. The technique we used, includes complex matting and compositing, surface tracking, physical simulation, camera tracking, and many others. There are totally 16 major special effects in this films, for more details you can view the slide to the left. We have also created a <a href="https://youtu.be/YdzI063Po8Q" target="_blank">making-of video</a> demonstrating the creation for some of the visual effects, you may click on it if you are interested in how we have made this film. Feel free to contact me, if you are curious about the detail of other visual effects.</p>
+	</div>
 
-  <div class="grid no-gutters">
-    <div class="unit one-third">
-      <div class="project">
-        <h4 class="project-title"><a href="sample-project/">Online Casino</a></h4>
-        <p>Inpune adsueta ac portasque, esse bella satis; meum arserunt coepit. Anguesque caeleste, dixit: pars nemus igne sedes nigrantis dea omnia.</p>
-      </div>
-    </div>
-    <div class="unit one-third">
-      <div class="project">
-        <h4 class="project-title"><a href="sample-project/">Fast L.S. Approx.</a></h4>
-        <p>Laeva clamat qui Perseus erit, discrimine ramos illa <a href="sample-project/">restabat</a>: bracchia, templa, ab spectans. Monte contigit Rhodosque manus mille est omnia eiusdem nondum: qui Modo.</p>
-      </div>
-    </div>
-	<div class="unit one-third">
-      <div class="project">
-        <h4 class="project-title"><a href="sample-project/">Email System</a></h4>
-        <p>Laeva clamat qui Perseus erit, discrimine ramos illa <a href="sample-project/">restabat</a>: bracchia, templa, ab spectans. Monte contigit Rhodosque manus mille est omnia eiusdem nondum: qui Modo.</p>
-      </div>
-    </div>
-  </div><!-- grid -->
+	<div class="project">
+		<h4 class="project-title"><a href="sample-project/">Camera Simulation</a></h4>
+		<a href="{{ site.baseurl }}/assets/img/lenses.png" target="_blank">
+			<img width="100%" style="margin:0px auto;display:block" src="{{ site.baseurl }}/assets/img/lenses.png">
+		</a>
+		<div style="clear:both;height:0.8em;"></div>
+		<p>In this project, we created a realistic camera module in the <a href="http://www.pbrt.org" target="_blank">pbrt system</a>. Given the configuration of any camara (the position and the property of the lenses and the aperture), we can let you use the camera to take pictures in the 3D digital world. For example, we have created Fisheye camera, Double-Gauss camera, Wide-angle camera and Superachromat telescope as shown in the above pictures. Everything is written from scratch using C++. A detailed report can be downloaded <a href="{{ site.baseurl }}/assets/img/camera_report.pdf" target="_blank">from here</a>.</p>
+	</div>
+
+	<div class="project">
+		<h4 class="project-title"><a href="sample-project/">Sentence Redundancy Correction</a></h4>
+		<a href="{{ site.baseurl }}/assets/img/NLP.png" target="_blank">
+			<img width="100%" style="margin:0px auto;display:block" src="{{ site.baseurl }}/assets/img/NLP.png">
+		</a>
+		<div style="clear:both;height:0.8em;"></div>
+		<p>In this project, our goal is to identify and correct redundant words that appear in a Chinese sentence. This problem requires both identification and correction. For identification, we combine rule-based and language model based approaches. First, we used hypothesis test to find erroneous trigrams (consists of both POS and word) that collocate with redundancy. Then we extract probability information from the language model used in <a href="http://nlp.stanford.edu/software/tagger.shtml">Stanford POS tagger</a>. The two informations are combined through training a <a href="https://www.csie.ntu.edu.tw/~cjlin/liblinear/" target="_blank">logistic regression</a> model with features from both methods. For correction, we have tried two different strategy. One is to train a <a href="http://www.chokkan.org/software/crfsuite/" target="_blank">conditional random field</a> that can predict the label of each word segment (being redundant or not) in a sentence. Another attempt is to train a language model through accessing the raw data of <a href="http://storage.googleapis.com/books/ngrams/books/datasetsv2.html" target="_blank">Google N-gram</a>. Then we remove the word segment that can substantially boost the sentence's language model probability. Note that working with Google N-gram takes great effort, since the raw data of Google N-gram already takes several terabytes to store. We have wrote everything in Python and C++. A detailed report can be downloaded <a href="{{ site.baseurl }}/assets/img/NLP_report.pdf" target="_blank">from here</a>.</p>
+	</div>
+
+	<div class="project">
+		<h4 class="project-title"><a href="sample-project/">Heightfield Geometry</a></h4>
+		<a href="{{ site.baseurl }}/assets/img/height.png" target="_blank">
+			<img width="100%" style="margin:0px auto;display:block" src="{{ site.baseurl }}/assets/img/height.png">
+		</a>
+		<div style="clear:both;height:0.8em;"></div>
+		<p>In this project, we created a height field geometry written in <a href="http://www.pbrt.org" target="_blank">pbrt system</a>, a popular photorealistic rendering system. Although it has already been implemented in the system, the goal in this project is to speed up the original ray-geometry intersection algorithm. I have tried several different algorithm, including variants of digital differential algorithm and KD-tree. My final acceleration structure is five times faster than the original implementation under multicore setting. Everything is written from scratch using C++. A detailed report can be downloaded <a href="{{ site.baseurl }}/assets/img/height_report.pdf" target="_blank">from here</a>.</p>
+	</div>	
+
+	<div class="grid no-gutters">
+		<div class="unit half">
+			<div class="project">
+				<h4 class="project-title"><a href="https://spiketren.gitbooks.io/psy101/content/ch5/hot.html" target="_blank">Recent Advances in Consciousness</a></h4>
+				<a href="http://www.nytimes.com/2010/09/21/science/21consciousness.html?emc=eta1&_r=0" target="_blank">
+					<img width="95%" style="margin:0px auto;display:block" src="{{ site.baseurl }}/assets/img/conscious.jpg">
+				</a>
+				<div style="clear:both;height:0.8em;"></div>
+				<p>In this project, I participated in the writing of a <a href="https://www.gitbook.com/book/spiketren/psy101/">Chinese Psychology online textbook</a>. I am responsible for writing "Recent Advances in Consciousness", where I have read through several papers published on Nature, Science, PNAS ... etc. The field includes sleep and dream mechanism, subconsciousness and blindsight, psychoactive drug, and measurement of consciousness. We used <a href="https://www.gitbook.com" target="_blank">gitbook</a> for version control since many people participated in this work. Please click on the project title or <a href="https://spiketren.gitbooks.io/psy101/content/ch5/hot.html" target="_blank">the link here</a> to access the chapter I wrote. (the image is from <a href="http://www.nytimes.com/2010/09/21/science/21consciousness.html?emc=eta1&_r=0" target="_blank">NY Times</a>)</p>
+			</div>
+		</div>
+		<div class="unit half">
+			<div class="project">
+				<h4 class="project-title"><a href="sample-project/">Environment Light</a></h4>
+				<a href="{{ site.baseurl }}/assets/img/envlight.png" target="_blank">
+					<img width="100%" style="margin:0px auto;display:block" src="{{ site.baseurl }}/assets/img/envlight.png">
+				</a>
+				<div style="clear:both;height:0.8em;"></div>
+				<p>In 3D rendering, people often used point light or parallel light as the light sources. However to create a more natural lighting, environment light should be employed. The problem of environment light is that it will significantly lengthen the rendering time of the scene. In this project, we approximate the environment light using several point lights to speed up the process. We have implemented two methods proposed by Debevec et. al. (<a href="http://gl.ict.usc.edu/Research/MedianCut/MedianCutSampling.pdf" target="_blank">Median cut</a> and <a href="http://gl.ict.usc.edu/Research/VarianceMin/VarianceMinimization_SIG09.pdf" target="_blank">Variance minimization</a> algorithm). A detailed report can be downloaded <a href="{{ site.baseurl }}/assets/img/light_report.pdf" target="_blank">from here</a>.</p>
+			</div>
+		</div>	
+	</div><!-- grid --> 
+
+	<div class="grid no-gutters">
+		<div class="unit half">
+			<div class="project">
+				<h4 class="project-title"><a href="sample-project/">Online Casino</a></h4>
+				<p>Inpune adsueta ac portasque, esse bella satis; meum arserunt coepit. Anguesque caeleste, dixit: pars nemus igne sedes nigrantis dea omnia.</p>
+			</div>
+		</div>
+		<div class="unit half">
+			<div class="project">
+				<h4 class="project-title"><a href="sample-project/">Fast L.S. Approx.</a></h4>
+				<p>Laeva clamat qui Perseus erit, discrimine ramos illa <a href="sample-project/">restabat</a>: bracchia, templa, ab spectans. Monte contigit Rhodosque manus mille est omnia eiusdem nondum: qui Modo.</p>
+			</div>
+		</div>
+	</div><!-- grid -->
+
+	<div class="grid no-gutters">	
+		<div class="unit one-third">
+			<div class="project">
+				<h4 class="project-title"><a href="sample-project/">Email System</a></h4>
+				<p>Laeva clamat qui Perseus erit, discrimine ramos illa <a href="sample-project/">restabat</a>: bracchia, templa, ab spectans. Monte contigit Rhodosque manus mille est omnia eiusdem nondum: qui Modo.</p>
+			</div>
+		</div>
+	</div><!-- grid -->
 </div>
