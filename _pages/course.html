@@ -14,11 +14,11 @@ permalink: /course/
 			<div class="project">
 				<h4 class="project-title"><a href="/course/">Image Stitching</a></h4>
 				<a href="{{ site.baseurl }}/assets/img/panorama.jpg" target="_blank">
-					<img width="100%" style="margin:0px auto;display:block" src="{{ site.baseurl }}/assets/img/panorama.jpg">
+					<img width="100%" style="margin:0px auto;display:block" src="{{ site.baseurl }}/assets/img/panorama_small.jpg">
 				</a>
 				<div style="clear:both;height:0.2em;"></div>		
 				<a href="{{ site.baseurl }}/assets/img/panorama2.jpg" target="_blank">
-					<img width="100%" style="margin:0px auto;display:block" src="{{ site.baseurl }}/assets/img/panorama2.jpg">
+					<img width="100%" style="margin:0px auto;display:block" src="{{ site.baseurl }}/assets/img/panorama2_small.jpg">
 				</a>
 				<div style="clear:both;height:1em;"></div>
 				<p>In this project, we wrote a program that can automatically stitch and blend several photos to create panorama. First of all, we warp the images onto a cylinder so they can be joined. Then we apply feature detection and feature matching algorithm (using <a href="http://graphics.cs.cmu.edu/courses/15-463/2005_fall/www/Papers/MOPS.pdf" target="_blank">MSOP</a> and KD-tree) to find the corresponding pixels in consecutive images. Next, we use <a href="http://www.wikiwand.com/en/RANSAC" target="_blank">RANSAC</a> algorithm to robustly stitch the images by exploiting the pixel matching informations. Then we perform a greedy graph cut algorithm to find good seamlines between consecutive images. And at last, we wrote a conjugate gradient solver to solve for the partial differential equation (with the seamline found using graph cut as the boundary condition) used in <a href="https://www.cs.jhu.edu/~misha/Fall07/Papers/Perez03.pdf" target="_blank">Poisson Blending</a> to seamlessly combine the images. Due to our sophisticated blending technique, our produced panorama is robust and natural. For example, it can handle the case when people have moved during the shooting of panorama. Therefore our artifacts have <strong>won the first place</strong> when taking this course with ~130 competitors. We have wrote everything in C++ with openCV for image I/O. A detailed report can be downloaded <a href="{{ site.baseurl }}/assets/img/panorama_report.pdf" target="_blank">from here</a>.</p>
@@ -44,6 +44,15 @@ permalink: /course/
 		</div><!-- grid -->
 		<div style="clear:both;height:1em;"></div>
 		<p>In this project, I simulated realistic fluid dynamics based on <strong>Smoothed Particle Hydrodynamics</strong>. The project consist of three steps: (1) particle simulation, (2) surface reconstruction and (3) video rendering. The first step is to simulate the dynamic of the fluid particles using Navier-Stokes equation. However Navier-Stokes equation is a continuous velocity field differential equation, so to discretize it, I applied the SPH technique that is often used in solving astrophysical problems. To speed-up the dynamic process, I have employed a simple grid accelaration structure in the calculation. In the second step, due to SPH's particle nature, traditional method for surface reconstruction will result in very unrealistic water surface (very bumpy). Therefore, I adopted a <a href="http://www.cs.nyu.edu/~jihun/paper/sca2010.pdf">PCA anisotropic kernel method</a> proposed in SIGGRAPH SCA'10. Then I wrote a <a href="http://paulbourke.net/geometry/polygonise/">marching cube algorithm</a> to reconstruct the surface. For the final step, I feed the resulting fluid surface into <a href="http://www.luxrender.net/">LuxRender</a> and used <a href="https://ffmpeg.org">FFmpeg</a> to create realistic video as shown above. Everything is written from scratch using C++ and used MATLAB for realtime rendering when tuning the physical parameters (which I have spent days to create a more realistic movement). A detailed report can be downloaded <a href="{{ site.baseurl }}/assets/img/fluid_report.pdf" target="_blank">from here</a>.</p>
+	</div>
+
+	<div class="project">
+		<h4 class="project-title"><a href="sample-project/">Sentence Redundancy Correction</a></h4>
+		<a href="{{ site.baseurl }}/assets/img/NLP.png" target="_blank">
+			<img width="100%" style="margin:0px auto;display:block" src="{{ site.baseurl }}/assets/img/NLP.png">
+		</a>
+		<div style="clear:both;height:0.8em;"></div>
+		<p>In this project, our goal is to identify and correct redundant words that appear in a Chinese sentence. This problem requires both identification and correction. For identification, we combine rule-based and language model based approaches. First, we used hypothesis test to find erroneous trigrams (consists of both POS and word) that collocate with redundancy. Then we extract probability information from the language model used in <a href="http://nlp.stanford.edu/software/tagger.shtml">Stanford POS tagger</a>. The two informations are combined through training a <a href="https://www.csie.ntu.edu.tw/~cjlin/liblinear/" target="_blank">logistic regression</a> model with features from both methods. For correction, we have tried two different strategy. One is to train a <a href="http://www.chokkan.org/software/crfsuite/" target="_blank">conditional random field</a> that can predict the label of each word segment (being redundant or not) in a sentence. Another attempt is to train a language model through accessing the raw data of <a href="http://storage.googleapis.com/books/ngrams/books/datasetsv2.html" target="_blank">Google N-gram</a>. Then we remove the word segment that can substantially boost the sentence's language model probability. Note that working with Google N-gram takes great effort, since the raw data of Google N-gram already takes several terabytes to store. We have wrote everything in Python and C++. A detailed report can be downloaded <a href="{{ site.baseurl }}/assets/img/NLP_report.pdf" target="_blank">from here</a>.</p>
 	</div>
 
 	<div class="grid no-gutters">  
@@ -95,16 +104,7 @@ permalink: /course/
 		</a>
 		<div style="clear:both;height:0.8em;"></div>
 		<p>In this project, we created a realistic camera module in the <a href="http://www.pbrt.org" target="_blank">pbrt system</a>. Given the configuration of any camara (the position and the property of the lenses and the aperture), we can let you use the camera to take pictures in the 3D digital world. For example, we have created Fisheye camera, Double-Gauss camera, Wide-angle camera and Superachromat telescope as shown in the above pictures. Everything is written from scratch using C++. A detailed report can be downloaded <a href="{{ site.baseurl }}/assets/img/camera_report.pdf" target="_blank">from here</a>.</p>
-	</div>
-
-	<div class="project">
-		<h4 class="project-title"><a href="sample-project/">Sentence Redundancy Correction</a></h4>
-		<a href="{{ site.baseurl }}/assets/img/NLP.png" target="_blank">
-			<img width="100%" style="margin:0px auto;display:block" src="{{ site.baseurl }}/assets/img/NLP.png">
-		</a>
-		<div style="clear:both;height:0.8em;"></div>
-		<p>In this project, our goal is to identify and correct redundant words that appear in a Chinese sentence. This problem requires both identification and correction. For identification, we combine rule-based and language model based approaches. First, we used hypothesis test to find erroneous trigrams (consists of both POS and word) that collocate with redundancy. Then we extract probability information from the language model used in <a href="http://nlp.stanford.edu/software/tagger.shtml">Stanford POS tagger</a>. The two informations are combined through training a <a href="https://www.csie.ntu.edu.tw/~cjlin/liblinear/" target="_blank">logistic regression</a> model with features from both methods. For correction, we have tried two different strategy. One is to train a <a href="http://www.chokkan.org/software/crfsuite/" target="_blank">conditional random field</a> that can predict the label of each word segment (being redundant or not) in a sentence. Another attempt is to train a language model through accessing the raw data of <a href="http://storage.googleapis.com/books/ngrams/books/datasetsv2.html" target="_blank">Google N-gram</a>. Then we remove the word segment that can substantially boost the sentence's language model probability. Note that working with Google N-gram takes great effort, since the raw data of Google N-gram already takes several terabytes to store. We have wrote everything in Python and C++. A detailed report can be downloaded <a href="{{ site.baseurl }}/assets/img/NLP_report.pdf" target="_blank">from here</a>.</p>
-	</div>
+	</div>	
 
 	<div class="project">
 		<h4 class="project-title"><a href="sample-project/">Heightfield Geometry</a></h4>
@@ -142,22 +142,19 @@ permalink: /course/
 		<div class="unit half">
 			<div class="project">
 				<h4 class="project-title"><a href="sample-project/">Online Casino</a></h4>
-				<p>Inpune adsueta ac portasque, esse bella satis; meum arserunt coepit. Anguesque caeleste, dixit: pars nemus igne sedes nigrantis dea omnia.</p>
+				<a href='https://wall.alphacoders.com/big.php?i=427236' target="_blank"><img src='https://images8.alphacoders.com/427/427236.jpg' width="95%"></a>
+				<div style="clear:both;height:0.8em;"></div>
+				<p>In this project, I have designed an online casino that support up to 100 players via multithreaded programming. The players connect to the server through TCP socket, while several players can compete in the same game. The casino currently support two games: "Blackjack" and "Guess the number". Additionally, I have wrote an AI player that can help you (win fictitious money) through the game. Everything is wrote from scratch using C++. A detailed report can be downloaded <a href="{{ site.baseurl }}/assets/img/casino_report.pdf" target="_blank">from here</a>. (the image is from <a href='https://wall.alphacoders.com/big.php?i=427236' target="_blank">Alpha Coders</a>)</p>
 			</div>
 		</div>
 		<div class="unit half">
 			<div class="project">
-				<h4 class="project-title"><a href="sample-project/">Fast L.S. Approx.</a></h4>
-				<p>Laeva clamat qui Perseus erit, discrimine ramos illa <a href="sample-project/">restabat</a>: bracchia, templa, ab spectans. Monte contigit Rhodosque manus mille est omnia eiusdem nondum: qui Modo.</p>
-			</div>
-		</div>
-	</div><!-- grid -->
-
-	<div class="grid no-gutters">	
-		<div class="unit one-third">
-			<div class="project">
 				<h4 class="project-title"><a href="sample-project/">Email System</a></h4>
-				<p>Laeva clamat qui Perseus erit, discrimine ramos illa <a href="sample-project/">restabat</a>: bracchia, templa, ab spectans. Monte contigit Rhodosque manus mille est omnia eiusdem nondum: qui Modo.</p>
+				<a href="{{ site.baseurl }}/assets/img/Trie.png" target="_blank">
+					<img width="95%" style="margin:0px auto;display:block" src="{{ site.baseurl }}/assets/img/Trie.png">
+				</a>
+				<div style="clear:both;height:1em;"></div>
+				<p>This is a project I did when taking an undergraduate course on "Data Structure and Algorithm" during high school. This project aims at designing efficient algorithm for querying relevent emails in an email pool with millions of emails. In addition to the data structures storing the mails (includes hash table, AVL tree and Trie for different kinds of fast query), we have also implemented email encrption based on SHA-1 and PageRank used to determine important emails. Everything is wrote from scratch using C++. A detailed report can be downloaded <a href="{{ site.baseurl }}/assets/img/email_report.pdf" target="_blank">from here</a>.</p>
 			</div>
 		</div>
 	</div><!-- grid -->
