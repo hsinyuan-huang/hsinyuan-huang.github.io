@@ -6,13 +6,17 @@ desc: My Course Projects
 permalink: /course/
 ---
 
-<p>Click on the project titles to access the source code for each projects.</p>
+<p>Click on the project titles to access: the source code for projects with <img style="width: 1.3rem;height: 1.3rem;position:relative;top:-0.2rem;" src="{{ site.baseurl }}/assets/img/GitHub-Mark.png"> mark; the Youtube video for projects with <img style="width: 1.3rem;position:relative;top:-0.15rem;" src="{{ site.baseurl }}/assets/img/YouTube.png"> mark; the Gitbook for project with <img style="width: 1.3rem;position:relative;top:-0.15rem;" src="{{ site.baseurl }}/assets/img/book.jpg"> mark.<p>
+<p>For the list of theoretical physics courses that I have taken, please <a href="/course/physics-list/">click here</a>.</p>
 
 <div class="projects">
 	<div class="grid no-gutters">
 		<div class="unit whole">
 			<div class="project">
-				<h4 class="project-title"><a href="/course/">Image Stitching</a></h4>
+				<h4 class="project-title">
+					<a href="https://github.com/momohuang/Panorama" target="_blank">Image Stitching</a>
+					<img style="width: 1.3em;height: 1.3em;margin-left: 0.5rem;" src="{{ site.baseurl }}/assets/img/GitHub-Mark.png">
+				</h4>
 				<a href="{{ site.baseurl }}/assets/img/panorama.jpg" target="_blank">
 					<img width="100%" style="margin:0px auto;display:block" src="{{ site.baseurl }}/assets/img/panorama_small.jpg">
 				</a>
@@ -27,7 +31,7 @@ permalink: /course/
 	</div><!-- grid --> 
 
 	<div class="project">
-		<h4 class="project-title"><a href="sample-project/">Fluid Simulation with SPH</a></h4>
+		<h4 class="project-title"><a href="https://github.com/momohuang/SPH-Fluid-Simulation" target="_blank">Fluid Simulation with SPH</a><img style="width: 1.3em;height: 1.3em;margin-left: 0.7rem;" src="{{ site.baseurl }}/assets/img/GitHub-Mark.png"></h4>
 		<div class="grid no-gutters">
 			<div class="unit half">
 				<video width="99%" controls>
@@ -47,18 +51,18 @@ permalink: /course/
 	</div>
 
 	<div class="project">
-		<h4 class="project-title"><a href="sample-project/">Sentence Redundancy Correction</a></h4>
+		<h4 class="project-title"><a href="https://github.com/momohuang/Sentence-Redundancy-Correction" target="_blank">Sentence Redundancy Correction</a><img style="width: 1.3em;height: 1.3em;margin-left: 0.7rem;" src="{{ site.baseurl }}/assets/img/GitHub-Mark.png"></h4>
 		<a href="{{ site.baseurl }}/assets/img/NLP.png" target="_blank">
 			<img width="100%" style="margin:0px auto;display:block" src="{{ site.baseurl }}/assets/img/NLP.png">
 		</a>
 		<div style="clear:both;height:0.8em;"></div>
-		<p>In this project, our goal is to identify and correct redundant words that appear in a Chinese sentence. This problem requires both identification and correction. For identification, we combine rule-based and language model based approaches. First, we used hypothesis test to find erroneous trigrams (consists of both POS and word) that collocate with redundancy. Then we extract probability information from the language model used in <a href="http://nlp.stanford.edu/software/tagger.shtml">Stanford POS tagger</a>. The two informations are combined through training a <a href="https://www.csie.ntu.edu.tw/~cjlin/liblinear/" target="_blank">logistic regression</a> model with features from both methods. For correction, we have tried two different strategy. One is to train a <a href="http://www.chokkan.org/software/crfsuite/" target="_blank">conditional random field</a> that can predict the label of each word segment (being redundant or not) in a sentence. Another attempt is to train a language model through accessing the raw data of <a href="http://storage.googleapis.com/books/ngrams/books/datasetsv2.html" target="_blank">Google N-gram</a>. Then we remove the word segment that can substantially boost the sentence's language model probability. Note that working with Google N-gram takes great effort, since the raw data of Google N-gram already takes several terabytes to store. We have wrote everything in Python and C++. A detailed report can be downloaded <a href="{{ site.baseurl }}/assets/img/NLP_report.pdf" target="_blank">from here</a>.</p>
+		<p>In this project, our goal is to identify and correct redundant words that appear in a Chinese sentence. This problem requires both identification and correction. For identification, we combine rule-based and language model based approaches. First, we used hypothesis test to find erroneous trigrams (consists of both POS and word) that collocate with redundancy. Then we extract probability information from the language model used in <a href="http://nlp.stanford.edu/software/tagger.shtml">Stanford POS tagger</a>. The two informations are combined through training a <a href="https://www.csie.ntu.edu.tw/~cjlin/liblinear/" target="_blank">logistic regression</a> model with features from both methods. For correction, we have tried two different strategy. One is to train a <a href="http://www.chokkan.org/software/crfsuite/" target="_blank">conditional random field</a> that can predict the label of each word segment (being redundant or not) in a sentence. Another attempt is to train a language model through accessing the raw data of <a href="http://storage.googleapis.com/books/ngrams/books/datasetsv2.html" target="_blank">Google N-gram</a>. Then we remove the word segment that can substantially boost the sentence's language model probability. Note that working with Google N-gram takes great effort, since the raw data of Google N-gram already takes several terabytes to store. We have wrote everything in Python and Shell Script. A detailed report can be downloaded <a href="{{ site.baseurl }}/assets/img/NLP_report.pdf" target="_blank">from here</a>.</p>
 	</div>
 
 	<div class="grid no-gutters">  
 		<div class="unit whole">
 			<div class="project">
-				<h4 class="project-title"><a href="sample-project/">High Dynamic Range Imaging</a></h4>
+				<h4 class="project-title"><a href="https://github.com/momohuang/High-Dynamic-Range" target="_blank">High Dynamic Range Imaging</a><img style="width: 1.3em;height: 1.3em;margin-left: 0.7rem;" src="{{ site.baseurl }}/assets/img/GitHub-Mark.png"></h4>
 				<div class="grid no-gutters">
 					<div class="unit half">
 						<a href="{{ site.baseurl }}/assets/img/HDR_flower.jpg" target="_blank">
@@ -79,7 +83,7 @@ permalink: /course/
 	</div><!-- grid -->
 
 	<div class="project">
-		<h4 class="project-title"><a href="https://youtu.be/JWKmh01Ng7Y" target="_blank">Special Visual Effects Film</a></h4>
+		<h4 class="project-title"><a href="https://youtu.be/JWKmh01Ng7Y" target="_blank">Special Visual Effects Film</a><img style="width: 1.9rem;margin-left: 0.7rem;" src="{{ site.baseurl }}/assets/img/YouTube.png"></h4>
 		<div class="grid no-gutters">
 			<div class="unit half">
 				<a href="{{ site.baseurl }}/assets/img/Speedy.png" target="_blank">
@@ -98,7 +102,7 @@ permalink: /course/
 	</div>
 
 	<div class="project">
-		<h4 class="project-title"><a href="sample-project/">Camera Simulation</a></h4>
+		<h4 class="project-title"><a href="https://github.com/momohuang/Virtual-Camera-Simulation" target="_blank">Camera Simulation</a><img style="width: 1.3em;height: 1.3em;margin-left: 0.7rem;" src="{{ site.baseurl }}/assets/img/GitHub-Mark.png"></h4>
 		<a href="{{ site.baseurl }}/assets/img/lenses.png" target="_blank">
 			<img width="100%" style="margin:0px auto;display:block" src="{{ site.baseurl }}/assets/img/lenses.png">
 		</a>
@@ -107,7 +111,7 @@ permalink: /course/
 	</div>	
 
 	<div class="project">
-		<h4 class="project-title"><a href="sample-project/">Heightfield Geometry</a></h4>
+		<h4 class="project-title"><a href="https://github.com/momohuang/Heightfield" target="_blank">Heightfield Geometry</a><img style="width: 1.3em;height: 1.3em;margin-left: 0.7rem;" src="{{ site.baseurl }}/assets/img/GitHub-Mark.png"></h4>
 		<a href="{{ site.baseurl }}/assets/img/height.png" target="_blank">
 			<img width="100%" style="margin:0px auto;display:block" src="{{ site.baseurl }}/assets/img/height.png">
 		</a>
@@ -118,7 +122,7 @@ permalink: /course/
 	<div class="grid no-gutters">
 		<div class="unit half">
 			<div class="project">
-				<h4 class="project-title"><a href="https://spiketren.gitbooks.io/psy101/content/ch5/hot.html" target="_blank">Recent Advances in Consciousness</a></h4>
+				<h4 class="project-title"><a href="https://spiketren.gitbooks.io/psy101/content/ch5/hot.html" target="_blank">Recent Advances in Consciousness</a><img style="width: 1.3em;height: 1.3em;margin-left: 0.7rem;" src="{{ site.baseurl }}/assets/img/book.jpg"></h4>
 				<a href="http://www.nytimes.com/2010/09/21/science/21consciousness.html?emc=eta1&_r=0" target="_blank">
 					<img width="95%" style="margin:0px auto;display:block" src="{{ site.baseurl }}/assets/img/conscious.jpg">
 				</a>
@@ -128,7 +132,7 @@ permalink: /course/
 		</div>
 		<div class="unit half">
 			<div class="project">
-				<h4 class="project-title"><a href="sample-project/">Environment Light</a></h4>
+				<h4 class="project-title"><a href="https://github.com/momohuang/Environment-Light" target="_blank">Environment Light</a><img style="width: 1.3em;height: 1.3em;margin-left: 0.7rem;" src="{{ site.baseurl }}/assets/img/GitHub-Mark.png"></h4>
 				<a href="{{ site.baseurl }}/assets/img/envlight.png" target="_blank">
 					<img width="100%" style="margin:0px auto;display:block" src="{{ site.baseurl }}/assets/img/envlight.png">
 				</a>
@@ -141,7 +145,7 @@ permalink: /course/
 	<div class="grid no-gutters">
 		<div class="unit half">
 			<div class="project">
-				<h4 class="project-title"><a href="sample-project/">Online Casino</a></h4>
+				<h4 class="project-title"><a href="https://github.com/momohuang/Online-Casino" target="_blank">Online Casino</a><img style="width: 1.3em;height: 1.3em;margin-left: 0.7rem;" src="{{ site.baseurl }}/assets/img/GitHub-Mark.png"></h4>
 				<a href='https://wall.alphacoders.com/big.php?i=427236' target="_blank"><img src='https://images8.alphacoders.com/427/427236.jpg' width="95%"></a>
 				<div style="clear:both;height:0.8em;"></div>
 				<p>In this project, I have designed an online casino that support up to 100 players via multithreaded programming. The players connect to the server through TCP socket, while several players can compete in the same game. The casino currently support two games: "Blackjack" and "Guess the number". Additionally, I have wrote an AI player that can help you (win fictitious money) through the game. Everything is wrote from scratch using C++. A detailed report can be downloaded <a href="{{ site.baseurl }}/assets/img/casino_report.pdf" target="_blank">from here</a>. (the image is from <a href='https://wall.alphacoders.com/big.php?i=427236' target="_blank">Alpha Coders</a>)</p>
@@ -149,7 +153,7 @@ permalink: /course/
 		</div>
 		<div class="unit half">
 			<div class="project">
-				<h4 class="project-title"><a href="sample-project/">Email System</a></h4>
+				<h4 class="project-title"><a href="https://github.com/momohuang/Email-System" target="_blank">Email System</a><img style="width: 1.3em;height: 1.3em;margin-left: 0.7rem;" src="{{ site.baseurl }}/assets/img/GitHub-Mark.png"></h4>
 				<a href="{{ site.baseurl }}/assets/img/Trie.png" target="_blank">
 					<img width="95%" style="margin:0px auto;display:block" src="{{ site.baseurl }}/assets/img/Trie.png">
 				</a>

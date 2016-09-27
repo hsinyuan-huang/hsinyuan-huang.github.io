@@ -29,9 +29,6 @@ navigation:
   - title: Coursework
     url: /course/
     desc: courses I have taken
-  - title: Projects
-    url: /projects/
-    desc: Stuffs I like to do
   - title: Research
     url: /research/
     desc: details of my research

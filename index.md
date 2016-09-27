@@ -5,7 +5,7 @@ layout: default
 <div class="lead pretty-links">
   Welcome to my personal webpage.
   
-  My full name is **Hsin-Yuan Huang** (or in Chinese characters: 黃信元). If you find it difficult to remember or pronounce, you can also call me, Robert. To learn more about me, you may [click here](about/).
+  My full name is **Hsin-Yuan Huang** (or in Chinese characters: 黃信元). If you find it difficult to remember or pronounce, you can also call me, **Robert**. To learn more about me, you may [click here](about/).
   
   I am currently an undergraduate student in National Taiwan University, where I double-majored in (and enchanted by) **Computer Science** and **Physics**. For some interesting projects I have done in taking the courses, please go to the [Coursework page](course/).
 
