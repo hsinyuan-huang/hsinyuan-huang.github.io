@@ -22,7 +22,13 @@ permalink: /research/
 	<div class="unit whole">
       <div class="project">
         <h4 class="project-title"><a href="autoML/">Automatic Machine Learning</a></h4>
-		<p>While machine learning is useful in many area, it remains challenging for both experts and non-experts to apply them to a newly encountered problem. In particular, we focus on classification problem where we try to learn an algorithm to classify each feature vectors to a discrete class. One method, called <strong>kernel classifier</strong>, achieves the best score for most problems, but is extremely slow. Another method, called <strong>linear classifier</strong>, can sometimes be as good as kernel classifier (while losing for the rest), but is extremely fast. In this work, we propose method that can tell you whether you need to train the bulky kernel classifier when you arrived at a new problem.</p>
+		<a href="{{ site.baseurl }}/assets/img/phylo.png" target="_blank">
+			<img width="99.2%" style="margin:0px auto;display:block" src="{{ site.baseurl }}/assets/img/fig_for_website.png">
+		</a>
+		<div style="clear:both;height:1em;"></div>		
+
+		<p>While machine learning is useful in many area, it remains challenging for both experts and non-experts to apply them to a newly encountered problem. In particular, we focus on classification problem where we try to learn an algorithm to classify each feature vectors to a discrete class. One method, called <strong>kernel classifier</strong>, achieves the best score for most problems, but is extremely slow. Another method, called <strong>linear classifier</strong>, can sometimes be as good as kernel classifier (while losing for others), but is extremely fast. In this work, we tackle the problem of deciding whether you need to train the bulky kernel classifier when you arrived at a new learning problem.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Finding the solution with a single pass on the data set is extremely difficult. So we propose to make decision by training a <strong>special classifier</strong> that is efficient and satisfy the same relation with linear classifiers (i.e. if kernel >> linear, then special classifier >> linear; if kernel ~ linear, then special classifier ~ linear). Thus by comparing the relation between the special and the linear classifier, we can predict the behaviour of the expensive kernel classifier. Note that the usefulness of this strategy depends on the efficiency of the special classifier, where our proposed method is able to run in <strong>similar time as linear classfier</strong>. And has excellent prediction performance when used empirically.</p>
+		<p>Publication:<br><strong>H.-Y. Huang</strong>, C.-J. Lin. Linear and Kernel Classification: When to Use Which?, SIAM International Conference on Data Mining (2016). <a href="{{ site.baseurl }}/assets/img/kcheck.pdf" target="_blank">[pdf]</a> <a href="{{ site.baseurl }}/assets/img/kcheck_supplement.pdf" target="_blank">[supp]</a> <a href="{{ site.baseurl }}/assets/img/kcheck_experiment.zip">[code]</a></p>
       </div>
     </div>
   </div>
@@ -30,8 +36,24 @@ permalink: /research/
   <div class="grid no-gutters">
 	<div class="unit whole">
       <div class="project">
-		  <h4 class="project-title"><a href="ppinet/">Human Protein Interaction Network</a></h4>
-		<p></p>
+		<h4 class="project-title"><a href="">Human Protein Interaction Network</a></h4>
+		  
+		<div class="grid no-gutters">
+			<div class="unit half">
+				<a href="{{ site.baseurl }}/assets/img/phylo.png" target="_blank">
+				<img width="99.2%" style="margin:0px auto;display:block" src="{{ site.baseurl }}/assets/img/phylo.png">
+				</a>
+			</div>
+			<div class="unit half">
+				<a href="{{ site.baseurl }}/assets/img/phylo_loc.png" target="_blank">
+				<img width="88%" style="margin:0px auto;display:block" src="{{ site.baseurl }}/assets/img/phylo_loc.png">
+				</a>
+			</div>
+		</div><!-- grid -->
+		<div style="clear:both;height:1em;"></div>
+
+		<p>Proteins are important building blocks for living cells, which in terms builds up our lively human body. In order to study proteins in a more systematic way, biologists have formed a topological structure by considering the interaction between varying proteins. This is the <a href="http://www.sciencedirect.com/science/article/pii/S0092867405008664" target="_blank">protein-protein interaction network</a>, or a protein graph using mathematical jargon. Just as different age group bahave differently in our society (e.g. elders tend to be more conservative, while adolescents are more impetuous), we propose to decompose this convoluted network into <strong>different age group</strong>; and study the graph structure under such decomposition.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;But what is the age of a protein? In this work, we define <strong>protein age</strong> as it's evolutionary age, the time of it's debut into living species. This phylogenetic (or evolutionary in a simpler term) decomposition is shown in the top left picture. Using such decomposition, we found that the <a href="http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.91.138701" target="blank">standard protein network evolution model</a> is inconsistent with our result. Thus we proposed a modified evolution model, perturbation avoidance model, to explain this inconsistency. Furthermore, we also discovered that older proteins tend to situate not only at geographical center (as shown in the top right picture), but also at the <strong>topological center</strong>. For more detail, please refer to our publication.</p>
+		<p>Publication:<br>C.-Y. Chen, A. Ho, <strong>H.-Y. Huang</strong>, H.-F. Juan, H.-C. Huang. Dissecting the human protein-protein interaction network via phylogenetic decomposition, Scientific reports (2014). <a href="{{ site.baseurl }}/assets/img/srep07153.pdf" target="_blank">[pdf]</a> <a href="{{ site.baseurl }}/assets/img/srep07153-s1.pdf" target="_blank">[supp]</a></p>
       </div>
     </div>
   </div>
