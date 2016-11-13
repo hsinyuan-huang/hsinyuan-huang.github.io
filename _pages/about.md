@@ -19,7 +19,7 @@ permalink: /about/
 		I am Hsin-Yuan Huang (黃信元) from National Taiwan University,
 		currently in my third year of undergraduate.
 		I have been studying extensively in computer science and physics.
-		And have been doing research in Machine Learning under the supervision of <a href="https://www.csie.ntu.edu.tw/~cjlin/" target="_blank">prof. Chih-Jen Lin</a>.
+		And have been doing research in Machine Learning under the supervision of <a href="https://www.csie.ntu.edu.tw/~cjlin/" target="_blank">Prof. Chih-Jen Lin</a>.
 	</p>
 	<p>
 		Particularly, I love the following things:
