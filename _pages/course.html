@@ -6,10 +6,30 @@ desc: My Course Projects
 permalink: /course/
 ---
 
-<p>Click on the project titles to access: the source code for projects with <img style="width: 1.3rem;height: 1.3rem;position:relative;top:-0.2rem;" src="{{ site.baseurl }}/assets/img/GitHub-Mark.png"> mark; the Youtube video for projects with <img style="width: 1.3rem;position:relative;top:-0.15rem;" src="{{ site.baseurl }}/assets/img/YouTube.png"> mark; the Gitbook for project with <img style="width: 1.3rem;position:relative;top:-0.15rem;" src="{{ site.baseurl }}/assets/img/book.jpg"> mark.<p>
+<p>Click on the project titles to access: the source code for projects with <img style="width: 1.3rem;height: 1.3rem;position:relative;top:-0.2rem;" src="{{ site.baseurl }}/assets/img/GitHub-Mark.png"> mark; the YouTube video for projects with <img style="width: 1.3rem;position:relative;top:-0.15rem;" src="{{ site.baseurl }}/assets/img/YouTube.png"> mark; the Gitbook for project with <img style="width: 1.3rem;position:relative;top:-0.15rem;" src="{{ site.baseurl }}/assets/img/book.jpg"> mark. If there are multiple marks, then only the first one will be accessed.<p>
 <p>For the list of theoretical physics courses that I have taken, please <a href="/course/physics-list/">click here</a>.</p>
 
 <div class="projects">
+	<div class="grid no-gutters">
+		<div class="unit whole">
+			<div class="project">
+				<h4 class="project-title">
+					<a href="https://github.com/momohuang/computational-quantum-mechanics" target="_blank">Computational Quantum Mechanics</a>
+					<img style="width: 1.3em;height: 1.3em;margin-left: 0.5rem;" src="{{ site.baseurl }}/assets/img/GitHub-Mark.png">
+					<img style="width: 1.9rem;margin-left: 0.3rem;" src="{{ site.baseurl }}/assets/img/YouTube.png">
+				</h4>
+				<a href="https://youtu.be/tgJXdQFXmN0" target="_blank">
+					<img width="100%" style="margin:0px auto;display:block" src="{{ site.baseurl }}/assets/img/FGH.png">
+				</a>
+				<div style="clear:both;height:0.2em;"></div>
+				<div style="clear:both;height:1em;"></div>
+				<p>While quantum mechanics can accurately describe our universe, the equation governing the quantum system is too complicated to be soluble through human analysis. To apply this great theory to real world scenarios, such as in the investigation of electronic structure or in the prediction of complex system in atomic scale, we have to resort to computational approach. In this project, I studied and implemented two well-known approach for solving the properties of quantum systems: <strong>the Fourier grid Hamiltonian method</strong> and <strong>Quantum Monte Carlo method</strong>.
+				<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fourier grid Hamiltonian (FGH) method elegantly discretized the problem through momentum space representation into an finite Eigenvalue problem. The eigenvalue decomposition is solved using <a href="http://eigen.tuxfamily.org/index.php?title=Main_Page" target="_blank">Eigen Library</a> in my implementation. The above artistic figures are electron excited states computed using this method. The lowest 150 excited states for 2D simple harmonic oscillator and for a special potential can be found <a href="https://goo.gl/PP5vNZ" target="_blank">here</a> and <a href="https://goo.gl/lnhQGO" target="_blank">here</a> on DropBox.
+				<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Quantum Monte Carlo (QMC) method is an interesting algorithm that can efficiently solve for the ground state property of any multiple-Boson system. The idea is to propagate in the imaginary time through <a href="https://en.wikipedia.org/wiki/Path_integral_formulation">Feynman's Path Integral Formulation</a>. And by viewing the imaginary time propagation as a birth-death process with random walking replicas. A visualization of this method is available on <a href="https://youtu.be/tgJXdQFXmN0" target="_blank">YouTube</a> <strong>(or you can simply click the above figure)</strong>. I have also implemented some real-world situations to demonstrate the effectiveness of this method. Please see <a href="{{ site.baseurl }}/assets/img/FGH_and_QMC.pdf" target="_blank">my detailed report</a>.</p>
+			</div>
+		</div>
+	</div><!-- grid -->
+
 	<div class="grid no-gutters">
 		<div class="unit whole">
 			<div class="project">
