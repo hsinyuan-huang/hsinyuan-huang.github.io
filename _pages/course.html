@@ -48,7 +48,7 @@ permalink: /course/
 				<p>In this project, we wrote a program that can automatically stitch and blend several photos to create panorama. First of all, we warp the images onto a cylinder so they can be joined. Then we apply feature detection and feature matching algorithm (using <a href="http://graphics.cs.cmu.edu/courses/15-463/2005_fall/www/Papers/MOPS.pdf" target="_blank">MSOP</a> and KD-tree) to find the corresponding pixels in consecutive images. Next, we use <a href="http://www.wikiwand.com/en/RANSAC" target="_blank">RANSAC</a> algorithm to robustly stitch the images by exploiting the pixel matching informations. Then we perform a greedy graph cut algorithm to find good seamlines between consecutive images. And at last, we wrote a conjugate gradient solver to solve for the partial differential equation (with the seamline found using graph cut as the boundary condition) used in <a href="https://www.cs.jhu.edu/~misha/Fall07/Papers/Perez03.pdf" target="_blank">Poisson Blending</a> to seamlessly combine the images. Due to our sophisticated blending technique, our produced panorama is robust and natural. For example, it can handle the case when people have moved during the shooting of panorama. Therefore our artifacts have <strong>won the first place</strong> when taking this course with ~130 competitors. We have wrote everything in C++ with openCV for image I/O. A detailed report can be downloaded <a href="{{ site.baseurl }}/assets/img/panorama_report.pdf" target="_blank">from here</a>.</p>
 			</div>
 		</div>
-	</div><!-- grid --> 
+	</div><!-- grid -->
 
 	<div class="project">
 		<h4 class="project-title"><a href="https://github.com/momohuang/SPH-Fluid-Simulation" target="_blank">Fluid Simulation with SPH</a><img style="width: 1.3em;height: 1.3em;margin-left: 0.7rem;" src="{{ site.baseurl }}/assets/img/GitHub-Mark.png"></h4>
@@ -63,7 +63,7 @@ permalink: /course/
 				<video width="99%" controls>
 					<source src="{{ site.baseurl }}/assets/img/water_fluid.mp4" type="video/mp4">
 					Your browser does not support the video tag.
-				</video> 
+				</video>
 			</div>
 		</div><!-- grid -->
 		<div style="clear:both;height:1em;"></div>
@@ -79,7 +79,7 @@ permalink: /course/
 		<p>In this project, our goal is to identify and correct redundant words that appear in a Chinese sentence. This problem requires both identification and correction. For identification, we combine rule-based and language model based approaches. First, we used hypothesis test to find erroneous trigrams (consists of both POS and word) that collocate with redundancy. Then we extract probability information from the language model used in <a href="http://nlp.stanford.edu/software/tagger.shtml">Stanford POS tagger</a>. The two informations are combined through training a <a href="https://www.csie.ntu.edu.tw/~cjlin/liblinear/" target="_blank">logistic regression</a> model with features from both methods. For correction, we have tried two different strategy. One is to train a <a href="http://www.chokkan.org/software/crfsuite/" target="_blank">conditional random field</a> that can predict the label of each word segment (being redundant or not) in a sentence. Another attempt is to train a language model through accessing the raw data of <a href="http://storage.googleapis.com/books/ngrams/books/datasetsv2.html" target="_blank">Google N-gram</a>. Then we remove the word segment that can substantially boost the sentence's language model probability. Note that working with Google N-gram takes great effort, since the raw data of Google N-gram already takes several terabytes to store. We have wrote everything in Python and Shell Script. A detailed report can be downloaded <a href="{{ site.baseurl }}/assets/img/NLP_report.pdf" target="_blank">from here</a>.</p>
 	</div>
 
-	<div class="grid no-gutters">  
+	<div class="grid no-gutters">
 		<div class="unit whole">
 			<div class="project">
 				<h4 class="project-title"><a href="https://github.com/momohuang/High-Dynamic-Range" target="_blank">High Dynamic Range Imaging</a><img style="width: 1.3em;height: 1.3em;margin-left: 0.7rem;" src="{{ site.baseurl }}/assets/img/GitHub-Mark.png"></h4>
@@ -128,7 +128,7 @@ permalink: /course/
 		</a>
 		<div style="clear:both;height:0.8em;"></div>
 		<p>In this project, we created a realistic camera module in the <a href="http://www.pbrt.org" target="_blank">pbrt system</a>. Given the configuration of any camara (the position and the property of the lenses and the aperture), we can let you use the camera to take pictures in the 3D digital world. For example, we have created Fisheye camera, Double-Gauss camera, Wide-angle camera and Superachromat telescope as shown in the above pictures. Everything is written from scratch using C++. A detailed report can be downloaded <a href="{{ site.baseurl }}/assets/img/camera_report.pdf" target="_blank">from here</a>.</p>
-	</div>	
+	</div>
 
 	<div class="project">
 		<h4 class="project-title"><a href="https://github.com/momohuang/Heightfield" target="_blank">Heightfield Geometry</a><img style="width: 1.3em;height: 1.3em;margin-left: 0.7rem;" src="{{ site.baseurl }}/assets/img/GitHub-Mark.png"></h4>
@@ -137,7 +137,7 @@ permalink: /course/
 		</a>
 		<div style="clear:both;height:0.8em;"></div>
 		<p>In this project, we created a height field geometry written in <a href="http://www.pbrt.org" target="_blank">pbrt system</a>, a popular photorealistic rendering system. Although it has already been implemented in the system, the goal in this project is to speed up the original ray-geometry intersection algorithm. I have tried several different algorithm, including variants of digital differential algorithm and KD-tree. My final acceleration structure is five times faster than the original implementation under multicore setting. Everything is written from scratch using C++. A detailed report can be downloaded <a href="{{ site.baseurl }}/assets/img/height_report.pdf" target="_blank">from here</a>.</p>
-	</div>	
+	</div>
 
 	<div class="grid no-gutters">
 		<div class="unit half">
@@ -159,8 +159,8 @@ permalink: /course/
 				<div style="clear:both;height:0.8em;"></div>
 				<p>In 3D rendering, people often used point light or parallel light as the light sources. However to create a more natural lighting, environment light should be employed. The problem of environment light is that it will significantly lengthen the rendering time of the scene. In this project, we approximate the environment light using several point lights to speed up the process. We have implemented two methods proposed by Debevec et. al. (<a href="http://gl.ict.usc.edu/Research/MedianCut/MedianCutSampling.pdf" target="_blank">Median cut</a> and <a href="http://gl.ict.usc.edu/Research/VarianceMin/VarianceMinimization_SIG09.pdf" target="_blank">Variance minimization</a> algorithm). A detailed report can be downloaded <a href="{{ site.baseurl }}/assets/img/light_report.pdf" target="_blank">from here</a>.</p>
 			</div>
-		</div>	
-	</div><!-- grid --> 
+		</div>
+	</div><!-- grid -->
 
 	<div class="grid no-gutters">
 		<div class="unit half">
