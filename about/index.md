@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Hsin-Yuan Huang
+title: About
 tags: [about]
 date: 2018-02-04
 comments: false
