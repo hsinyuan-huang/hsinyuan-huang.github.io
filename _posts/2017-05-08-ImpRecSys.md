@@ -3,7 +3,7 @@ layout: post
 title:  "Implicit-Feedback Recommender System"
 date:   2017-05-08
 excerpt: "H.-F. Yu, <strong>H.-Y. Huang</strong>, I. S. Dhillon, C.-J. Lin. A Unified Algorithm for One-class Structured Matrix Factorization with Side Information. AAAI Conference on Artificial Intelligence (AAAI 2017)."
-feature_fig: <figure><img src="http://127.0.0.1:4000/assets/img/ImpRecSys/imp_feed_RecSys.jpg"></figure>
+feature_fig: <figure><img src="https://momohuang.github.io/assets/img/ImpRecSys/imp_feed_RecSys.jpg"></figure>
 research: true
 tag:
 - Research Project

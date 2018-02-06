@@ -9,7 +9,7 @@ logo:               'assets/img/logo.png'
 background:         'assets/img/background.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                http://127.0.0.1:4000 # cmd-shift-f and replace with https://momohuang.github.io
+url:                https://momohuang.github.io # cmd-shift-f and replace with https://momohuang.github.io
 
 # Jekyll
 permalink:          /:title/
