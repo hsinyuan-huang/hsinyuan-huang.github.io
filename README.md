@@ -1,4 +1,3 @@
-This repository creates my showcase webpage at https://momohuang.github.io.
+# Hsin-Yuan Huang's Homepage
 
-I have adapted this website from Jackal, a lightweight theme for Jekyll.
-https://github.com/clenemt/jackal
+Adapted from Moon Jekyll theme: https://github.com/TaylanTatli/Moon.
