@@ -6,7 +6,7 @@ description:        "A CS & Physics undergraduate specializing in machine learni
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
-background:
+background:         
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://momohuang.github.io # cmd-shift-f and replace with https://momohuang.github.io
