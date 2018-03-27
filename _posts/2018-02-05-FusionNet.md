@@ -2,7 +2,7 @@
 layout: post
 title:  "Machine Reading Comprehension"
 date:   2018-02-05
-excerpt: "<strong>H.-Y. Huang</strong>, C. Zhu, Y. Shen, W. Chen. FuionNet: Fusing via Fully-aware Attention with Application to Machine Comprehension. Sixth International Conference on Learning Representations (ICLR 2018)."
+excerpt: "<strong>H.-Y. Huang</strong>, C. Zhu, Y. Shen, W. Chen. FusionNet: Fusing via Fully-aware Attention with Application to Machine Comprehension. Sixth International Conference on Learning Representations (ICLR 2018)."
 feature_fig: <figure><img src="https://momohuang.github.io/assets/img/FusionNet/fusionnet.jpg"></figure>
 research: true
 tag:
@@ -57,4 +57,4 @@ Furthermore, we improved the previous best-reported number by <strong>+5%</stron
 <a href="https://worksheets.codalab.org/worksheets/0xc86d3ebe69a3427d91f9aaa63f7d1e7d/" target="_blank">
 an adversarial dataset for machine comprehension</a>. Furthermore, it also shows decent improvement when applied
 on natural language inference task.</p>
-<p><u>Publication:</u><br><strong>H.-Y. Huang</strong>, C. Zhu, Y. Shen, W. Chen. FuionNet: Fusing via Fully-aware Attention with Application to Machine Comprehension. Sixth International Conference on Learning Representations (ICLR 2018).</p>
+<p><u>Publication:</u><br><strong>H.-Y. Huang</strong>, C. Zhu, Y. Shen, W. Chen. FusionNet: Fusing via Fully-aware Attention with Application to Machine Comprehension. Sixth International Conference on Learning Representations (ICLR 2018).</p>
