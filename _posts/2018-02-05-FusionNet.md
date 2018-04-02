@@ -3,7 +3,7 @@ layout: post
 title:  "Machine Reading Comprehension"
 date:   2018-02-05
 excerpt: "<strong>H.-Y. Huang</strong>, C. Zhu, Y. Shen, W. Chen. FusionNet: Fusing via Fully-aware Attention with Application to Machine Comprehension. Sixth International Conference on Learning Representations (ICLR 2018)."
-feature_fig: <figure><img src="http://127.0.0.1:4000/assets/img/FusionNet/fusionnet.jpg"></figure>
+feature_fig: <figure><img src="https://momohuang.github.io/assets/img/FusionNet/fusionnet.jpg"></figure>
 research: true
 tag:
 - Research Project
