@@ -12,13 +12,13 @@ comments: true
 
 ## Motivation
 
-Over the four undergraduate years, I have been fully immersing in machine learning research. From statistical learning theory, recommender system optimization to deep learning application in natural language processing, I have touched a wide range of different flavors in this field. It has been a fun ride, and I would never regret entering this field during my freshman year. However, after a long time of contemplation, I decided not to continue in the popular machine learning research (to continue in ML research, it would otherwise be great to choose the prestigious CMU machine learning department for Ph.D. study).
+Over the four undergraduate years, I have been fully immersing in machine learning research. From statistical learning theory, recommender system optimization to deep learning application in natural language processing, I have touched a wide range of different flavors in this field. It has been a fun ride, and I would be equally great to continue in this line of research. However, after a long time of contemplation, I decided not to continue in the popular machine learning research (to continue in ML research, I would otherwise choose the prestigious CMU machine learning department for Ph.D. study).
 
 <figure>
     <img src="{{site.url}}/assets/img/Caltech/AI_rank.png">
 </figure>
 
-Within these one or two years, a lot of people start to become interested in machine learning, and a large portion of them jump into this field. I believe the biggest reason is that the entry bar for deep learning has become pretty low. No rigorous math or brilliant algorithmic design is needed to do cutting-edge research. I see this as a sign of maturity in the mainstream machine learning research (i.e., deep learning). This is great as machine learning can now have the maximum impact possible. However, I do not like participating in a mature and popular field.
+Within these one or two years, a lot of people start to become interested in machine learning, and a large portion of them jump into this field. I believe the biggest reason is that the entry bar for deep learning has become relatively low. No advanced math or brilliant algorithmic design is needed to do cutting-edge research. I see this as a sign of maturity in the mainstream machine learning research (i.e., deep learning). This is great as machine learning can now have the maximum impact possible. However, I do not like participating in a mature and popular field.
 
 + As the field grows mature, there is not much room left for revolutionary improvement. And I would be a contributor rather than a pathfinder.
 + Since many people are interested in doing machine learning (deep learning) research, there is no urgent need for me to help the field grow.
@@ -47,9 +47,9 @@ By extrapolating from the history, we can see that mainstream AI techniques depe
 5. General-purpose large quantum computers: ?
 
 As a result, I believe there is a lot of potential in the intersection of quantum technology and artificial intelligence.
-However, this is a field that not much computer science people is looking into.
+However, this is a field that not much computer science people are looking into.
 
-+ Most computer science people are absorbed in its field. Since under the current regime, people in this field can gain a lot of profit compared to people doing quantum technology.
++ Most computer science people are absorbed in its own field. Since currently, people in this field can gain a lot of profit compared to people doing quantum technology.
 + Most computer science people lack the interest and knowledge to conduct quantum technology research since it has a relatively high entry bar.
 
 <div style="margin-bottom: 0.5cm"> </div>
@@ -65,7 +65,7 @@ Here are just some of the broad questions that I hope to explore during my Ph.D.
 
 + What kind of machine learning paradigm would be more suitable for quantum computers? I don't believe directly applying deep learning to quantum computers is the right thing to do.
 + What kind of new capability can be achieved on quantum computers? Besides some well-known examples such as cracking RSA or quantum system simulation.
-+ How to transform exciting results in theoretical quantum information research into the new application in quantum technology?
++ How to transform exciting results in theoretical quantum information research into a new application in quantum technology?
 + How can machine learning be used to improve the design of quantum computers?
 
 During my Ph.D. study at Caltech, I want to challenge myself and venture into this wild and dark forest to retrieve something precious for the advance of human technology.
