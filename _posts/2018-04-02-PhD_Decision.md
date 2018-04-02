@@ -12,7 +12,7 @@ comments: true
 
 ## Motivation
 
-Over the four undergraduate years, I have been fully immersing in machine learning research. From statistical learning theory, recommender system optimization to deep learning application in natural language processing, I have touched a wide range of different flavors in this field. It has been a fun ride, and I would be equally great to continue in this line of research. However, after a long time of contemplation, I decided not to continue in the popular machine learning research (to continue in ML research, I would otherwise choose the prestigious CMU machine learning department for Ph.D. study).
+Over the four undergraduate years, I have been fully immersing in machine learning research. From statistical learning theory, recommender system optimization to deep learning application in natural language processing, I have touched a wide range of different flavors in this field. It has been a fun ride, and I would be equally great to continue in this line of research. However, after a long time of contemplation, I decided not to continue in the popular machine learning research (to continue in mainstream ML research, I would be more likely to choose CMU machine learning department for Ph.D. study).
 
 <figure>
     <img src="{{site.url}}/assets/img/Caltech/AI_rank.png">
