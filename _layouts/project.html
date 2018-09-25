@@ -26,6 +26,17 @@ layout: compress
                         {% if post.project %}
                     <ul>
                         <li class="wow" data-wow-duration="1.0s">
+                            {% if post.is_redirected %}
+                            <a class="zoombtn" href="{{ post.redirection_url }}">
+                              {% if post.is_featured %}
+                              <img style="width: 2.2cm;float:right;" src="{{ site.url }}/assets/img/feature.jpg">
+                              {% endif %}
+                              {{ post.title }}
+                            </a>
+                            <p>{{ post.excerpt }}</p>
+                            {{ post.feature_fig }}
+                            <a href="{{ post.redirection_url }}" class="btn zoombtn">Read More</a>
+                            {% else %}
                             <a class="zoombtn" href="{{ site.url }}{{ post.url }}">
                               {% if post.is_featured %}
                               <img style="width: 2.2cm;float:right;" src="{{ site.url }}/assets/img/feature.jpg">
@@ -35,6 +46,7 @@ layout: compress
                             <p>{{ post.excerpt }}</p>
                             {{ post.feature_fig }}
                             <a href="{{ site.url }}{{ post.url }}" class="btn zoombtn">Read More</a>
+                            {% endif %}
                         </li>
                     </ul>
                       {% endif %}
