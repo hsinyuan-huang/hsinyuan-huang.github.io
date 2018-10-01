@@ -34,9 +34,15 @@ layout: compress
                               <img style="width: 2.2cm;float:right;" src="{{ site.url }}/assets/img/blog.jpg">
                               {% endif %}
                             {% endif %}
+                            {% if post.is_redirected %}
+                            <a class="zoombtn" href="{{ post.redirection_url }}">{{ post.title }}</a>
+                            <p>{{ post.excerpt }}</p>
+                            <a href="{{ post.redirection_url }}" class="btn zoombtn">Read More</a>
+                            {% else %}
                             <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
                             <p>{{ post.excerpt }}</p>
                             <a href="{{ site.url }}{{ post.url }}" class="btn zoombtn">Read More</a>
+                            {% endif %}
                         </li>
                     </ul>
                     {% endfor %}
