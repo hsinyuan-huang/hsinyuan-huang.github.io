@@ -11,7 +11,7 @@ During undergraduate, I have been studying extensively in computer science and p
 
 ## My Research Interest:
 
-I am interested in the outer product of quantum and AI. Things orbiting in my mind includes:
+I am interested in the outer product of quantum and AI. Things orbiting in my mind include:
 * How AI can help quantum technology and fundamental physics research?
 * What kind of new machine learning paradigm could emerge on quantum computers?
 * What are some near-term applications of <a href="https://arxiv.org/abs/1801.00862" target="_blank">NISQ technology</a>?
