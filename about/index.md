@@ -9,19 +9,19 @@ comments: false
 I am Hsin-Yuan Huang (黃信元), a Ph.D. student beginning at California Institute of Technology (Caltech).
 During undergraduate, I have been studying extensively in computer science and physics; with previous research experiences in Machine Comprehension (at <a href="https://allenai.org/" target="_blank">Allen Institute of AI</a> and <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-ai/" target="_blank">Microsoft Research AI</a>), Optimization, and Statistical Machine Learning (with <a href="https://www.csie.ntu.edu.tw/~cjlin/" target="_blank">Prof. Chih-Jen Lin</a>).
 
-<figure class="half">
-	<img src="{{base.url}}/assets/img/me-1.jpg" class="img-disappear">
-  <img src="{{base.url}}/assets/img/me-2.jpg">
-</figure>
-
-<center><span style="font-size: 130%;">Click here to download my CV: &nbsp;&nbsp;&nbsp;</span> <a href="{{base.url}}/assets/img/cv-Robert.pdf" target="_blank" class="btn btn-success"><span style="font-size: 130%;">Curriculum Vitae</span></a></center>
-
 ## My Research Interest:
 
 I am interested in the outer product of quantum and AI. Things orbiting in my mind includes:
 * How AI can help quantum technology and fundamental physics research?
 * What kind of new machine learning paradigm could emerge on quantum computers?
 * What are some near-term applications of <a href="https://arxiv.org/abs/1801.00862" target="_blank">NISQ technology</a>?
+
+<figure class="half">
+	<img src="{{base.url}}/assets/img/me-1.jpg" class="img-disappear">
+  <img src="{{base.url}}/assets/img/me-2.jpg">
+</figure>
+
+<center><span style="font-size: 130%;">Click here to download my CV: &nbsp;&nbsp;&nbsp;</span> <a href="{{base.url}}/assets/img/cv-Robert.pdf" target="_blank" class="btn btn-success"><span style="font-size: 130%;">Curriculum Vitae</span></a></center>
 
 <!---
 Our world is much more to than meets the eye. There are always fascinating equation of motion or some form of latent representation that is guiding our movement and behaviour. This is the case in physics, which is the central reason why I have the penchant for learning physics. Similarly, in machine learning, finding a good latent representation is very crucial. A good representation often accompany substantially improvement in prediction performance, e.g., take a look at my research project: [Implicit-Feedback Recommender System]({{ site.baseurl }}/research).
