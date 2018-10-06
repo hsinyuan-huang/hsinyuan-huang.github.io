@@ -16,7 +16,7 @@ I am interested in the outer product of quantum and AI. Things orbiting in my mi
 * What are some near-term applications of <a href="https://arxiv.org/abs/1801.00862" target="_blank">NISQ technology</a>?
 * What kind of new machine learning paradigm could emerge on quantum computers?
 
-Be cautious that it is not clear whether AI would help much and whether NISQ technology would be greatly useful. It is likely that they will both be limited. And we are still years (maybe decades) away to have a fully-functional fault-tolerant quantum computers.
+*Be cautious* that it is not clear whether AI would help much and whether NISQ technology would be greatly useful. It is likely that they will both be limited. And we are still years (maybe decades) away to have a fully-functional fault-tolerant quantum computers.
 I just believe these are important questions worth exploring in the long-term and I really enjoy thinking about physics.
 
 <figure class="half">
