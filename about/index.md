@@ -7,14 +7,17 @@ comments: false
 ---
 
 I am Hsin-Yuan Huang (黃信元), a Ph.D. student beginning at California Institute of Technology (Caltech).
-During undergraduate, I have been studying extensively in computer science and physics; with previous research experiences in Machine Comprehension (at <a href="https://allenai.org/" target="_blank">Allen Institute of AI</a> and <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-ai/" target="_blank">Microsoft Research AI</a>), Optimization, and Statistical Machine Learning (with <a href="https://www.csie.ntu.edu.tw/~cjlin/" target="_blank">Prof. Chih-Jen Lin</a>).
+During undergraduate, I studied extensively in computer science and physics; with previous research experiences in Machine Comprehension (at <a href="https://allenai.org/" target="_blank">Allen Institute of AI</a> and <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-ai/" target="_blank">Microsoft Research AI</a>), Optimization, and Statistical Machine Learning (with <a href="https://www.csie.ntu.edu.tw/~cjlin/" target="_blank">Prof. Chih-Jen Lin</a>).
 
 ## My Research Interest:
 
 I am interested in the outer product of quantum and AI. Things orbiting in my mind include:
 * How AI can help quantum technology and fundamental physics research?
-* What kind of new machine learning paradigm could emerge on quantum computers?
 * What are some near-term applications of <a href="https://arxiv.org/abs/1801.00862" target="_blank">NISQ technology</a>?
+* What kind of new machine learning paradigm could emerge on quantum computers?
+
+Be cautious that it is not clear whether AI would help much and whether NISQ technology would be greatly useful. It is likely that they will both be limited. And we are still years (maybe decades) away to have a fully-functional fault-tolerant quantum computers.
+I just believe these are important questions worth exploring in the long-term and I really enjoy thinking about physics.
 
 <figure class="half">
 	<img src="{{base.url}}/assets/img/me-1.jpg" class="img-disappear">
