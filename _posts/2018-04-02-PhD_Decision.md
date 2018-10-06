@@ -23,7 +23,7 @@ Within these one or two years, a lot of people become interested in machine lear
 + As the field grows mature, there is not much room left for revolutionary improvement. And I would be a contributor rather than a pathfinder.
 + Since many people are interested in doing machine learning (deep learning) research, there is no urgent need for me to help the field grow.
 
-These two reasons lead me to feel less exciting and motivated about the research I will be conducting in the field of deep learning. 
+These two reasons lead me to feel less exciting and motivated about the research I will be conducting in the field of deep learning.
 A similar opinion is also expressed by the highly-respected Caltech alumnus, Donald Knuth, as the single advice for young people.
 
 <div style="margin-bottom: 0.5cm"> </div>
