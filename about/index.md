@@ -6,12 +6,12 @@ date: 2018-10-01
 comments: false
 ---
 
-I am Hsin-Yuan Huang (黃信元), a Ph.D. student beginning at California Institute of Technology (Caltech).
+I am Hsin-Yuan Huang (黃信元), a Ph.D. student at California Institute of Technology (Caltech).
 During undergraduate, I studied extensively in computer science and physics; with previous research experiences in Machine Comprehension (at <a href="https://allenai.org/" target="_blank">Allen Institute of AI</a> and <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-ai/" target="_blank">Microsoft Research AI</a>), Optimization, and Statistical Machine Learning (with <a href="https://www.csie.ntu.edu.tw/~cjlin/" target="_blank">Prof. Chih-Jen Lin</a>).
 
 ## My Research Interest:
 
-I am interested in the outer product of quantum and AI. Things orbiting in my mind include:
+I am interested in the outer product of quantum physics and AI. Things orbiting in my mind include:
 * How AI can help quantum technology and fundamental physics research?
 * What are some near-term applications of <a href="https://arxiv.org/abs/1801.00862" target="_blank">NISQ technology</a>?
 * What kind of new machine learning paradigm could emerge on quantum computers?
