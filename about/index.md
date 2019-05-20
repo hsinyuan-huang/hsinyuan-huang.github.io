@@ -2,22 +2,25 @@
 layout: page
 title: About
 tags: [about]
-date: 2018-10-01
+date: 2019-05-19
 comments: false
 ---
 
 I am Hsin-Yuan Huang (黃信元), a Ph.D. student at California Institute of Technology (Caltech).
-During undergraduate, I studied extensively in computer science and physics; with previous research experiences in Machine Comprehension (at <a href="https://allenai.org/" target="_blank">Allen Institute of AI</a> and <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-ai/" target="_blank">Microsoft Research AI</a>), Optimization, and Statistical Machine Learning (with <a href="https://www.csie.ntu.edu.tw/~cjlin/" target="_blank">Prof. Chih-Jen Lin</a>).
+During undergraduate, I studied computer science and physics; with previous research experiences in deep learning (at <a href="https://allenai.org/" target="_blank">Allen Institute of AI</a> and <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-ai/" target="_blank">Microsoft Research AI</a>), optimization, and statistical machine learning (with <a href="https://scholar.google.com/citations?user=SLMkts8AAAAJ&hl=en" target="_blank">Prof. Chih-Jen Lin</a>).
 
 ## My Research Interest:
 
-I am interested in the outer product of physics and AI. Things orbiting in my mind include:
-* How AI can help quantum technology and fundamental physics research?
+I am mainly interested in the interplay between quantum physics and information science (complexity theory, information theory, machine learning).
+Some of the problems I like to think about includes:
+* What are some exotic properties of quantum systems through the lens of quantum information?
+* What is the power of quantum over classical computational processing?
 * What are some near-term applications of <a href="https://arxiv.org/abs/1801.00862" target="_blank">NISQ technology</a>?
-* What kind of new machine learning paradigm could emerge on quantum computers?
+* How can machine learning help quantum technology and fundamental physics research?
 
-Note that it is still unclear whether AI would help quantum much and whether NISQ technology would be hugely useful. It is likely that they will be limited until we have a fully-functional fault-tolerant quantum computer, which is still years (or decades) away.
-However, I have always enjoyed in thinking about physics, and I believe these are important questions worth exploring in the long-term. See <a href="https://momohuang.github.io/PhD_Decision/" target="_blank">this post</a>.
+Even though I used to work on topics in machine learning that can have immediate applications,
+I think these are important questions that would gradually revolutionize our society.
+See <a href="https://momohuang.github.io/PhD_Decision/" target="_blank">this post</a>.
 
 <figure class="half">
 	<img src="{{base.url}}/assets/img/me-1.jpg" class="img-disappear">
