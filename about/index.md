@@ -11,14 +11,13 @@ During undergraduate, I studied computer science and physics; with previous rese
 
 ## My Research Interest:
 
-I am mainly interested in the interplay between quantum physics and information science (complexity theory, information theory, machine learning).
+I am mainly interested in the interplay between physics and information science (complexity theory, information theory, machine learning).
 Some of the problems I like to think about includes:
-* What are some exotic properties of quantum systems through the lens of quantum information?
 * What is the power of quantum over classical computational processing?
-* What are some near-term applications of <a href="https://arxiv.org/abs/1801.00862" target="_blank">NISQ technology</a>?
 * How can machine learning help quantum technology and fundamental physics research?
+* What are some near-term applications of <a href="https://arxiv.org/abs/1801.00862" target="_blank">NISQ technology</a>?
+* What are some exotic properties of quantum systems through the lens of quantum information?
 
-Even though I used to work on topics in machine learning that can have immediate applications,
 I think these are important questions that would gradually revolutionize our society.
 See <a href="https://momohuang.github.io/PhD_Decision/" target="_blank">this post</a>.
 
