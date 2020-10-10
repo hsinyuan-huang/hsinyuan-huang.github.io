@@ -3,7 +3,7 @@ layout: post
 title:  "Predicting properties of quantum systems"
 date:   2018-02-05
 excerpt: "<strong>H.-Y. Huang</strong>, R. Kueng, J. Preskill. Predicting many properties of a quantum system from very few measurements (Nature Physics 2020)."
-feature_fig: <figure><img src="https://momohuang.github.io/assets/img/PredictQuantum/classical_shadow.jpg"></figure>
+feature_fig: <figure><img src="https://momohuang.github.io/assets/img/PredictQuantum/shadow.png"></figure>
 research: true
 tag:
 - Research Project
@@ -13,7 +13,7 @@ comments: true
 ---
 
 <figure>
-	<img src="{{site.url}}/assets/img/PredictQuantum/classical_shadow.jpg">
+	<img src="{{site.url}}/assets/img/PredictQuantum/shadow.png">
 </figure>
 
 <center>
