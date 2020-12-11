@@ -6,16 +6,16 @@ date: 2020-10-01
 comments: false
 ---
 
-I am Hsin-Yuan Huang (黃信元), a Ph.D. student at California Institute of Technology (Caltech).
+I am Hsin-Yuan Huang (黃信元), a Ph.D. student at California Institute of Technology (Caltech) advised by John Preskill and Thomas Vidick.
 During undergraduate, I studied computer science and physics; with previous research experiences in deep learning (at <a href="https://allenai.org/" target="_blank">Allen Institute of AI</a> and <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-ai/" target="_blank">Microsoft Research AI</a>), optimization, and statistical machine learning (with <a href="https://scholar.google.com/citations?user=SLMkts8AAAAJ&hl=en" target="_blank">Prof. Chih-Jen Lin</a>).
 
 ## My Research Interest:
 
 I am mainly interested in the interplay between physics and information science (complexity theory, information theory, machine learning).
 Some of the problems I like to think about includes:
-* What is the power of quantum over classical computational processing?
+* What is the power of quantum over classical information processing?
 * How can machine learning help quantum technology and fundamental physics research?
-* What are some near-term applications of <a href="https://arxiv.org/abs/1801.00862" target="_blank">NISQ technology</a>?
+* Could quantum machines predict how the world behave more accurately than classical machines?
 * What are some exotic properties of quantum systems through the lens of quantum information?
 
 I think these are important questions that would gradually revolutionize our society.
