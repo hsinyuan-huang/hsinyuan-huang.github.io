@@ -39,7 +39,7 @@ The results are presented in the following work.
 
 * **H.-Y. Huang**, R. Kueng, J. Preskill. *Information-theoretic bounds on quantum advantage in machine learning*. <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.190505" target="_blank">Physical Review Letters (Editor's Suggestion)</a>, <a href="https://www.youtube.com/watch?v=d1_hBEJQUSA&t=1202s&ab_channel=MunichCenterforQuantumScience%26Technology" target="_blank">QIP 2021</a>, <a href="https://quantumfrontiers.com/2021/06/02/peeking-into-the-world-of-quantum-intelligence/" target="_blank">IQIM blog -- Quantum Frontiers</a>, <a href="https://arxiv.org/abs/2101.02464" target="_blank">arXiv (2021)</a>.
 
-An invited perspective article that summarizes these ideas in the context of quantum chemistry and presents future directions is given below.
+An invited perspective article that summarizes these ideas in the context of quantum chemistry and presents future directions:
 
 * J. R. McClean, N. C. Rubin, J. Lee, M. P. Harrigan, T. E. O'Brien, R. Babbush, W. J. Huggins, **H.-Y. Huang**. *What the foundations of quantum computer science teach us about chemistry*. <a href="https://arxiv.org/abs/2106.03997" target="_blank">arXiv (2021)</a>.
 
