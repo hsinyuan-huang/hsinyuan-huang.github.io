@@ -21,7 +21,7 @@ Some problems I think about:
 
 ## Publications:
 
-Check <a href="https://scholar.google.com/citations?user=2y5YF-gAAAAJ&hl=en" target="_blank">Google Scholar</a> for the full list under chronological/citations order.
+<a href="https://scholar.google.com/citations?user=2y5YF-gAAAAJ&hl=en" target="_blank">Google Scholar</a> provides a full list under chronological/citations order.
 
 ### >> Machine learning, quantum physics, and quantum advantage
 
@@ -54,7 +54,7 @@ We proposed the idea of classical shadow in the following Nature Physics article
 
 * **H.-Y. Huang**, R. Kueng, J. Preskill.
 *Predicting many properties in a quantum system from very few measurements*.
-<a href="https://www.nature.com/articles/s41567-020-0932-7" target="_blank">Nature Physics</a>, QIP 2020, <a href="https://arxiv.org/abs/2002.08953" target="_blank">arXiv (2020)</a>.
+<a href="https://www.nature.com/articles/s41567-020-0932-7" target="_blank">Nature Physics</a>, QIP 2020, <a href="https://phys.org/news/2020-07-method-properties-complex-quantum.html" target="_blank">Phys.org</a>, <a href="https://arxiv.org/abs/2002.08953" target="_blank">arXiv (2020)</a>.
 
 We wrote a follow-up work that can make classical shadows even more efficient. The key idea is to derandomize the randomization construction in the original classical shadow.
 
