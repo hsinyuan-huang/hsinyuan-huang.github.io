@@ -19,6 +19,12 @@ Some problems I think about:
 * How can machine learning advance quantum technology and fundamental physics?
 * What are the fundamental limits in learning with classical and quantum machines?
 
+<center>
+<img src="assets/img/Intelligence.jpg"
+     alt="Cartoon depiction of intelligence"
+     style="text-align:center; width:50%; border-radius:15%; padding-top:15px; padding-bottom:1px" />
+</center>
+
 ## Publications:
 
 <a href="https://scholar.google.com/citations?user=2y5YF-gAAAAJ&hl=en" target="_blank">Google Scholar</a> provides a full list under chronological/citations order.
