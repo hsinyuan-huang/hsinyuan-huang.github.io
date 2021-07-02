@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Hsin-Yuan Huang (黃信元), a Ph.D. student at California Institute of Technology (Caltech) advised by <a href="https://scholar.google.com/citations?user=xmOSptwAAAAJ&hl=en" target="_blank">John Preskill</a> and <a href="https://scholar.google.com/citations?user=IGDs4HwAAAAJ&hl=en" target="_blank">Thomas Vidick</a>. I also go by the name Robert.
+I am Hsin-Yuan Huang (pronounced as "Shin Yuan Huan", 黃信元), a Ph.D. student at California Institute of Technology (Caltech) advised by <a href="https://scholar.google.com/citations?user=xmOSptwAAAAJ&hl=en" target="_blank">John Preskill</a> and <a href="https://scholar.google.com/citations?user=IGDs4HwAAAAJ&hl=en" target="_blank">Thomas Vidick</a>. I also go by the name Robert.
 
 ## Research Interest:
 
@@ -91,7 +91,7 @@ Quantum simulation is an important application of quantum computers. In the firs
 Randomness has recently been used to speed up quantum simulation algorithms. We provide a comprehensive analysis using random matrix theory, a fascinating topic in mathematics that has been contributed by <a href="https://scholar.google.com/citations?user=i4_3daEAAAAJ&hl=en" target="_blank">Joel Tropp</a> and others.
 
 * C.-F. Chen<sup>$\dagger$</sup>, **H.-Y. Huang**<sup>$\dagger$</sup> (co-first author), R. Kueng, J. Tropp.
-*Random product formula concentrates*.
+*Concentration for random product formulas*.
 TQC 2021, <a href="https://arxiv.org/abs/2008.11751" target="_blank">arXiv (2020)</a>.
 
 In this work, we look at how near-term quantum computers could be used to solve linear systems of equations. The method we proposed comes with rigorous guarantee. But the usefulness of quantum computers in real world problems is not yet conclusive.
