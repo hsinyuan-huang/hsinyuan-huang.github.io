@@ -33,7 +33,7 @@ Some problems I think about:
 
 Can classical machine learning models solve challenging problems in physics that no classical algorithms could solve? By solve, we consider the ability to provide solutions in polynomial time. We prove the affirmative in the following paper. See <a href="https://twitter.com/RobertHuangHY/status/1408230497512087554" target="_blank">my 13 tweets</a> for a summary.
 
-* **H.-Y. Huang**, R. Kueng, G. Torlai, V. V. Albert, J. Preskill. *Provably efficient machine learning for quantum many-body problems*. <a href="https://www.youtube.com/watch?v=d1_hBEJQUSA&t=1202s&ab_channel=MunichCenterforQuantumScience%26Technology" target="_blank">QIP 2021</a>, <a href="https://arxiv.org/abs/2106.12627" target="_blank">arXiv (2021)</a>.
+* **H.-Y. Huang**, R. Kueng, G. Torlai, V. V. Albert, J. Preskill. *Provably efficient machine learning for quantum many-body problems*. <a href="https://youtu.be/W-vGcWZYQeA" target="_blank">Talk at Simons Institute</a>, <a href="https://www.youtube.com/watch?v=d1_hBEJQUSA&t=1202s&ab_channel=MunichCenterforQuantumScience%26Technology" target="_blank">QIP 2021</a>, <a href="https://arxiv.org/abs/2106.12627" target="_blank">arXiv (2021)</a>.
 
 But why could machine learning algorithms be significantly more efficient than non-machine-learning algorithms? The main idea is that generalizing from training data can be much easier than computing answers from the ground up. In the following work with <a href="https://quantumai.google/" target="_blank">Google Quantum AI</a>, we study how such a fact impacts quantum advantage in machine learning.
 
