@@ -66,13 +66,13 @@ M. C. Caro, **H.-Y. Huang**, M. Cerezo, K. Sharma, A. Sornborger, L. Cincio, P. 
 
 1. *Out-of-distribution generalization for learning quantum dynamics* <br>
 M. C. Caro<sup>$\dagger$</sup>, **H.-Y. Huang**<sup>$\dagger$</sup> (co-first author), N. Ezzell, J. Gibbs, A. T. Sornborger, L. Cincio, P. J. Coles, Z. Holmes.<br>
-*Submitted.*
+*arXiv (2022).*
 [<a href="https://arxiv.org/abs/2204.10268" target="_blank">pdf</a>]
 
 
 1. *Dynamical simulation via quantum machine learning with provable generalization* <br>
 J. Gibbs, Z. Holmes, M. C. Caro, N. Ezzell, **H.-Y. Huang**, L. Cincio, A. T. Sornborger, P. J. Coles. <br>
-*Submitted.*
+*arXiv (2022).*
 [<a href="https://arxiv.org/abs/2204.10269" target="_blank">pdf</a>]
 
 
@@ -102,7 +102,7 @@ J. Gibbs, Z. Holmes, M. C. Caro, N. Ezzell, **H.-Y. Huang**, L. Cincio, A. T. So
 
 1. *A hierarchy for replica quantum advantage* <br>
 **(alphabetical order)** S. Chen, J. Cotler, H.-Y. Huang, J. Li.<br>
-*Submitted.*
+*arXiv (2021).*
 [<a href="https://arxiv.org/abs/2111.05874" target="_blank">pdf</a>]
 
 
@@ -136,7 +136,7 @@ J. R. McClean, N. C. Rubin, J. Lee, M. P. Harrigan, T. E. O'Brien, R. Babbush, W
 
 13. *Emergent quantum state designs from individual many-body wavefunctions* <br>
 J. Cotler<sup>$\dagger$</sup>, D. Mark<sup>$\dagger$</sup>, **H.-Y. Huang**<sup>$\dagger$</sup> (co-first author), F. Hernandez, J. Choi, A. L. Shaw, M. Endres, S. Choi.<br>
-*Submitted.*
+*arXiv (2021).*
 [<a href="https://arxiv.org/abs/2103.03536" target="_blank">pdf</a>]
 
 
