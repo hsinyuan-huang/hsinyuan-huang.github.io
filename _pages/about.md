@@ -12,120 +12,197 @@ I am Hsin-Yuan Huang (pronounced as "Shin Yuan Huan", 黃信元), a Ph.D. studen
 
 ## Research Interest:
 
-I work on the interplay between quantum physics and computer science (information theory, machine learning, complexity theory).
-Some problems I think about:
-* How to learn and make predictions in a quantum-mechanical world?
-* Could quantum machines learn faster and predict more accurately?
-* How can machine learning advance quantum technology and fundamental physics?
-* What are the fundamental limits in learning with classical and quantum machines?
+My research focuses on understanding the foundations and discovering new ways for scientists, machines, humans, and future quantum artificial intelligence to learn and make predictions about our quantum universe and everything in it (molecules, materials, pharmaceutics, exotic quantum matter, quantum machines, ...).
+
+I combine ideas and tools in learning theory, information theory, complexity theory, and quantum many-body physics to study questions such as:
+* What can we learn from quantum experiments? How efficiently can we learn?
+* Could quantum AI learn faster and predict more accurately than classical AI?
+* How can machine learning advance quantum technology and physical sciences?
+* Can we use quantum technology to learn and discover new facets of our universe?
 
 <center>
 <img src="assets/img/Intelligence.jpg"
      alt="Cartoon depiction of intelligence"
-     style="text-align:center; width:50%; border-radius:15%; padding-top:15px; padding-bottom:1px" />
+     style="text-align:center; width:55%; border-radius:15%; padding-top:15px; padding-bottom:1px" />
 </center>
 
 ## Publications:
 
 <a href="https://scholar.google.com/citations?user=2y5YF-gAAAAJ&hl=en" target="_blank">Google Scholar</a> provides a full list under chronological/citations order.
+A few selected publications are labeled by :dart:.
 
-### >> Machine learning, quantum physics, and quantum advantage
 
-Can classical machine learning models solve challenging problems in physics that no classical algorithms could solve? By solve, we consider the ability to provide solutions in polynomial time. We prove the affirmative in the following paper. See <a href="https://twitter.com/RobertHuangHY/status/1408230497512087554" target="_blank">my 13 tweets</a> for a summary.
+1. :dart:  *Provably efficient machine learning for quantum many-body problems* <br>
+**H.-Y. Huang**, R. Kueng, G. Torlai, V. V. Albert, J. Preskill. <br>
+*<a href="https://www.science.org/doi/10.1126/science.abk3333" target="_blank">Science (2022)</a>, Plenary talk at QIP (2022).* <br>
+[<a href="https://arxiv.org/abs/2106.12627" target="_blank">pdf</a>] [<a href="https://www.caltech.edu/about/news/classical-machine-learning-can-solve-tricky-quantum-problems" target="_blank">Caltech News</a>] [<a href="https://www.sciencedaily.com/releases/2022/09/220923090705.htm" target="_blank">ScienceDaily News</a>] [<a href="https://phys.org/news/2022-09-traditional-quantum-problems.html" target="_blank">Phys.org News</a>] [<a href="https://pennylane.ai/qml/demos/tutorial_ml_classical_shadows.html" target="_blank">PennyLane Tutorial</a>]<br> [<a href="https://youtu.be/W-vGcWZYQeA" target="_blank">Invited talk at Simons Institute</a>] [<a href="https://twitter.com/RobertHuangHY/status/1408230497512087554" target="_blank">Twitter thread</a>]
 
-* **H.-Y. Huang**, R. Kueng, G. Torlai, V. V. Albert, J. Preskill. *Provably efficient machine learning for quantum many-body problems*. <a href="https://youtu.be/W-vGcWZYQeA" target="_blank">Talk at Simons Institute</a>, <a href="https://arxiv.org/abs/2106.12627" target="_blank">arXiv (2021)</a>.
 
-But why could machine learning algorithms be significantly more efficient than non-machine-learning algorithms? The main idea is that generalizing from training data can be much easier than computing answers from the ground up. In the following work with <a href="https://quantumai.google/" target="_blank">Google Quantum AI</a>, we study how such a fact impacts quantum advantage in machine learning.
+1. *Challenges and opportunities in quantum machine learning* <br>
+M. Cerezo, G. Verdon, **H.Y. Huang**, L. Cincio, P. Coles. <br>
+*<a href="https://www.nature.com/articles/s43588-022-00311-3" target="_blank">Nature Computational Science (2022)</a>.*
+[<a href="https://t.co/oOYhtWcK09" target="_blank">pdf</a>]
 
-* **H.-Y. Huang**, M. Broughton, M. Mohseni, R. Babbush, S. Boixo, H. Neven, J. R. McClean. *Power of data in quantum machine learning*. <a href="https://www.nature.com/articles/s41467-021-22539-9" target="_blank">Nature Communications (Featured in Quantum)</a>, <a href="https://www.youtube.com/watch?v=d1_hBEJQUSA&t=1202s&ab_channel=MunichCenterforQuantumScience%26Technology" target="_blank">QIP 2021</a>, <a href="https://ai.googleblog.com/2021/06/quantum-machine-learning-and-power-of.html" target="_blank">Google AI blog</a>, <a href="https://blog.tensorflow.org/2020/11/characterizing-quantum-advantage-in.html" target="_blank">TensorFlow blog</a>, <a href="https://arxiv.org/abs/2011.01938" target="_blank">arxiv (2020)</a>.
 
-Furthermore, we show that for a wide range of learning problems in quantum physics, there is a fundamental limit to quantum advantage in prediction performance.
-We also identify learning problems with exponential quantum advantage without relying on any conjecture.
-The results are presented in the following work.
+1. *Generalization in quantum machine learning from few training data* <br>
+M. C. Caro, **H.-Y. Huang**, M. Cerezo, K. Sharma, A. Sornborger, L. Cincio, P. J. Coles. <br>
+*<a href="https://www.nature.com/articles/s41467-022-32550-3" target="_blank">Nature Communications (2022)</a>.*
+[<a href="https://t.co/oOYhtWcK09" target="_blank">pdf</a>]
 
-* **H.-Y. Huang**, R. Kueng, J. Preskill. *Information-theoretic bounds on quantum advantage in machine learning*. <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.190505" target="_blank">Physical Review Letters (Editor's Suggestion)</a>, <a href="https://www.youtube.com/watch?v=d1_hBEJQUSA&t=1202s&ab_channel=MunichCenterforQuantumScience%26Technology" target="_blank">QIP 2021</a>, <a href="https://quantumfrontiers.com/2021/06/02/peeking-into-the-world-of-quantum-intelligence/" target="_blank">IQIM blog -- Quantum Frontiers</a>, <a href="https://arxiv.org/abs/2101.02464" target="_blank">arXiv (2021)</a>.
 
-An invited perspective article that summarizes these ideas in the context of quantum chemistry and presents future directions:
+1. :dart:  *Quantum advantage in learning from experiments* <br>
+**H.-Y. Huang**, M. Broughton, J. Cotler, S. Chen, J. Li, M. Mohseni, H. Neven, R. Babbush, R. Kueng, J. Preskill, J. R. McClean. <br>
+*<a href="https://www.nature.com/articles/s41467-022-32550-3" target="_blank">Science (2022)</a>.*<br>
+[<a href="https://arxiv.org/abs/2112.00778" target="_blank">pdf</a>] [<a href="https://arstechnica.com/science/2022/06/quantum-computer-succeeds-where-a-classical-algorithm-fails/" target="_blank">arsTECHNICA News</a>] [<a href="https://www.sciencenews.org/article/quantum-physics-machine-learning-google-computer" target="_blank">ScienceNews</a>] [<a href="https://phys.org/news/2022-06-theory-quantum-exponentially-faster-tasks.html" target="_blank">Phys.org News</a>] [<a href="https://www.wired.com/story/quantum-advantage-showdowns-have-no-clear-winners/" target="_blank">WIRED News</a>]
+[<a href="https://www.newscientist.com/article/2323540-quantum-computers-proved-to-have-quantum-advantage-on-some-tasks/" target="_blank">NewScientist News</a>]
+[<a href="https://ai.googleblog.com/2022/06/quantum-advantage-in-learning-from.html" target="_blank">Google AI blog</a>] [<a href="https://pennylane.ai/qml/demos/tutorial_learning_from_experiments.html" target="_blank">PennyLane Tutorial</a>] [<a href="https://www.youtube.com/watch?v=5K8zmMABK6E&ab_channel=Qiskit" target="_blank">Invited talk at IBM</a>] [<a href="https://twitter.com/RobertHuangHY/status/1466678468213542912" target="_blank">Twitter thread</a>]
 
-* J. R. McClean, N. C. Rubin, J. Lee, M. P. Harrigan, T. E. O'Brien, R. Babbush, W. J. Huggins, **H.-Y. Huang**. *What the foundations of quantum computer science teach us about chemistry*. <a href="https://arxiv.org/abs/2106.03997" target="_blank">arXiv (2021)</a>.
 
-### >> Classical shadows of quantum states
+1. *Foundations for learning from noisy quantum experiments* <br>
+*H.-Y. Huang, S. Flammia, J. Preskill.* <br>
+*Contributed talk at QIP (2022).*
+[<a href="https://arxiv.org/abs/2204.13691" target="_blank">pdf</a>]
 
-Classical shadow is an efficient representation of quantum many-body system that can be easily constructed in experiments.
-Storing full description of a quantum system requires an exponential amount of classical memory (exponential in the number of qubits).
-But classical shadow only require a linear (or polynomial) amount of classical memory.
-See <a href="https://en.wikipedia.org/wiki/Classical_shadow" target="_blank">the wiki page</a>, <a href="https://pennylane.ai/qml/demos/tutorial_classical_shadows.html" target="_blank">a nice tutorial in PennyLane</a>, or <a href="https://www.youtube.com/watch?v=NXejv2wVwas&t=2553s&ab_channel=SimonsInstitute" target="_blank">a great talk by John Preskill</a> for more details.
 
-We proposed the idea of classical shadow in the following Nature Physics article.
+1. *Out-of-distribution generalization for learning quantum dynamics* <br>
+M. C. Caro<sup>$\dagger$</sup>, **H.-Y. Huang**<sup>$\dagger$</sup> (co-first author), N. Ezzell, J. Gibbs, A. T. Sornborger, L. Cincio, P. J. Coles, Z. Holmes.<br>
+*Submitted.*
+[<a href="https://arxiv.org/abs/2204.10268" target="_blank">pdf</a>]
 
-* **H.-Y. Huang**, R. Kueng, J. Preskill.
-*Predicting many properties in a quantum system from very few measurements*.
-<a href="https://www.nature.com/articles/s41567-020-0932-7" target="_blank">Nature Physics</a>, QIP 2020, <a href="https://phys.org/news/2020-07-method-properties-complex-quantum.html" target="_blank">Phys.org</a>, <a href="https://arxiv.org/abs/2002.08953" target="_blank">arXiv (2020)</a>.
 
-We wrote a follow-up work that can make classical shadows even more efficient. The key idea is to derandomize the randomization construction in the original classical shadow.
+1. *Dynamical simulation via quantum machine learning with provable generalization* <br>
+J. Gibbs, Z. Holmes, M. C. Caro, N. Ezzell, **H.-Y. Huang**, L. Cincio, A. T. Sornborger, P. J. Coles. <br>
+*Submitted.*
+[<a href="https://arxiv.org/abs/2204.10269" target="_blank">pdf</a>]
 
-* **H.-Y. Huang**, R. Kueng, J. Preskill. *Efficient estimation of Pauli observables by derandomization*. <a href="https://journals.aps.org/prl/accepted/59079YdcPa91f38e74884b01c88074c23995b9082" target="_blank">Physical Review Letters</a>, TQC 2021, <a href="https://arxiv.org/abs/2103.07510" target="_blank">arXiv (2020)</a>.
 
-The following work demonstrates that classical shadows can be easily applied to existing experimental platforms.
+1. *The randomized measurement toolbox* <br>
+**(alphabetical order)** A. Elben, S. Flammia, H.-Y. Huang, R. Kueng, J. Preskill, B. Vermersch, P. Zoller.<br>
+*Accepted; Not yet published.*
+[<a href="https://arxiv.org/abs/2203.11374" target="_blank">pdf</a>] [<a href="https://www.youtube.com/watch?v=FXdJoJ0qcZY&ab_channel=caltech" target="_blank">Tutorial at QIP 2022</a>]
 
-* A. Elben, R. Kueng, **H.-Y. Huang**, R. van Bijnen, C. Kokail, M. Dalmonte, P. Calabrese, B. Kraus, J. Preskill, P. Zoller, B. Vermersch.
-*Mixed-state entanglement from local randomized measurements*.
-<a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.200501" target="_blank">Physical Review Letters</a>, <a href="https://arxiv.org/abs/2007.06305" target="_blank">arXiv (2020)</a>.
 
-### >> Many-body quantum chaos
+1. *Learning quantum states from their classical shadows* <br>
+**H.-Y. Huang**. <br>
+*<a href="https://www.nature.com/articles/s42254-021-00411-5" target="_blank">Nature Review Physics (2022)</a>.* [<a href="{{base.url}}/assets/img/s42254-021-00411-5.pdf"  target="_blank">pdf</a>]
 
-What are some salient features of chaotic many-body systems? The following works with condensed matter physicists make progress in answering this question. In particular, we show that most wavefunctions can individually generate state design by performing measurements on the subsystem. A state design is an ensemble of quantum states that are *uniformly distributed* in the quantum Hilbert space.
 
-* J. Cotler<sup>$\dagger$</sup>, D. Mark<sup>$\dagger$</sup>, **H.-Y. Huang**<sup>$\dagger$</sup> (co-first author), F. Hernandez, J. Choi, A. L. Shaw, M. Endres, S. Choi. *Emergent quantum state designs from individual many-body wavefunctions*. <a href="https://arxiv.org/abs/2103.03536" target="_blank">arXiv (2021)</a>.
+1. *Exponential separation between learning with and without quantum memory* <br>
+**(alphabetical order)** S. Chen, J. Cotler, H.-Y. Huang, J. Li.<br>
+*FOCS (2021), Contributed talk at QIP (2022),*<br>
+*Invited to SIAM Journal of Computing Special Issue.*
+[<a href="https://arxiv.org/abs/2111.05881" target="_blank">pdf</a>]
 
-We experimentally verify this observation. And utilize this concept to perform benchmarking in a Rydberg atom system.
 
-* J. Choi, A. Shaw, I. Madjarov, X. Xie, J. Covey, J. Cotler, D. Mark, **H.-Y. Huang**, A. Kale, H. Pichler, F. Brandao, S. Choi, M. Endres. *Emergent Randomness and Benchmarking from Many-Body Quantum Chaos*. <a href="https://arxiv.org/abs/2103.03535" target="_blank">arXiv (2021)</a>.
+1. *Revisiting dequantization and quantum advantage in learning tasks* <br>
+**(alphabetical order)** J. Cotler, H.-Y. Huang, J. R. McClean.<br>
+*Technical Manuscript (2021)*.
+[<a href="https://arxiv.org/abs/2112.00811" target="_blank">pdf</a>]
 
-### >> Quantum simulation and quantum algorithm
 
-Quantum simulation is an important application of quantum computers. In the first work, we provide a tight analysis to study one of the simplest yet strongest simulation method, Trotterization / Product formula, for simulating interacting electrons.
+1. *A hierarchy for replica quantum advantage* <br>
+**(alphabetical order)** S. Chen, J. Cotler, H.-Y. Huang, J. Li.<br>
+*Submitted.*
+[<a href="https://arxiv.org/abs/2111.05874" target="_blank">pdf</a>]
 
-* Y. Su, **H.-Y. Huang**, E. Campbell. *Nearly-tight Trotterization of interacting electrons*. Quantum, <a href="https://www.youtube.com/watch?v=NMc6PLOCU4g&t=39s&ab_channel=MunichCenterforQuantumScience%26Technology" target="_blank">QIP 2021</a>, <a href="https://arxiv.org/abs/2012.09194" target="_blank">arXiv (2020)</a>.
 
-Randomness has recently been used to speed up quantum simulation algorithms. We provide a comprehensive analysis using random matrix theory, a fascinating topic in mathematics that has been contributed by <a href="https://scholar.google.com/citations?user=i4_3daEAAAAJ&hl=en" target="_blank">Joel Tropp</a> and others.
+15. *What the foundations of quantum computer science teach us about chemistry*. <br>
+J. R. McClean, N. C. Rubin, J. Lee, M. P. Harrigan, T. E. O'Brien, R. Babbush, W. J. Huggins, **H.-Y. Huang**. <br>
+*<a href="https://aip.scitation.org/doi/10.1063/5.0060367" target="_blank">Journal of Chemical Physics (2021)</a>.*
+[<a href="https://arxiv.org/abs/2106.03997" target="_blank">pdf</a>] [<a href="https://www.youtube.com/watch?v=gDlaWPFwyNw&ab_channel=SimonsInstitute" target="_blank">talk at Simons Institute</a>]
 
-* C.-F. Chen<sup>$\dagger$</sup>, **H.-Y. Huang**<sup>$\dagger$</sup> (co-first author), R. Kueng, J. Tropp.
-*Concentration for random product formulas*.
-TQC 2021, <a href="https://arxiv.org/abs/2008.11751" target="_blank">arXiv (2020)</a>.
 
-In this work, we look at how near-term quantum computers could be used to solve linear systems of equations. The method we proposed comes with rigorous guarantee. But the usefulness of quantum computers in real world problems is not yet conclusive.
+14. *Efficient estimation of Pauli observables by derandomization* <br>
+**H.-Y. Huang**, R. Kueng, J. Preskill. <br>
+*<a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.030503" target="_blank">Physical Review Letters (2021)</a>, TQC (2021).*
+[<a href="https://arxiv.org/abs/2103.07510" target="_blank">pdf</a>].
 
-* **H.-Y. Huang**, K. Bharti, P. Rebentrost.
-*Near-term quantum algorithms for linear systems of equations*.
-<a href="https://arxiv.org/abs/1909.07344" target="_blank">arXiv (2019)</a>.
+
+17. :dart: *Power of data in quantum machine learning* <br>
+**H.-Y. Huang**, M. Broughton, M. Mohseni, R. Babbush, S. Boixo, H. Neven, J. R. McClean. <br>
+*<a href="https://www.nature.com/articles/s41467-021-22539-9" target="_blank">Nature Communications (Featured)</a>, Contributed talk at QIP (2021).*<br>
+[<a href="https://arxiv.org/abs/2011.01938" target="_blank">pdf</a>]
+[<a href="https://www.youtube.com/watch?v=d1_hBEJQUSA&t=1202s&ab_channel=MunichCenterforQuantumScience%26Technology" target="_blank">Talk at QIP</a>]
+[<a href="https://ai.googleblog.com/2021/06/quantum-machine-learning-and-power-of.html" target="_blank">Google AI blog</a>]
+[<a href="https://blog.tensorflow.org/2020/11/characterizing-quantum-advantage-in.html" target="_blank">TensorFlow blog</a>]
+
+
+16. *Information-theoretic bounds on quantum advantage in machine learning* <br>
+**H.-Y. Huang**, R. Kueng, J. Preskill.<br>
+*<a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.190505" target="_blank">Physical Review Letters (Editor's Suggestion)</a>, Contributed talk at QIP (2021).*<br>
+[<a href="https://arxiv.org/abs/2101.02464" target="_blank">pdf</a>] [<a href="https://www.youtube.com/watch?v=d1_hBEJQUSA&t=1202s&ab_channel=MunichCenterforQuantumScience%26Technology" target="_blank">Talk at QIP</a>] [<a href="https://quantumfrontiers.com/2021/06/02/peeking-into-the-world-of-quantum-intelligence/" target="_blank">IQIM blog</a>]
+
+
+13. *Emergent quantum state designs from individual many-body wavefunctions* <br>
+J. Cotler<sup>$\dagger$</sup>, D. Mark<sup>$\dagger$</sup>, **H.-Y. Huang**<sup>$\dagger$</sup> (co-first author), F. Hernandez, J. Choi, A. L. Shaw, M. Endres, S. Choi.<br>
+*Submitted.*
+[<a href="https://arxiv.org/abs/2103.03536" target="_blank">pdf</a>]
+
+
+12. *Emergent Randomness and Benchmarking from Many-Body Quantum Chaos* <br>
+J. Choi, A. Shaw, I. Madjarov, X. Xie, J. Covey, J. Cotler, D. Mark, **H.-Y. Huang**, A. Kale, H. Pichler, F. Brandao, S. Choi, M. Endres. <br>
+*Accepted; Not yet published.*
+[<a href="https://arxiv.org/abs/2103.03535" target="_blank">pdf</a>]
+
+
+11. *Nearly-tight Trotterization of interacting electrons* <br>
+Y. Su, **H.-Y. Huang**, E. Campbell. <br>
+*<a href="https://quantum-journal.org/papers/q-2021-07-05-495/" target="_blank">Quantum (2021)</a>, Contributed talk at QIP (2021).*
+[<a href="https://arxiv.org/abs/2012.09194" target="_blank">pdf</a>] [<a href="https://www.youtube.com/watch?v=NMc6PLOCU4g&t=39s&ab_channel=MunichCenterforQuantumScience%26Technology" target="_blank">Talk at QIP</a>]
+
+
+10. *Concentration for random product formulas* <br>
+C.-F. Chen<sup>$\dagger$</sup>, **H.-Y. Huang**<sup>$\dagger$</sup> (co-first author), R. Kueng, J. Tropp. <br>
+*<a href="https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.2.040305" target="_blank">PRX Quantum (2021)</a>, TQC (2021).*
+[<a href="https://arxiv.org/abs/2008.11751" target="_blank">pdf</a>] [<a href="https://www.youtube.com/watch?v=vrp1gcsslXE&ab_channel=TQC2021" target="_blank">Talk at TQC</a>]
+
+
+9. *Near-term quantum algorithms for linear systems of equations* <br>
+**H.-Y. Huang**, K. Bharti, P. Rebentrost. <br>
+*<a href="https://iopscience.iop.org/article/10.1088/1367-2630/ac325f" target="_blank">New Journal of Physics (2021)</a>.*
+[<a href="https://arxiv.org/abs/1909.07344" target="_blank">pdf</a>]
+
+
+8. *TensorFlow Quantum: A Software Framework for Quantum Machine Learning* <br>
+M. Broughton, G. Verdon, T. McCourt, A. J. Martinez, J. H. Yoo, S. V. Isakov, P. Massey, R. Halavati, M. Y. Niu, A. Zlokapa, E. Peters, O. Lockwood, A. Skolik, S. Jerbi, V. Dunjko, M. Leib, M. Streif, D. V. Dollen, H. Chen, S. Cao, R. Wiersema, **H.-Y. Huang**, J. R. McClean, R. Babbush, S. Boixo, D. Bacon, A. K. Ho, H. Neven, M. Mohseni.<br>
+*Technical manuscript (2020).* [<a href="https://arxiv.org/abs/2003.02989"  target="_blank">pdf</a>] [<a href="https://www.tensorflow.org/quantum" target="_blank">TFQ Website</a>]
+
+
+7. *Mixed-state entanglement from local randomized measurements* <br>
+A. Elben, R. Kueng, **H.-Y. Huang**, R. van Bijnen, C. Kokail, M. Dalmonte, P. Calabrese, B. Kraus, J. Preskill, P. Zoller, B. Vermersch. <br>
+*<a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.200501" target="_blank">Physical Review Letters (2020)</a>.* [<a href="https://arxiv.org/abs/2007.06305" target="_blank">pdf</a>]
+
+
+6. :dart: *Predicting many properties in a quantum system from very few measurements* <br>
+**H.-Y. Huang**, R. Kueng, J. Preskill. <br>
+*<a href="https://www.nature.com/articles/s41567-020-0932-7" target="_blank">Nature Physics (2020)</a>, Single-track talk at QIP (2020).*<br>
+[<a href="https://arxiv.org/abs/2002.08953" target="_blank">pdf</a>] [<a href="https://en.wikipedia.org/wiki/Classical_shadow" target="_blank">Wikipedia page</a>] [<a href="https://pennylane.ai/qml/demos/tutorial_classical_shadows.html" target="_blank">PennyLane Tutorial</a>] [<a href="https://www.youtube.com/watch?v=NXejv2wVwas&t=2553s&ab_channel=SimonsInstitute" target="_blank">Talk by John Preskill</a>] [<a href="https://phys.org/news/2020-07-method-properties-complex-quantum.html" target="_blank">Phys.org News</a>]
+
 
 * * *
 
-### >> Deep learning for question answering
+### >> Pre-quantum
 
-During undergraduate, I spent a summer at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-ai/" target="_blank">Microsoft Research</a> working on designing deep learning models to perform questions answering (also known as machine comprehension). We were at the top of the <a href="https://rajpurkar.github.io/SQuAD-explorer/" target="_blank">leaderboard</a> back in the days.
+I have previously worked on machine learning at <a href="https://scholar.google.com/citations?user=SLMkts8AAAAJ&hl=en" target="_blank">Chih-Jen Lin's group</a>, deep learning at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-ai/" target="_blank">Microsoft Research</a> and <a href="https://allenai.org/" target="_blank">Allen Institute of AI</a>, and biology at <a href="http://sbl.csie.org/JuanLab/doku.php?id=PI:Hsueh-Fen%20Juan" target="_blank">Hsueh-Fen Juan's lab</a>.
 
-* **H.-Y. Huang**, C. Zhu, Y. Shen, W. Chen. *FusionNet: Fusing via Fully-aware attention with application to machine comprehension*.
-ICLR 2018, <a href="https://arxiv.org/abs/1711.07341" target="_blank">arXiv (2017)</a>.
 
-After a year, I did a follow-up work at <a href="https://allenai.org/" target="_blank">Allen Institute of AI</a> that considers question answering in a conversational environment.
+{:start="25"}
+5. *FlowQA: grasping flow in history for conversational machine comprehension* <br>
+**H.-Y. Huang**, E. Choi, W. Yih. <br>
+*ICLR (2019)*. [<a href="https://arxiv.org/abs/1810.06683" target="_blank">pdf</a>]
 
-* **H.-Y. Huang**, E. Choi, W. Yih.
-*FlowQA: grasping flow in history for conversational machine comprehension*.
-ICLR 2019, <a href="https://arxiv.org/abs/1810.06683" target="_blank">arXiv (2018)</a>.
+4. *FusionNet: Fusing via Fully-aware attention with application to machine comprehension* <br>
+**H.-Y. Huang**, C. Zhu, Y. Shen, W. Chen. <br>
+*ICLR (2018)*.  [<a href="https://arxiv.org/abs/1711.07341" target="_blank">pdf</a>]
 
-### >> Classical machine learning
+3. *A unified algorithm for one-class structured matrix factorization with side information* <br>
+H.-F. Yu, **H.-Y. Huang**, I. S. Dhillon, C.-J. Lin. <br>
+*AAAI (2017)*. [<a href="https://www.csie.ntu.edu.tw/~cjlin/papers/ocmf-side/biased-leml-aaai-with-supp.pdf" target="_blank">pdf</a>]
 
-In my first year of undergraduate, I started doing research in machine learning with <a href="https://scholar.google.com/citations?user=SLMkts8AAAAJ&hl=en" target="_blank">Chih-Jen Lin</a>. The following works marked the beginning of my research career. The first work studies recommendation systems using matrix factorization. The second work studies a basic task in autoML on choosing between linear and kernel classifiers.
+2. *Linear and kernel classification: When to use which?* <br>
+**H.-Y. Huang**, C.-J. Lin. <br>
+*SDM (2016)*. [<a href="https://www.csie.ntu.edu.tw/~cjlin/papers/kernel-check/kcheck.pdf" target="_blank">pdf</a>]
 
-* H.-F. Yu, **H.-Y. Huang**, I. S. Dhillon, C.-J. Lin. *A unified algorithm for one-class structured matrix factorization with side information*. AAAI 2017, <a href="https://www.csie.ntu.edu.tw/~cjlin/papers/ocmf-side/biased-leml-aaai-with-supp.pdf" target="_blank">Paper link</a>.
-
-* **H.-Y. Huang**, C.-J. Lin. *Linear and kernel classification: When to use which?* SDM 2016, <a href="https://www.csie.ntu.edu.tw/~cjlin/papers/kernel-check/kcheck.pdf" target="_blank">Paper link</a>.
-
-### >> Bioinformatics
-
-During high school (2013-2014), I analyzed protein-protein interaction networks and developed models for the evolutions of protein networks.
-
-* C.-Y. Chen, A. Ho, **H.-Y. Huang**, H.-F. Juan and H.-C. Huang. *Dissecting the human protein-protein interaction network via phylogenetic decomposition*.
-<a href="https://www.nature.com/articles/srep07153" target="_blank">Scientific Reports</a>.
+1. *Dissecting the human protein-protein interaction network via phylogenetic decomposition* <br>
+C.-Y. Chen, A. Ho, **H.-Y. Huang**, H.-F. Juan and H.-C. Huang. <br>
+*<a href="https://www.nature.com/articles/srep07153" target="_blank">Scientific Reports (2014)</a>*.

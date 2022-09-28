@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Hsin-Yuan Huang (Robert)"
   avatar           : "me-2.jpg"
-  bio              : "A theorist wondering about information, quantum physics, and machine learning"
+  bio              : "A theorist wondering about how an intelligent machine navigates in a quantum world"
   location         : "Pasadena, USA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -247,6 +247,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jemoji
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
