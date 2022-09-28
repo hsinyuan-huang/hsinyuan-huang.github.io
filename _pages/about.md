@@ -28,14 +28,14 @@ I utilize ideas and tools in quantum information theory, learning theory, comple
 
 ## Publications:
 
-<a href="https://scholar.google.com/citations?user=2y5YF-gAAAAJ&hl=en" target="_blank">Google Scholar</a> provides a full list under chronological/citations order.
-A few selected publications are labeled by :dart:.
+<a href="https://scholar.google.com/citations?user=2y5YF-gAAAAJ&hl=en" target="_blank">Google Scholar</a> provides a full list under chronological/citations order.<br>
+Selected publications are labeled by :dart:.
 
 
 1. :dart:  *Provably efficient machine learning for quantum many-body problems* <br>
 **H.-Y. Huang**, R. Kueng, G. Torlai, V. V. Albert, J. Preskill. <br>
 *<a href="https://www.science.org/doi/10.1126/science.abk3333" target="_blank">Science (2022)</a>, Plenary talk at QIP (2022).* <br>
-[<a href="https://arxiv.org/abs/2106.12627" target="_blank">pdf</a>] [<a href="https://www.caltech.edu/about/news/classical-machine-learning-can-solve-tricky-quantum-problems" target="_blank">Caltech News</a>] [<a href="https://www.sciencedaily.com/releases/2022/09/220923090705.htm" target="_blank">ScienceDaily News</a>] [<a href="https://phys.org/news/2022-09-traditional-quantum-problems.html" target="_blank">Phys.org News</a>] [<a href="https://pennylane.ai/qml/demos/tutorial_ml_classical_shadows.html" target="_blank">PennyLane Tutorial</a>]<br> [<a href="https://youtu.be/W-vGcWZYQeA" target="_blank">Invited talk at Simons Institute</a>] [<a href="https://twitter.com/RobertHuangHY/status/1408230497512087554" target="_blank">Twitter thread</a>]
+[<a href="https://arxiv.org/abs/2106.12627" target="_blank">pdf</a>] [<a href="https://twitter.com/RobertHuangHY/status/1408230497512087554" target="_blank">Twitter thread</a>] [<a href="https://www.caltech.edu/about/news/classical-machine-learning-can-solve-tricky-quantum-problems" target="_blank">Caltech News</a>] [<a href="https://www.sciencedaily.com/releases/2022/09/220923090705.htm" target="_blank">ScienceDaily News</a>] [<a href="https://phys.org/news/2022-09-traditional-quantum-problems.html" target="_blank">Phys.org News</a>] [<a href="https://pennylane.ai/qml/demos/tutorial_ml_classical_shadows.html" target="_blank">PennyLane Tutorial</a>]<br> [<a href="https://youtu.be/W-vGcWZYQeA" target="_blank">Invited talk at Simons Institute</a>]
 
 
 1. *Challenges and opportunities in quantum machine learning* <br>
@@ -53,9 +53,9 @@ M. C. Caro, **H.-Y. Huang**, M. Cerezo, K. Sharma, A. Sornborger, L. Cincio, P. 
 1. :dart:  *Quantum advantage in learning from experiments* <br>
 **H.-Y. Huang**, M. Broughton, J. Cotler, S. Chen, J. Li, M. Mohseni, H. Neven, R. Babbush, R. Kueng, J. Preskill, J. R. McClean. <br>
 *<a href="https://www.nature.com/articles/s41467-022-32550-3" target="_blank">Science (2022)</a>.*<br>
-[<a href="https://arxiv.org/abs/2112.00778" target="_blank">pdf</a>] [<a href="https://arstechnica.com/science/2022/06/quantum-computer-succeeds-where-a-classical-algorithm-fails/" target="_blank">arsTECHNICA News</a>] [<a href="https://www.sciencenews.org/article/quantum-physics-machine-learning-google-computer" target="_blank">ScienceNews</a>] [<a href="https://phys.org/news/2022-06-theory-quantum-exponentially-faster-tasks.html" target="_blank">Phys.org News</a>] [<a href="https://www.wired.com/story/quantum-advantage-showdowns-have-no-clear-winners/" target="_blank">WIRED News</a>]
+[<a href="https://arxiv.org/abs/2112.00778" target="_blank">pdf</a>] [<a href="https://twitter.com/RobertHuangHY/status/1466678468213542912" target="_blank">Twitter thread</a>] [<a href="https://arstechnica.com/science/2022/06/quantum-computer-succeeds-where-a-classical-algorithm-fails/" target="_blank">arsTECHNICA News</a>] [<a href="https://www.sciencenews.org/article/quantum-physics-machine-learning-google-computer" target="_blank">ScienceNews</a>] [<a href="https://phys.org/news/2022-06-theory-quantum-exponentially-faster-tasks.html" target="_blank">Phys.org News</a>] [<a href="https://www.wired.com/story/quantum-advantage-showdowns-have-no-clear-winners/" target="_blank">WIRED News</a>]
 [<a href="https://www.newscientist.com/article/2323540-quantum-computers-proved-to-have-quantum-advantage-on-some-tasks/" target="_blank">NewScientist News</a>]
-[<a href="https://ai.googleblog.com/2022/06/quantum-advantage-in-learning-from.html" target="_blank">Google AI blog</a>] [<a href="https://pennylane.ai/qml/demos/tutorial_learning_from_experiments.html" target="_blank">PennyLane Tutorial</a>] [<a href="https://www.youtube.com/watch?v=5K8zmMABK6E&ab_channel=Qiskit" target="_blank">Invited talk at IBM</a>] [<a href="https://twitter.com/RobertHuangHY/status/1466678468213542912" target="_blank">Twitter thread</a>]
+[<a href="https://ai.googleblog.com/2022/06/quantum-advantage-in-learning-from.html" target="_blank">Google AI blog</a>] [<a href="https://pennylane.ai/qml/demos/tutorial_learning_from_experiments.html" target="_blank">PennyLane Tutorial</a>] [<a href="https://www.youtube.com/watch?v=5K8zmMABK6E&ab_channel=Qiskit" target="_blank">Invited talk at IBM</a>]
 
 
 1. *Foundations for learning from noisy quantum experiments* <br>
