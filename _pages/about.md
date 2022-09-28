@@ -125,6 +125,7 @@ J. R. McClean, N. C. Rubin, J. Lee, M. P. Harrigan, T. E. O'Brien, R. Babbush, W
 [<a href="https://www.youtube.com/watch?v=d1_hBEJQUSA&t=1202s&ab_channel=MunichCenterforQuantumScience%26Technology" target="_blank">Talk at QIP</a>]
 [<a href="https://ai.googleblog.com/2021/06/quantum-machine-learning-and-power-of.html" target="_blank">Google AI blog</a>]
 [<a href="https://blog.tensorflow.org/2020/11/characterizing-quantum-advantage-in.html" target="_blank">TensorFlow blog</a>]
+[<a href="https://www.tensorflow.org/quantum/tutorials/quantum_data" target="_blank">TensorFlow Quantum Tutorial</a>]
 
 
 16. *Information-theoretic bounds on quantum advantage in machine learning* <br>
