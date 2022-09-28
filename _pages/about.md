@@ -78,7 +78,7 @@ J. Gibbs, Z. Holmes, M. C. Caro, N. Ezzell, **H.-Y. Huang**, L. Cincio, A. T. So
 
 1. *The randomized measurement toolbox* <br>
 **(alphabetical order)** A. Elben, S. Flammia, H.-Y. Huang, R. Kueng, J. Preskill, B. Vermersch, P. Zoller.<br>
-*Accepted; Not yet published.*
+*arXiv (2022).*
 [<a href="https://arxiv.org/abs/2203.11374" target="_blank">pdf</a>] [<a href="https://www.youtube.com/watch?v=FXdJoJ0qcZY&ab_channel=caltech" target="_blank">Tutorial at QIP 2022</a>]
 
 
@@ -96,7 +96,7 @@ J. Gibbs, Z. Holmes, M. C. Caro, N. Ezzell, **H.-Y. Huang**, L. Cincio, A. T. So
 
 1. *Revisiting dequantization and quantum advantage in learning tasks* <br>
 **(alphabetical order)** J. Cotler, H.-Y. Huang, J. R. McClean.<br>
-*Technical Manuscript (2021)*.
+*arXiv (2021)*.
 [<a href="https://arxiv.org/abs/2112.00811" target="_blank">pdf</a>]
 
 
@@ -142,7 +142,7 @@ J. Cotler<sup>$\dagger$</sup>, D. Mark<sup>$\dagger$</sup>, **H.-Y. Huang**<sup>
 
 12. *Emergent Randomness and Benchmarking from Many-Body Quantum Chaos* <br>
 J. Choi, A. Shaw, I. Madjarov, X. Xie, J. Covey, J. Cotler, D. Mark, **H.-Y. Huang**, A. Kale, H. Pichler, F. Brandao, S. Choi, M. Endres. <br>
-*Accepted; Not yet published.*
+*arXiv (2021).*
 [<a href="https://arxiv.org/abs/2103.03535" target="_blank">pdf</a>]
 
 
@@ -166,7 +166,7 @@ C.-F. Chen<sup>$\dagger$</sup>, **H.-Y. Huang**<sup>$\dagger$</sup> (co-first au
 
 8. *TensorFlow Quantum: A Software Framework for Quantum Machine Learning* <br>
 M. Broughton, G. Verdon, T. McCourt, A. J. Martinez, J. H. Yoo, S. V. Isakov, P. Massey, R. Halavati, M. Y. Niu, A. Zlokapa, E. Peters, O. Lockwood, A. Skolik, S. Jerbi, V. Dunjko, M. Leib, M. Streif, D. V. Dollen, H. Chen, S. Cao, R. Wiersema, **H.-Y. Huang**, J. R. McClean, R. Babbush, S. Boixo, D. Bacon, A. K. Ho, H. Neven, M. Mohseni.<br>
-*Technical manuscript (2020).* [<a href="https://arxiv.org/abs/2003.02989"  target="_blank">pdf</a>] [<a href="https://www.tensorflow.org/quantum" target="_blank">TFQ Website</a>]
+*arXiv (2020).* [<a href="https://arxiv.org/abs/2003.02989"  target="_blank">pdf</a>] [<a href="https://www.tensorflow.org/quantum" target="_blank">TFQ Website</a>]
 
 
 7. *Mixed-state entanglement from local randomized measurements* <br>
