@@ -12,10 +12,10 @@ I am Hsin-Yuan Huang (pronounced as "Shin Yuan Huan", 黃信元), a Ph.D. studen
 
 ## Research Interest:
 
-My research aims to build the foundation and discover new ways for scientists, machines, humans, and future quantum artificial intelligence to learn and make predictions about our quantum universe and everything within it (molecules, materials, pharmaceutics, exotic quantum matter, quantum devices, etc).
+My research aims to build the foundation and discover new ways for scientists, machines, humans, and future quantum artificial intelligence to learn and make predictions about our quantum universe and everything within it (molecules, materials, pharmaceutics, exotic quantum matter, powerful quantum devices, etc).
 
 I utilize ideas and tools in quantum information theory, learning theory, complexity theory, and quantum many-body physics to study questions such as:
-* What can we learn from quantum experiments? How efficiently can we learn?
+* How to efficiently learn and make predictions about complex quantum systems?
 * Could quantum AI learn faster and predict more accurately than classical AI?
 * How can machine learning advance quantum technology and physical sciences?
 * Can we use quantum technology to learn and discover new facets of our universe?
@@ -35,7 +35,8 @@ Selected publications are labeled by :dart:.
 1. :dart:  *Provably efficient machine learning for quantum many-body problems* <br>
 **H.-Y. Huang**, R. Kueng, G. Torlai, V. V. Albert, J. Preskill. <br>
 *<a href="https://www.science.org/doi/10.1126/science.abk3333" target="_blank">Science (2022)</a>, Plenary talk at QIP (2022).* <br>
-[<a href="https://arxiv.org/abs/2106.12627" target="_blank">pdf</a>] [<a href="https://twitter.com/RobertHuangHY/status/1408230497512087554" target="_blank">Twitter thread</a>] [<a href="https://www.caltech.edu/about/news/classical-machine-learning-can-solve-tricky-quantum-problems" target="_blank">Caltech News</a>] [<a href="https://www.sciencedaily.com/releases/2022/09/220923090705.htm" target="_blank">ScienceDaily News</a>] [<a href="https://phys.org/news/2022-09-traditional-quantum-problems.html" target="_blank">Phys.org News</a>]<br> [<a href="https://pennylane.ai/qml/demos/tutorial_ml_classical_shadows.html" target="_blank">PennyLane Tutorial</a>] [<a href="https://youtu.be/W-vGcWZYQeA" target="_blank">Invited talk at Simons Institute</a>]
+[<a href="https://arxiv.org/abs/2106.12627" target="_blank">pdf</a>] [<a href="https://twitter.com/RobertHuangHY/status/1408230497512087554" target="_blank">Twitter thread</a>] [<a href="https://www.caltech.edu/about/news/classical-machine-learning-can-solve-tricky-quantum-problems" target="_blank">Caltech News</a>] [<a href="https://www.sciencedaily.com/releases/2022/09/220923090705.htm" target="_blank">ScienceDaily News</a>] [<a href="https://phys.org/news/2022-09-traditional-quantum-problems.html" target="_blank">Phys.org News</a>]<br>
+[<a href="https://spectrum.ieee.org/machine-learning-quantum" target="_blank">IEEE Spectrum</a>] [<a href="https://pennylane.ai/qml/demos/tutorial_ml_classical_shadows.html" target="_blank">PennyLane Tutorial</a>] [<a href="https://youtu.be/W-vGcWZYQeA" target="_blank">Invited talk at Simons Institute</a>]
 
 
 1. *Challenges and opportunities in quantum machine learning* <br>
