@@ -47,8 +47,9 @@ M. Cerezo, G. Verdon, **H.Y. Huang**, L. Cincio, P. Coles. <br>
 
 1. *Generalization in quantum machine learning from few training data* <br>
 M. C. Caro, **H.-Y. Huang**, M. Cerezo, K. Sharma, A. Sornborger, L. Cincio, P. J. Coles. <br>
-*<a href="https://www.nature.com/articles/s41467-022-32550-3" target="_blank">Nature Communications (2022)</a>.*
-[<a href="https://t.co/oOYhtWcK09" target="_blank">pdf</a>]
+*<a href="https://www.nature.com/articles/s41467-022-32550-3" target="_blank">Nature Communications (2022)</a>.* <br>
+[<a href="https://t.co/oOYhtWcK09" target="_blank">pdf</a>] [<a href="https://discover.lanl.gov/news/0823-quantum-ai" target="_blank">Los Alamos News</a>] [<a href="https://pennylane.ai/qml/demos/tutorial_learning_few_data.html" target="_blank">PennyLane Tutorial</a>]
+
 
 
 1. :dart:  *Quantum advantage in learning from experiments* <br>
