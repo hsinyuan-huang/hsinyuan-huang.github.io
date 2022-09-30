@@ -19,7 +19,7 @@ I utilize ideas and tools in quantum information theory, learning theory, comple
 * Could quantum AI learn faster and predict more accurately than classical AI?
 * How can machine learning advance quantum technology and physical sciences?
 
-My ultimate dream is to realize quantum AI capable of learning and discovering new facets of our universe beyond the reach of humans and classical AI systems.
+My ultimate dream is to build a quantum AI system capable of learning and discovering new facets of our universe beyond the reach of humans and classical AI systems.
 
 <center>
 <img src="assets/img/Intelligence.jpg"
