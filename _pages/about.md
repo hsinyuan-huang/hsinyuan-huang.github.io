@@ -12,7 +12,7 @@ I am Hsin-Yuan Huang (pronounced as "Shin Yuan Huan", 黃信元), a Ph.D. studen
 
 ## Research Interest:
 
-My research aims to build a rigorous foundation for modeling how scientists, machines, and future quantum computers learn and make predictions about our quantum-mechanical universe (molecules, materials, pharmaceutics, exotic quantum matter, engineered quantum devices, etc) and discover new algorithmic tools to enhance one's learning ability.
+My research aims to build a rigorous foundation for modeling how scientists, machines, and future quantum computers learn and make predictions about our quantum-mechanical universe (molecules, materials, pharmaceutics, exotic quantum matter, engineered quantum devices, etc), and to discover new algorithmic tools to enhance one's learning ability.
 
 I utilize tools in quantum information theory, statistical learning theory, computational complexity theory, and quantum many-body physics to study questions such as:
 * How to efficiently learn and make predictions about complex quantum systems?
