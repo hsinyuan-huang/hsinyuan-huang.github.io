@@ -17,7 +17,7 @@ With the rigorous foundation, I seek to discover new algorithmic tools that enha
 
 I utilize tools in quantum information theory, statistical learning theory, computational complexity theory, and quantum many-body physics to study questions such as:
 * How to efficiently learn and make predictions about complex quantum systems?
-* Could quantum AI learn faster and predict more accurately than classical AI?
+* Could quantum machines learn faster and predict more accurately than classical machines?
 * How can machine learning advance quantum technology and physical sciences?
 
 My ultimate dream is to build quantum machines capable of learning and discovering new facets of our universe beyond humans and classical machines.
