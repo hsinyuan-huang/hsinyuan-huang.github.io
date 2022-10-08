@@ -17,7 +17,7 @@ With the rigorous foundation, I seek to discover new algorithmic tools that enha
 
 I utilize tools in quantum information theory, statistical learning theory, computational complexity theory, and quantum many-body physics to study questions such as:
 * How to efficiently learn and make predictions about complex quantum systems?
-* Could quantum machines learn faster and predict more accurately than classical machines?
+* Could quantum machines learn faster and predict better than classical machines?
 * How can machine learning advance quantum technology and physical sciences?
 
 My ultimate dream is to build quantum machines capable of learning and discovering new facets of our universe beyond humans and classical machines.
@@ -32,6 +32,10 @@ My ultimate dream is to build quantum machines capable of learning and discoveri
 
 <a href="https://scholar.google.com/citations?user=2y5YF-gAAAAJ&hl=en" target="_blank">Google Scholar</a> provides a full list under chronological/citations order. Selected publications are labeled by :dart:.
 
+
+1. *Learning many-body Hamiltonians with Heisenberg-limited scaling* <br>
+**H.-Y. Huang**<sup>$\dagger$</sup> (co-first author), **Y. Tong**, Di Fang, Yuan Su. <br>
+*arXiv (2022).* [<a href="https://arxiv.org/abs/2210.03030" target="_blank">pdf</a>] [<a href="https://twitter.com/RobertHuangHY/status/1578350030641328128" target="_blank">Twitter thread</a>]
 
 1. :dart:  *Provably efficient machine learning for quantum many-body problems* <br>
 **H.-Y. Huang**, R. Kueng, G. Torlai, V. V. Albert, J. Preskill. <br>
