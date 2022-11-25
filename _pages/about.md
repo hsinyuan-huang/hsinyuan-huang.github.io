@@ -38,13 +38,11 @@ L. Lewis, **H.-Y. Huang**, J. Preskill.<br>
 
 1. *Learning to predict arbitrary quantum processes* <br>
 **H.-Y. Huang**, S. Chen, J. Preskill.<br>
-*Contributed talk at QIP (2023).*
-[<a href="https://arxiv.org/abs/2210.14894" target="_blank">pdf</a>] [<a href="https://twitter.com/RobertHuangHY/status/1585433883146825728" target="_blank">Twitter thread</a>]
+*Contributed talk at QIP (2023).* [<a href="https://arxiv.org/abs/2210.14894" target="_blank">pdf</a>] [<a href="https://twitter.com/RobertHuangHY/status/1585433883146825728" target="_blank">Twitter thread</a>]
 
 1. *The complexity of NISQ* <br>
 **(alphabetical order)** S. Chen, J. Cotler, H.-Y. Huang, J. Li.<br>
-*Contributed talk at QIP (2023).*.
-[<a href="https://arxiv.org/abs/2210.07234" target="_blank">pdf</a>]
+*Contributed talk at QIP (2023).* [<a href="https://arxiv.org/abs/2210.07234" target="_blank">pdf</a>]
 
 1. *Learning many-body Hamiltonians with Heisenberg-limited scaling* <br>
 **H.-Y. Huang**<sup>$\dagger$</sup> (co-first author), **Y. Tong**, Di Fang, Yuan Su. <br>
