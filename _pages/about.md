@@ -32,6 +32,11 @@ My ultimate dream is to build quantum machines capable of learning and discoveri
 
 <a href="https://scholar.google.com/citations?user=2y5YF-gAAAAJ&hl=en" target="_blank">Google Scholar</a> provides a full list under chronological/citations order. Selected publications are labeled by :dart:.
 
+1. *The randomized measurement toolbox* <br>
+**(alphabetical order)** A. Elben, S. Flammia, H.-Y. Huang, R. Kueng, J. Preskill, B. Vermersch, P. Zoller.<br>
+*<a href="https://www.nature.com/articles/s42254-022-00535-2" target="_blank">Nature Review Physics (2022)</a>.* [<a href="https://arxiv.org/abs/2203.11374" target="_blank">pdf</a>] [<a href="https://www.youtube.com/watch?v=FXdJoJ0qcZY&ab_channel=caltech" target="_blank">Tutorial at QIP 2022</a>]
+
+
 1. *Improved machine learning algorithm for predicting ground state properties* <br>
 L. Lewis, **H.-Y. Huang**, J. Preskill.<br>
 *Contributed talk at QIP (2023).*
@@ -92,12 +97,6 @@ M. C. Caro<sup>$\dagger$</sup>, **H.-Y. Huang**<sup>$\dagger$</sup> (co-first au
 J. Gibbs, Z. Holmes, M. C. Caro, N. Ezzell, **H.-Y. Huang**, L. Cincio, A. T. Sornborger, P. J. Coles. <br>
 *arXiv (2022).*
 [<a href="https://arxiv.org/abs/2204.10269" target="_blank">pdf</a>]
-
-
-1. *The randomized measurement toolbox* <br>
-**(alphabetical order)** A. Elben, S. Flammia, H.-Y. Huang, R. Kueng, J. Preskill, B. Vermersch, P. Zoller.<br>
-*arXiv (2022).*
-[<a href="https://arxiv.org/abs/2203.11374" target="_blank">pdf</a>] [<a href="https://www.youtube.com/watch?v=FXdJoJ0qcZY&ab_channel=caltech" target="_blank">Tutorial at QIP 2022</a>]
 
 
 1. *Learning quantum states from their classical shadows* <br>
