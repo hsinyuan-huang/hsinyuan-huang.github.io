@@ -193,7 +193,7 @@ A. Elben, R. Kueng, **H.-Y. Huang**, R. van Bijnen, C. Kokail, M. Dalmonte, P. C
 
 6. :dart: *Predicting many properties in a quantum system from very few measurements* <br>
 **H.-Y. Huang**, R. Kueng, J. Preskill. <br>
-*<a href="https://www.nature.com/articles/s41567-020-0932-7" target="_blank">Nature Physics (2020)</a>, Single-track talk at QIP (2020).*<br>
+*<a href="https://www.nature.com/articles/s41567-020-0932-7" target="_blank">Nature Physics (2020)</a>, Short plenary talk at QIP (2020).*<br>
 [<a href="https://arxiv.org/abs/2002.08953" target="_blank">pdf</a>] [<a href="https://en.wikipedia.org/wiki/Classical_shadow" target="_blank">Wikipedia page</a>] [<a href="https://pennylane.ai/qml/demos/tutorial_classical_shadows.html" target="_blank">PennyLane Tutorial</a>] [<a href="https://www.youtube.com/watch?v=NXejv2wVwas&t=2553s&ab_channel=SimonsInstitute" target="_blank">Talk by John Preskill</a>] [<a href="https://phys.org/news/2020-07-method-properties-complex-quantum.html" target="_blank">Phys.org News</a>]
 
 
