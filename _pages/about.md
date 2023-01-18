@@ -32,10 +32,17 @@ My ultimate dream is to build quantum machines capable of learning and discoveri
 
 <a href="https://scholar.google.com/citations?user=2y5YF-gAAAAJ&hl=en" target="_blank">Google Scholar</a> provides a full list under chronological/citations order. Selected publications are labeled by :dart:.
 
+1. *Preparing random states and benchmarking with many-body quantum chaos* <br>
+J. Choi, A. L. Shaw, I. S. Madjarov, X. Xie, R. Finkelstein, J. P. Covey, J. S. Cotler, D. K. Mark, **H.-Y. Huang**, A. Kale, H. Pichler, F. G. S. L. Brandao, S. Choi, M. Endres. <br>
+*<a href="https://www.nature.com/articles/s41586-022-05442-1" target="_blank">Nature (2023)</a>.* [<a href="https://arxiv.org/abs/2103.03535" target="_blank">pdf</a>]
+
+1. *Hardware-efficient learning of quantum many-body states* <br>
+K. V. Kirk, J. Cotler, **H.-Y. Huang**, M. D. Lukin. <br>
+*arXiv (2022).* [<a href="https://arxiv.org/abs/2212.06084" target="_blank">pdf</a>]
+
 1. *The randomized measurement toolbox* <br>
 **(alphabetical order)** A. Elben, S. Flammia, H.-Y. Huang, R. Kueng, J. Preskill, B. Vermersch, P. Zoller.<br>
 *<a href="https://www.nature.com/articles/s42254-022-00535-2" target="_blank">Nature Review Physics (2022)</a>.* [<a href="https://arxiv.org/abs/2203.11374" target="_blank">pdf</a>] [<a href="https://www.youtube.com/watch?v=FXdJoJ0qcZY&ab_channel=caltech" target="_blank">Tutorial at QIP 2022</a>]
-
 
 1. *Improved machine learning algorithm for predicting ground state properties* <br>
 L. Lewis, **H.-Y. Huang**, J. Preskill.<br>
@@ -157,12 +164,6 @@ J. Cotler<sup>$\dagger$</sup>, D. Mark<sup>$\dagger$</sup>, **H.-Y. Huang**<sup>
 [<a href="https://arxiv.org/abs/2103.03536" target="_blank">pdf</a>]
 
 
-12. *Emergent Randomness and Benchmarking from Many-Body Quantum Chaos* <br>
-J. Choi, A. Shaw, I. Madjarov, X. Xie, J. Covey, J. Cotler, D. Mark, **H.-Y. Huang**, A. Kale, H. Pichler, F. Brandao, S. Choi, M. Endres. <br>
-*arXiv (2021).*
-[<a href="https://arxiv.org/abs/2103.03535" target="_blank">pdf</a>]
-
-
 11. *Nearly-tight Trotterization of interacting electrons* <br>
 Y. Su, **H.-Y. Huang**, E. Campbell. <br>
 *<a href="https://quantum-journal.org/papers/q-2021-07-05-495/" target="_blank">Quantum (2021)</a>, Contributed talk at QIP (2021).*
@@ -204,7 +205,7 @@ A. Elben, R. Kueng, **H.-Y. Huang**, R. van Bijnen, C. Kokail, M. Dalmonte, P. C
 I have previously worked on machine learning at <a href="https://scholar.google.com/citations?user=SLMkts8AAAAJ&hl=en" target="_blank">Chih-Jen Lin's group</a>, deep learning at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-ai/" target="_blank">Microsoft Research</a> and <a href="https://allenai.org/" target="_blank">Allen Institute of AI</a>, and biology at <a href="http://sbl.csie.org/JuanLab/doku.php?id=PI:Hsueh-Fen%20Juan" target="_blank">Hsueh-Fen Juan's lab</a>.
 
 
-{:start="29"}
+{:start="30"}
 5. *FlowQA: grasping flow in history for conversational machine comprehension* <br>
 **H.-Y. Huang**, E. Choi, W. Yih. <br>
 *ICLR (2019)*. [<a href="https://arxiv.org/abs/1810.06683" target="_blank">pdf</a>]
