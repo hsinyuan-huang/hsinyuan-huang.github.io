@@ -32,6 +32,10 @@ My ultimate dream is to build quantum machines capable of learning and discoveri
 
 <a href="https://scholar.google.com/citations?user=2y5YF-gAAAAJ&hl=en" target="_blank">Google Scholar</a> provides a full list under chronological/citations order. Selected publications are labeled by :dart:.
 
+1. *Improved machine learning algorithm for predicting ground state properties* <br>
+L. Lewis, **H.-Y. Huang**, V. T. Tran, S. Lehner, R. Kueng, J. Preskill.<br>
+*Contributed talk at QIP (2023).* [<a href="https://arxiv.org/abs/2301.13169" target="_blank">pdf</a>] [<a href="https://twitter.com/RobertHuangHY/status/1620505355360038912" target="_blank">Twitter thread</a>]
+
 1. *Preparing random states and benchmarking with many-body quantum chaos* <br>
 J. Choi, A. L. Shaw, I. S. Madjarov, X. Xie, R. Finkelstein, J. P. Covey, J. S. Cotler, D. K. Mark, **H.-Y. Huang**, A. Kale, H. Pichler, F. G. S. L. Brandao, S. Choi, M. Endres. <br>
 *<a href="https://www.nature.com/articles/s41586-022-05442-1" target="_blank">Nature (2023)</a>.* [<a href="https://arxiv.org/abs/2103.03535" target="_blank">pdf</a>]
@@ -43,10 +47,6 @@ K. V. Kirk, J. Cotler, **H.-Y. Huang**, M. D. Lukin. <br>
 1. *The randomized measurement toolbox* <br>
 **(alphabetical order)** A. Elben, S. Flammia, H.-Y. Huang, R. Kueng, J. Preskill, B. Vermersch, P. Zoller.<br>
 *<a href="https://www.nature.com/articles/s42254-022-00535-2" target="_blank">Nature Review Physics (2022)</a>.* [<a href="https://arxiv.org/abs/2203.11374" target="_blank">pdf</a>] [<a href="https://www.youtube.com/watch?v=FXdJoJ0qcZY&ab_channel=caltech" target="_blank">Tutorial at QIP 2022</a>]
-
-1. *Improved machine learning algorithm for predicting ground state properties* <br>
-L. Lewis, **H.-Y. Huang**, J. Preskill.<br>
-*Contributed talk at QIP (2023).*
 
 1. *Learning to predict arbitrary quantum processes* <br>
 **H.-Y. Huang**, S. Chen, J. Preskill.<br>
