@@ -40,6 +40,11 @@ L. Lewis, **H.-Y. Huang**, V. T. Tran, S. Lehner, R. Kueng, J. Preskill.<br>
 J. Choi, A. L. Shaw, I. S. Madjarov, X. Xie, R. Finkelstein, J. P. Covey, J. S. Cotler, D. K. Mark, **H.-Y. Huang**, A. Kale, H. Pichler, F. G. S. L. Brandao, S. Choi, M. Endres. <br>
 *<a href="https://www.nature.com/articles/s41586-022-05442-1" target="_blank">Nature (2023)</a>.* [<a href="https://arxiv.org/abs/2103.03535" target="_blank">pdf</a>]
 
+1. *Emergent quantum state designs from individual many-body wavefunctions* <br>
+J. Cotler<sup>$\dagger$</sup>, D. Mark<sup>$\dagger$</sup>, **H.-Y. Huang**<sup>$\dagger$</sup> (co-first author), F. Hernandez, J. Choi, A. L. Shaw, M. Endres, S. Choi.<br>
+*<a href="https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.4.010311?ft=1" target="_blank">PRX Quantum (2023)</a>.*
+[<a href="https://arxiv.org/abs/2103.03536" target="_blank">pdf</a>]
+
 1. *Hardware-efficient learning of quantum many-body states* <br>
 K. V. Kirk, J. Cotler, **H.-Y. Huang**, M. D. Lukin. <br>
 *arXiv (2022).* [<a href="https://arxiv.org/abs/2212.06084" target="_blank">pdf</a>]
@@ -156,12 +161,6 @@ J. R. McClean, N. C. Rubin, J. Lee, M. P. Harrigan, T. E. O'Brien, R. Babbush, W
 **H.-Y. Huang**, R. Kueng, J. Preskill.<br>
 *<a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.190505" target="_blank">Physical Review Letters (Editor's Suggestion)</a>, Contributed talk at QIP (2021).*<br>
 [<a href="https://arxiv.org/abs/2101.02464" target="_blank">pdf</a>] [<a href="https://www.youtube.com/watch?v=d1_hBEJQUSA&t=1202s&ab_channel=MunichCenterforQuantumScience%26Technology" target="_blank">Talk at QIP</a>] [<a href="https://quantumfrontiers.com/2021/06/02/peeking-into-the-world-of-quantum-intelligence/" target="_blank">IQIM blog</a>]
-
-
-13. *Emergent quantum state designs from individual many-body wavefunctions* <br>
-J. Cotler<sup>$\dagger$</sup>, D. Mark<sup>$\dagger$</sup>, **H.-Y. Huang**<sup>$\dagger$</sup> (co-first author), F. Hernandez, J. Choi, A. L. Shaw, M. Endres, S. Choi.<br>
-*arXiv (2021).*
-[<a href="https://arxiv.org/abs/2103.03536" target="_blank">pdf</a>]
 
 
 11. *Nearly-tight Trotterization of interacting electrons* <br>
