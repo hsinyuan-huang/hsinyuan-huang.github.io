@@ -32,6 +32,10 @@ My ultimate dream is to build quantum machines capable of learning and discoveri
 
 <a href="https://scholar.google.com/citations?user=2y5YF-gAAAAJ&hl=en" target="_blank">Google Scholar</a> provides a full list under chronological/citations order. Selected publications are labeled by :dart:.
 
+1. *The power and limitations of learning quantum dynamics incoherently* <br>
+S. Jerbi, J. Gibbs, M. S. Rudolph, M. C. Caro, P. J. Coles, **H.-Y. Huang**, Z. Holmes.<br>
+*arXiv (2023).* [<a href="https://arxiv.org/abs/2303.12834" target="_blank">pdf</a>]
+
 1. *Improved machine learning algorithm for predicting ground state properties* <br>
 L. Lewis, **H.-Y. Huang**, V. T. Tran, S. Lehner, R. Kueng, J. Preskill.<br>
 *Contributed talk at QIP (2023).* [<a href="https://arxiv.org/abs/2301.13169" target="_blank">pdf</a>] [<a href="https://twitter.com/RobertHuangHY/status/1620505355360038912" target="_blank">Twitter thread</a>]
