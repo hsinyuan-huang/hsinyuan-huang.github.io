@@ -32,6 +32,15 @@ My ultimate dream is to build quantum machines capable of learning and discoveri
 
 <a href="https://scholar.google.com/citations?user=2y5YF-gAAAAJ&hl=en" target="_blank">Google Scholar</a> provides a full list under chronological/citations order. Selected publications are labeled by :dart:.
 
+
+1. *Out-of-distribution generalization for learning quantum dynamics* <br>
+M. C. Caro<sup>$\dagger$</sup>, **H.-Y. Huang**<sup>$\dagger$</sup> (co-first author), N. Ezzell, J. Gibbs, A. T. Sornborger, L. Cincio, P. J. Coles, Z. Holmes.<br>
+*<a href="https://www.nature.com/articles/s41467-023-39381-w" target="_blank">Nature Communications (2022)</a>.* [<a href="https://arxiv.org/abs/2204.10268" target="_blank">pdf</a>] [<a href="https://www.eurekalert.org/news-releases/994275">News</a>]
+
+1. *Learning many-body Hamiltonians with Heisenberg-limited scaling* <br>
+**H.-Y. Huang**<sup>$\dagger$</sup> (co-first author), **Y. Tong**, Di Fang, Yuan Su. <br>
+*Short plenary talk at QIP (2023), <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.200403" target="_blank">Physical Review Letters (2021)</a>.* [<a href="https://arxiv.org/abs/2210.03030" target="_blank">pdf</a>] [<a href="https://twitter.com/RobertHuangHY/status/1578350030641328128" target="_blank">Twitter thread</a>]
+
 1. *The power and limitations of learning quantum dynamics incoherently* <br>
 S. Jerbi, J. Gibbs, M. S. Rudolph, M. C. Caro, P. J. Coles, **H.-Y. Huang**, Z. Holmes.<br>
 *arXiv (2023).* [<a href="https://arxiv.org/abs/2303.12834" target="_blank">pdf</a>]
@@ -65,10 +74,6 @@ K. V. Kirk, J. Cotler, **H.-Y. Huang**, M. D. Lukin. <br>
 **(alphabetical order)** S. Chen, J. Cotler, H.-Y. Huang, J. Li.<br>
 *Contributed talk at QIP (2023).* [<a href="https://arxiv.org/abs/2210.07234" target="_blank">pdf</a>]
 
-1. *Learning many-body Hamiltonians with Heisenberg-limited scaling* <br>
-**H.-Y. Huang**<sup>$\dagger$</sup> (co-first author), **Y. Tong**, Di Fang, Yuan Su. <br>
-*Short plenary talk at QIP (2023).* [<a href="https://arxiv.org/abs/2210.03030" target="_blank">pdf</a>] [<a href="https://twitter.com/RobertHuangHY/status/1578350030641328128" target="_blank">Twitter thread</a>]
-
 1. :dart:  *Provably efficient machine learning for quantum many-body problems* <br>
 **H.-Y. Huang**, R. Kueng, G. Torlai, V. V. Albert, J. Preskill. <br>
 *<a href="https://www.science.org/doi/10.1126/science.abk3333" target="_blank">Science (2022)</a>, Plenary talk at QIP (2022).* <br>
@@ -88,7 +93,6 @@ M. C. Caro, **H.-Y. Huang**, M. Cerezo, K. Sharma, A. Sornborger, L. Cincio, P. 
 [<a href="https://arxiv.org/abs/2111.05292" target="_blank">pdf</a>] [<a href="https://discover.lanl.gov/news/0823-quantum-ai" target="_blank">Los Alamos News</a>] [<a href="https://pennylane.ai/qml/demos/tutorial_learning_few_data.html" target="_blank">PennyLane Tutorial</a>]
 
 
-
 1. :dart:  *Quantum advantage in learning from experiments* <br>
 **H.-Y. Huang**, M. Broughton, J. Cotler, S. Chen, J. Li, M. Mohseni, H. Neven, R. Babbush, R. Kueng, J. Preskill, J. R. McClean. <br>
 *<a href="https://www.science.org/doi/10.1126/science.abn7293" target="_blank">Science (2022)</a>.*<br>
@@ -101,12 +105,6 @@ M. C. Caro, **H.-Y. Huang**, M. Cerezo, K. Sharma, A. Sornborger, L. Cincio, P. 
 *H.-Y. Huang, S. Flammia, J. Preskill.* <br>
 *Contributed talk at QIP (2022).*
 [<a href="https://arxiv.org/abs/2204.13691" target="_blank">pdf</a>]
-
-
-1. *Out-of-distribution generalization for learning quantum dynamics* <br>
-M. C. Caro<sup>$\dagger$</sup>, **H.-Y. Huang**<sup>$\dagger$</sup> (co-first author), N. Ezzell, J. Gibbs, A. T. Sornborger, L. Cincio, P. J. Coles, Z. Holmes.<br>
-*arXiv (2022).*
-[<a href="https://arxiv.org/abs/2204.10268" target="_blank">pdf</a>]
 
 
 1. *Dynamical simulation via quantum machine learning with provable generalization* <br>
