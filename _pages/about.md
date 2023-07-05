@@ -35,11 +35,11 @@ My ultimate dream is to build quantum machines capable of learning and discoveri
 
 1. *Out-of-distribution generalization for learning quantum dynamics* <br>
 M. C. Caro<sup>$\dagger$</sup>, **H.-Y. Huang**<sup>$\dagger$</sup> (co-first author), N. Ezzell, J. Gibbs, A. T. Sornborger, L. Cincio, P. J. Coles, Z. Holmes.<br>
-*<a href="https://www.nature.com/articles/s41467-023-39381-w" target="_blank">Nature Communications (2022)</a>.* [<a href="https://arxiv.org/abs/2204.10268" target="_blank">pdf</a>] [<a href="https://www.eurekalert.org/news-releases/994275">News</a>]
+*<a href="https://www.nature.com/articles/s41467-023-39381-w" target="_blank">Nature Communications (2023)</a>.* [<a href="https://arxiv.org/abs/2204.10268" target="_blank">pdf</a>] [<a href="https://www.eurekalert.org/news-releases/994275">News</a>]
 
 1. *Learning many-body Hamiltonians with Heisenberg-limited scaling* <br>
 **H.-Y. Huang**<sup>$\dagger$</sup> (co-first author), **Y. Tong**, Di Fang, Yuan Su. <br>
-*Short plenary talk at QIP (2023), <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.200403" target="_blank">Physical Review Letters (2021)</a>.* [<a href="https://arxiv.org/abs/2210.03030" target="_blank">pdf</a>] [<a href="https://twitter.com/RobertHuangHY/status/1578350030641328128" target="_blank">Twitter thread</a>]
+*<a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.200403" target="_blank">Physical Review Letters (2021)</a>, Short plenary talk at QIP (2023).* [<a href="https://arxiv.org/abs/2210.03030" target="_blank">pdf</a>] [<a href="https://twitter.com/RobertHuangHY/status/1578350030641328128" target="_blank">Twitter thread</a>]
 
 1. *The power and limitations of learning quantum dynamics incoherently* <br>
 S. Jerbi, J. Gibbs, M. S. Rudolph, M. C. Caro, P. J. Coles, **H.-Y. Huang**, Z. Holmes.<br>
