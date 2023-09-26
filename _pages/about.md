@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Hsin-Yuan Huang (pronounced as "Shin Yuan Huan", 黃信元), a Ph.D. student at Caltech advised by <a href="https://scholar.google.com/citations?user=xmOSptwAAAAJ&hl=en" target="_blank">John Preskill</a> and <a href="https://scholar.google.com/citations?user=IGDs4HwAAAAJ&hl=en" target="_blank">Thomas Vidick</a>. I also go by the name Robert.
+I am Hsin-Yuan Huang (pronounced as "Shin Yuan Huan", 黃信元), a research scientist at Google Quantum AI and a visiting researcher at MIT. I received my Ph.D. from Caltech advised by <a href="https://scholar.google.com/citations?user=xmOSptwAAAAJ&hl=en" target="_blank">John Preskill</a> and <a href="https://scholar.google.com/citations?user=IGDs4HwAAAAJ&hl=en" target="_blank">Thomas Vidick</a>. I also go by the name Robert.
 
 ## Research Interest:
 
