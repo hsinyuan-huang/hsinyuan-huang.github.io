@@ -32,6 +32,21 @@ My ultimate dream is to build quantum machines capable of learning and discoveri
 
 <a href="https://scholar.google.com/citations?user=2y5YF-gAAAAJ&hl=en" target="_blank">Google Scholar</a> provides a full list under chronological/citations order. Selected publications are labeled by :dart:.
 
+1. *Local minima in quantum systems* <br>
+**(alphabetical order)** C.-F. Chen, **H.-Y. Huang**, J. Preskill, L. Zhou.<br>
+*arXiv (2023).* [<a href="https://arxiv.org/abs/2309.16596" target="_blank">pdf</a>] [<a href="https://twitter.com/RobertHuangHY/status/1707861752942145672" target="_blank">Twitter thread</a>]
+
+1. *Tight bounds on Pauli channel learning without entanglement* <br>
+S. Chen, C. Oh, S. Zhou, **H.-Y. Huang**, L. Jiang. <br>
+*arXiv (2023).* [<a href="https://arxiv.org/abs/2309.13461" target="_blank">pdf</a>]
+
+1. *Learning conservation laws in unknown quantum dynamics* <br>
+Y. Zhan, A. Elben, **Hsin-Yuan Huang**, Y. Tong. <br>
+*arXiv (2023).* [<a href="https://arxiv.org/abs/2309.00774" target="_blank">pdf</a>]
+
+1. *On quantum backpropagation, information reuse, and cheating measurement collapse* <br>
+A. Abbas, R. King, **H.-Y. Huang**, W. J Huggins, R. Movassagh, D. Gilboa, J. R McClean
+*NeurIPS 2023 Spotlight.* [<a href="https://arxiv.org/abs/2305.13362" target="_blank">pdf</a>]
 
 1. *Out-of-distribution generalization for learning quantum dynamics* <br>
 M. C. Caro<sup>$\dagger$</sup>, **H.-Y. Huang**<sup>$\dagger$</sup> (co-first author), N. Ezzell, J. Gibbs, A. T. Sornborger, L. Cincio, P. J. Coles, Z. Holmes.<br>
@@ -206,7 +221,7 @@ A. Elben, R. Kueng, **H.-Y. Huang**, R. van Bijnen, C. Kokail, M. Dalmonte, P. C
 I have previously worked on machine learning at <a href="https://scholar.google.com/citations?user=SLMkts8AAAAJ&hl=en" target="_blank">Chih-Jen Lin's group</a>, deep learning at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-ai/" target="_blank">Microsoft Research</a> and <a href="https://allenai.org/" target="_blank">Allen Institute of AI</a>, and biology at <a href="http://sbl.csie.org/JuanLab/doku.php?id=PI:Hsueh-Fen%20Juan" target="_blank">Hsueh-Fen Juan's lab</a>.
 
 
-{:start="31"}
+{:start="35"}
 5. *FlowQA: grasping flow in history for conversational machine comprehension* <br>
 **H.-Y. Huang**, E. Choi, W. Yih. <br>
 *ICLR (2019)*. [<a href="https://arxiv.org/abs/1810.06683" target="_blank">pdf</a>]
