@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am Hsin-Yuan Huang (pronounced as "Shin Yuan Huan", 黃信元). I am currently a visiting scientist at MIT and a researcher at Google Quantum AI.
+I am Hsin-Yuan Huang (pronounced as "Shin Yuan Huan", 黃信元), a visiting scientist at MIT (2023 to 2024) and a research scientist at Google Quantum AI. I received my Ph.D. in 2023 advised by John Preskill and Thomas Vidick.
 
-I received my Ph.D. from Caltech in 2023 and my B.S. from National Taiwan University in 2018. In 2025, I will start as an Assistant Professor of Theoretical Physics at Caltech.
+In 2025, I will start as an Assistant Professor of Theoretical Physics at <a href="https://www.caltech.edu/" target="_blank">Caltech</a>.
 
 ## Research Interest:
 
 My research aims to build a rigorous foundation for modeling how scientists, machines, and future quantum computers learn about our inherently quantum-mechanical universe (molecules, materials, pharmaceutics, exotic quantum matter, engineered quantum devices, etc).
 
-I utilize tools in quantum information theory, statistical learning theory, computational complexity theory, and quantum many-body physics to study questions such as:
+I utilize tools in quantum information theory, quantum many-body physics, learning theory, and complexity theory to study questions such as:
 * How to efficiently learn and make predictions about complex quantum systems?
 * Could quantum machines learn faster and predict better than classical machines?
 * How can machine learning advance quantum technology and physical sciences?
@@ -26,7 +26,7 @@ My ultimate dream is to build quantum machines capable of learning and discoveri
 <center>
 <img src="assets/img/Intelligence.jpg"
      alt="Cartoon depiction of intelligence"
-     style="text-align:center; width:65%; border-radius:15%; padding-top:15px; padding-bottom:1px" />
+     style="text-align:center; width:55%; border-radius:15%; padding-top:15px; padding-bottom:1px" />
 </center>
 
 ## Publications:
