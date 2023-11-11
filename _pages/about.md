@@ -8,12 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am Hsin-Yuan Huang (pronounced as "Shin Yuan Huan", 黃信元), a research scientist at Google Quantum AI and a visiting researcher at MIT. I received my Ph.D. from Caltech advised by <a href="https://scholar.google.com/citations?user=xmOSptwAAAAJ&hl=en" target="_blank">John Preskill</a> and <a href="https://scholar.google.com/citations?user=IGDs4HwAAAAJ&hl=en" target="_blank">Thomas Vidick</a>. I also go by the name Robert.
+I am Hsin-Yuan Huang (pronounced as "Shin Yuan Huan", 黃信元). I am currently a visiting scientist at MIT and a researcher at Google Quantum AI.
+
+I received my Ph.D. from Caltech in 2023 and my B.S. from National Taiwan University in 2018. In 2025, I will start as an Assistant Professor of Theoretical Physics at Caltech.
 
 ## Research Interest:
 
 My research aims to build a rigorous foundation for modeling how scientists, machines, and future quantum computers learn about our inherently quantum-mechanical universe (molecules, materials, pharmaceutics, exotic quantum matter, engineered quantum devices, etc).
-With the rigorous foundation, I seek to discover new algorithmic tools that enhance one's ability to make predictions about the quantum world.
 
 I utilize tools in quantum information theory, statistical learning theory, computational complexity theory, and quantum many-body physics to study questions such as:
 * How to efficiently learn and make predictions about complex quantum systems?
@@ -25,12 +26,16 @@ My ultimate dream is to build quantum machines capable of learning and discoveri
 <center>
 <img src="assets/img/Intelligence.jpg"
      alt="Cartoon depiction of intelligence"
-     style="text-align:center; width:55%; border-radius:15%; padding-top:15px; padding-bottom:1px" />
+     style="text-align:center; width:65%; border-radius:15%; padding-top:15px; padding-bottom:1px" />
 </center>
 
 ## Publications:
 
 <a href="https://scholar.google.com/citations?user=2y5YF-gAAAAJ&hl=en" target="_blank">Google Scholar</a> provides a full list under chronological/citations order. Selected publications are labeled by :dart:.
+
+1. *Learning quantum states and unitaries of bounded gate complexity* <br>
+H. Zhao, L. Lewis, I. Kannan, Y. Quek, **H.-Y. Huang**, M. C. Caro.<br>
+*arXiv (2023).* [<a href="https://arxiv.org/abs/2310.19882" target="_blank">pdf</a>]
 
 1. *Local minima in quantum systems* <br>
 **(alphabetical order)** C.-F. Chen, **H.-Y. Huang**, J. Preskill, L. Zhou.<br>
@@ -152,19 +157,19 @@ J. Gibbs, Z. Holmes, M. C. Caro, N. Ezzell, **H.-Y. Huang**, L. Cincio, A. T. So
 [<a href="https://arxiv.org/abs/2111.05874" target="_blank">pdf</a>]
 
 
-15. *What the foundations of quantum computer science teach us about chemistry*. <br>
+1. *What the foundations of quantum computer science teach us about chemistry*. <br>
 J. R. McClean, N. C. Rubin, J. Lee, M. P. Harrigan, T. E. O'Brien, R. Babbush, W. J. Huggins, **H.-Y. Huang**. <br>
 *<a href="https://aip.scitation.org/doi/10.1063/5.0060367" target="_blank">Journal of Chemical Physics (2021)</a>.*
 [<a href="https://arxiv.org/abs/2106.03997" target="_blank">pdf</a>] [<a href="https://www.youtube.com/watch?v=gDlaWPFwyNw&ab_channel=SimonsInstitute" target="_blank">talk at Simons Institute</a>]
 
 
-14. *Efficient estimation of Pauli observables by derandomization* <br>
+1. *Efficient estimation of Pauli observables by derandomization* <br>
 **H.-Y. Huang**, R. Kueng, J. Preskill. <br>
 *<a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.030503" target="_blank">Physical Review Letters (2021)</a>, TQC (2021).*
 [<a href="https://arxiv.org/abs/2103.07510" target="_blank">pdf</a>].
 
 
-17. :dart: *Power of data in quantum machine learning* <br>
+1. :dart: *Power of data in quantum machine learning* <br>
 **H.-Y. Huang**, M. Broughton, M. Mohseni, R. Babbush, S. Boixo, H. Neven, J. R. McClean. <br>
 *<a href="https://www.nature.com/articles/s41467-021-22539-9" target="_blank">Nature Communications (Featured)</a>, Contributed talk at QIP (2021).*<br>
 [<a href="https://arxiv.org/abs/2011.01938" target="_blank">pdf</a>]
@@ -174,41 +179,41 @@ J. R. McClean, N. C. Rubin, J. Lee, M. P. Harrigan, T. E. O'Brien, R. Babbush, W
 [<a href="https://www.tensorflow.org/quantum/tutorials/quantum_data" target="_blank">TensorFlow Quantum Tutorial</a>]
 
 
-16. :dart: *Information-theoretic bounds on quantum advantage in machine learning* <br>
+1. :dart: *Information-theoretic bounds on quantum advantage in machine learning* <br>
 **H.-Y. Huang**, R. Kueng, J. Preskill.<br>
 *<a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.190505" target="_blank">Physical Review Letters (Editor's Suggestion)</a>, Contributed talk at QIP (2021).*<br>
 [<a href="https://arxiv.org/abs/2101.02464" target="_blank">pdf</a>] [<a href="https://www.youtube.com/watch?v=d1_hBEJQUSA&t=1202s&ab_channel=MunichCenterforQuantumScience%26Technology" target="_blank">Talk at QIP</a>] [<a href="https://quantumfrontiers.com/2021/06/02/peeking-into-the-world-of-quantum-intelligence/" target="_blank">IQIM blog</a>]
 
 
-11. *Nearly-tight Trotterization of interacting electrons* <br>
+1. *Nearly-tight Trotterization of interacting electrons* <br>
 Y. Su, **H.-Y. Huang**, E. Campbell. <br>
 *<a href="https://quantum-journal.org/papers/q-2021-07-05-495/" target="_blank">Quantum (2021)</a>, Contributed talk at QIP (2021).*
 [<a href="https://arxiv.org/abs/2012.09194" target="_blank">pdf</a>] [<a href="https://www.youtube.com/watch?v=NMc6PLOCU4g&t=39s&ab_channel=MunichCenterforQuantumScience%26Technology" target="_blank">Talk at QIP</a>]
 
 
-10. *Concentration for random product formulas* <br>
+1. *Concentration for random product formulas* <br>
 C.-F. Chen<sup>$\dagger$</sup>, **H.-Y. Huang**<sup>$\dagger$</sup> (co-first author), R. Kueng, J. Tropp. <br>
 *<a href="https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.2.040305" target="_blank">PRX Quantum (2021)</a>, TQC (2021).*
 [<a href="https://arxiv.org/abs/2008.11751" target="_blank">pdf</a>] [<a href="https://www.youtube.com/watch?v=vrp1gcsslXE&ab_channel=TQC2021" target="_blank">Talk at TQC</a>]
 
 
-9. *Near-term quantum algorithms for linear systems of equations* <br>
+1. *Near-term quantum algorithms for linear systems of equations* <br>
 **H.-Y. Huang**, K. Bharti, P. Rebentrost. <br>
 *<a href="https://iopscience.iop.org/article/10.1088/1367-2630/ac325f" target="_blank">New Journal of Physics (2021)</a>.*
 [<a href="https://arxiv.org/abs/1909.07344" target="_blank">pdf</a>]
 
 
-8. *TensorFlow Quantum: A Software Framework for Quantum Machine Learning* <br>
+1. *TensorFlow Quantum: A Software Framework for Quantum Machine Learning* <br>
 M. Broughton, G. Verdon, T. McCourt, A. J. Martinez, J. H. Yoo, S. V. Isakov, P. Massey, R. Halavati, M. Y. Niu, A. Zlokapa, E. Peters, O. Lockwood, A. Skolik, S. Jerbi, V. Dunjko, M. Leib, M. Streif, D. V. Dollen, H. Chen, S. Cao, R. Wiersema, **H.-Y. Huang**, J. R. McClean, R. Babbush, S. Boixo, D. Bacon, A. K. Ho, H. Neven, M. Mohseni.<br>
 *arXiv (2020).* [<a href="https://arxiv.org/abs/2003.02989"  target="_blank">pdf</a>] [<a href="https://www.tensorflow.org/quantum" target="_blank">TFQ Website</a>]
 
 
-7. *Mixed-state entanglement from local randomized measurements* <br>
+1. *Mixed-state entanglement from local randomized measurements* <br>
 A. Elben, R. Kueng, **H.-Y. Huang**, R. van Bijnen, C. Kokail, M. Dalmonte, P. Calabrese, B. Kraus, J. Preskill, P. Zoller, B. Vermersch. <br>
 *<a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.200501" target="_blank">Physical Review Letters (2020)</a>.* [<a href="https://arxiv.org/abs/2007.06305" target="_blank">pdf</a>]
 
 
-6. :dart: *Predicting many properties in a quantum system from very few measurements* <br>
+1. :dart: *Predicting many properties in a quantum system from very few measurements* <br>
 **H.-Y. Huang**, R. Kueng, J. Preskill. <br>
 *<a href="https://www.nature.com/articles/s41567-020-0932-7" target="_blank">Nature Physics (2020)</a>, Short plenary talk at QIP (2020).*<br>
 [<a href="https://arxiv.org/abs/2002.08953" target="_blank">pdf</a>] [<a href="https://github.com/hsinyuan-huang/predicting-quantum-properties" target="_blank">code</a>] [<a href="https://en.wikipedia.org/wiki/Classical_shadow" target="_blank">Wikipedia page</a>] [<a href="https://pennylane.ai/qml/demos/tutorial_classical_shadows.html" target="_blank">PennyLane Tutorial</a>] [<a href="https://www.youtube.com/watch?v=NXejv2wVwas&t=2553s&ab_channel=SimonsInstitute" target="_blank">Talk by John Preskill</a>] [<a href="https://phys.org/news/2020-07-method-properties-complex-quantum.html" target="_blank">Phys.org News</a>]
@@ -221,7 +226,7 @@ A. Elben, R. Kueng, **H.-Y. Huang**, R. van Bijnen, C. Kokail, M. Dalmonte, P. C
 I have previously worked on machine learning at <a href="https://scholar.google.com/citations?user=SLMkts8AAAAJ&hl=en" target="_blank">Chih-Jen Lin's group</a>, deep learning at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-ai/" target="_blank">Microsoft Research</a> and <a href="https://allenai.org/" target="_blank">Allen Institute of AI</a>, and biology at <a href="http://sbl.csie.org/JuanLab/doku.php?id=PI:Hsueh-Fen%20Juan" target="_blank">Hsueh-Fen Juan's lab</a>.
 
 
-{:start="35"}
+{:start="36"}
 5. *FlowQA: grasping flow in history for conversational machine comprehension* <br>
 **H.-Y. Huang**, E. Choi, W. Yih. <br>
 *ICLR (2019)*. [<a href="https://arxiv.org/abs/1810.06683" target="_blank">pdf</a>]
