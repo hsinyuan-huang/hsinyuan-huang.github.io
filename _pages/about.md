@@ -41,6 +41,10 @@ H. Zhao, L. Lewis, I. Kannan, Y. Quek, **H.-Y. Huang**, M. C. Caro.<br>
 **(alphabetical order)** C.-F. Chen, **H.-Y. Huang**, J. Preskill, L. Zhou.<br>
 *arXiv (2023).* [<a href="https://arxiv.org/abs/2309.16596" target="_blank">pdf</a>] [<a href="https://twitter.com/RobertHuangHY/status/1707861752942145672" target="_blank">Twitter thread</a>]
 
+1. *The complexity of NISQ* <br>
+**(alphabetical order)** S. Chen, J. Cotler, H.-Y. Huang, J. Li.<br>
+*<a href="https://www.nature.com/articles/s41467-023-41217-6" target="_blank">Nature Communications (2023)</a>, Contributed talk at QIP (2023).* [<a href="https://arxiv.org/abs/2210.07234" target="_blank">pdf</a>]
+
 1. *Tight bounds on Pauli channel learning without entanglement* <br>
 S. Chen, C. Oh, S. Zhou, **H.-Y. Huang**, L. Jiang. <br>
 *arXiv (2023).* [<a href="https://arxiv.org/abs/2309.13461" target="_blank">pdf</a>]
@@ -67,7 +71,7 @@ S. Jerbi, J. Gibbs, M. S. Rudolph, M. C. Caro, P. J. Coles, **H.-Y. Huang**, Z. 
 
 1. *Improved machine learning algorithm for predicting ground state properties* <br>
 L. Lewis, **H.-Y. Huang**, V. T. Tran, S. Lehner, R. Kueng, J. Preskill.<br>
-*Contributed talk at QIP (2023).* [<a href="https://arxiv.org/abs/2301.13169" target="_blank">pdf</a>] [<a href="https://github.com/lllewis234/improved-ml-algorithm" target="_blank">code</a>] [<a href="https://twitter.com/RobertHuangHY/status/1620505355360038912" target="_blank">Twitter thread</a>]
+*Contributed talk at QIP (2023).* [<a href="https://arxiv.org/abs/2301.13169" target="_blank">pdf</a>] [<a href="https://github.com/lllewis234/improved-ml-algorithm" target="_blank">code</a>] [<a href="https://twitter.com/RobertHuangHY/status/1620505355360038912" target="_blank">Twitter thread</a>] [<a href="[https://twitter.com/RobertHuangHY/status/1620505355360038912](https://www.quantamagazine.org/machine-learning-aids-classical-modeling-of-quantum-systems-20230914/)" target="_blank">Quanta Magazine</a>]
 
 1. *Preparing random states and benchmarking with many-body quantum chaos* <br>
 J. Choi, A. L. Shaw, I. S. Madjarov, X. Xie, R. Finkelstein, J. P. Covey, J. S. Cotler, D. K. Mark, **H.-Y. Huang**, A. Kale, H. Pichler, F. G. S. L. Brandao, S. Choi, M. Endres. <br>
@@ -90,15 +94,11 @@ K. V. Kirk, J. Cotler, **H.-Y. Huang**, M. D. Lukin. <br>
 **H.-Y. Huang**, S. Chen, J. Preskill.<br>
 *Contributed talk at QIP (2023).* [<a href="https://arxiv.org/abs/2210.14894" target="_blank">pdf</a>] [<a href="https://github.com/hsinyuan-huang/learning-quantum-process" target="_blank">code</a>] [<a href="https://twitter.com/RobertHuangHY/status/1585433883146825728" target="_blank">Twitter thread</a>]
 
-1. *The complexity of NISQ* <br>
-**(alphabetical order)** S. Chen, J. Cotler, H.-Y. Huang, J. Li.<br>
-*Contributed talk at QIP (2023).* [<a href="https://arxiv.org/abs/2210.07234" target="_blank">pdf</a>]
-
 1. :dart:  *Provably efficient machine learning for quantum many-body problems* <br>
 **H.-Y. Huang**, R. Kueng, G. Torlai, V. V. Albert, J. Preskill. <br>
 *<a href="https://www.science.org/doi/10.1126/science.abk3333" target="_blank">Science (2022)</a>, Plenary talk at QIP (2022).* <br>
 [<a href="https://arxiv.org/abs/2106.12627" target="_blank">pdf</a>] [<a href="https://github.com/hsinyuan-huang/provable-ml-quantum" target="_blank">code</a>] [<a href="https://twitter.com/RobertHuangHY/status/1408230497512087554" target="_blank">Twitter thread</a>] [<a href="https://www.caltech.edu/about/news/classical-machine-learning-can-solve-tricky-quantum-problems" target="_blank">Caltech News</a>] [<a href="https://phys.org/news/2022-09-traditional-quantum-problems.html" target="_blank">Phys.org News</a>] [<a href="https://spectrum.ieee.org/machine-learning-quantum" target="_blank">IEEE Spectrum</a>]<br>
-[<a href="https://pennylane.ai/qml/demos/tutorial_ml_classical_shadows.html" target="_blank">PennyLane Tutorial</a>] [<a href="https://youtu.be/W-vGcWZYQeA" target="_blank">Invited talk at Simons Institute</a>]
+[<a href="https://pennylane.ai/qml/demos/tutorial_ml_classical_shadows.html" target="_blank">PennyLane Tutorial</a>] [<a href="https://youtu.be/W-vGcWZYQeA" target="_blank">Invited talk at Simons Institute</a>] [<a href="[https://twitter.com/RobertHuangHY/status/1620505355360038912](https://www.quantamagazine.org/machine-learning-aids-classical-modeling-of-quantum-systems-20230914/)" target="_blank">Quanta Magazine</a>]
 
 
 1. *Challenges and opportunities in quantum machine learning* <br>
@@ -135,7 +135,7 @@ J. Gibbs, Z. Holmes, M. C. Caro, N. Ezzell, **H.-Y. Huang**, L. Cincio, A. T. So
 
 1. *Learning quantum states from their classical shadows* <br>
 **H.-Y. Huang**. <br>
-*<a href="https://www.nature.com/articles/s42254-021-00411-5" target="_blank">Nature Review Physics (2022)</a>.* [<a href="{{base.url}}/assets/img/s42254-021-00411-5.pdf"  target="_blank">pdf</a>]
+*<a href="https://www.nature.com/articles/s42254-021-00411-5" target="_blank">Nature Review Physics (2022)</a>.* [<a href="{{base.url}}/assets/img/s42254-021-00411-5.pdf"  target="_blank">pdf</a>] [<a href="[https://twitter.com/RobertHuangHY/status/1620505355360038912](https://www.quantamagazine.org/machine-learning-aids-classical-modeling-of-quantum-systems-20230914/)" target="_blank">Quanta Magazine</a>]
 
 
 1. *Exponential separation between learning with and without quantum memory* <br>
@@ -216,7 +216,7 @@ A. Elben, R. Kueng, **H.-Y. Huang**, R. van Bijnen, C. Kokail, M. Dalmonte, P. C
 1. :dart: *Predicting many properties in a quantum system from very few measurements* <br>
 **H.-Y. Huang**, R. Kueng, J. Preskill. <br>
 *<a href="https://www.nature.com/articles/s41567-020-0932-7" target="_blank">Nature Physics (2020)</a>, Short plenary talk at QIP (2020).*<br>
-[<a href="https://arxiv.org/abs/2002.08953" target="_blank">pdf</a>] [<a href="https://github.com/hsinyuan-huang/predicting-quantum-properties" target="_blank">code</a>] [<a href="https://en.wikipedia.org/wiki/Classical_shadow" target="_blank">Wikipedia page</a>] [<a href="https://pennylane.ai/qml/demos/tutorial_classical_shadows.html" target="_blank">PennyLane Tutorial</a>] [<a href="https://www.youtube.com/watch?v=NXejv2wVwas&t=2553s&ab_channel=SimonsInstitute" target="_blank">Talk by John Preskill</a>] [<a href="https://phys.org/news/2020-07-method-properties-complex-quantum.html" target="_blank">Phys.org News</a>]
+[<a href="https://arxiv.org/abs/2002.08953" target="_blank">pdf</a>] [<a href="https://github.com/hsinyuan-huang/predicting-quantum-properties" target="_blank">code</a>] [<a href="https://en.wikipedia.org/wiki/Classical_shadow" target="_blank">Wikipedia page</a>] [<a href="https://pennylane.ai/qml/demos/tutorial_classical_shadows.html" target="_blank">PennyLane Tutorial</a>] [<a href="https://www.youtube.com/watch?v=NXejv2wVwas&t=2553s&ab_channel=SimonsInstitute" target="_blank">Talk by John Preskill</a>] [<a href="https://phys.org/news/2020-07-method-properties-complex-quantum.html" target="_blank">Phys.org News</a>] [<a href="[https://twitter.com/RobertHuangHY/status/1620505355360038912](https://www.quantamagazine.org/machine-learning-aids-classical-modeling-of-quantum-systems-20230914/)" target="_blank">Quanta Magazine</a>]
 
 
 * * *
