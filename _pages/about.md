@@ -14,19 +14,19 @@ In 2025, I will start as an Assistant Professor of Theoretical Physics at <a hre
 
 ## Research Interest:
 
-My research aims to build a rigorous foundation for modeling how scientists, machines, and future quantum computers learn about our inherently quantum-mechanical universe (molecules, materials, pharmaceutics, exotic quantum matter, engineered quantum devices, etc).
+My research aims to develop a rigorous algorithmic foundation for modeling how scientists, machines, and future quantum computers can learn and discover new physics that govern our inherently quantum-mechanical universe (molecules, materials, pharmaceutics, exotic quantum matter, engineered quantum devices, etc.).
 
-I utilize tools in quantum information theory, quantum many-body physics, learning theory, and complexity theory to study questions such as:
-* How to efficiently learn and make predictions about complex quantum systems?
-* Could quantum machines learn faster and predict better than classical machines?
-* How can machine learning advance quantum technology and physical sciences?
+I utilize concepts and tools in quantum information theory, quantum many-body physics, learning theory, and complexity theory to formalize and explore new questions spawning from the following.
+* What advantages do quantum machines have over classical machines?
+* What physical phenomena can be perceived by classical/quantum machines?
+* How to automate/accelerate the development of quantum technology and physical sciences?
 
-My ultimate dream is to build quantum machines capable of learning and discovering new facets of our universe beyond humans and classical machines.
+My ultimate dream is to create quantum machines that can discover new facets of our universe that are beyond the capabilities of humans and classical machines.
 
 <center>
 <img src="assets/img/Intelligence.jpg"
      alt="Cartoon depiction of intelligence"
-     style="text-align:center; width:55%; border-radius:15%; padding-top:15px; padding-bottom:1px" />
+     style="text-align:center; width:65%; border-radius:15%; padding-top:15px; padding-bottom:1px" />
 </center>
 
 ## Publications:
