@@ -19,7 +19,7 @@ My research aims to build a rigorous foundation for modeling how scientists, mac
 I utilize concepts and tools in quantum information theory, quantum many-body physics, learning theory, and complexity theory to explore new formal mathematical questions spawning from the following directions.
 * What physical phenomena can be discovered by classical/quantum machines?
 * When can quantum machines learn and predict better than classical machines?
-* How to accelerate and automate scientific discovery in the quantum universe?
+* How to accelerate/automate the development of quantum and physical sciences?
 
 My ultimate dream is to build quantum machines that can discover new facets of our universe beyond the capabilities of humans and classical machines.
 
