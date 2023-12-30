@@ -14,9 +14,9 @@ In 2025, I will start as an Assistant Professor of Theoretical Physics at <a hre
 
 ## Research Interest:
 
-My research aims to build a rigorous foundation for understanding how scientists, machines, and future quantum computers can learn and discover new phenomena governing the inherently quantum-mechanical universe (molecules, materials, pharmaceutics, exotic quantum matter, engineered quantum devices, etc.).
+My research aims to build a rigorous foundation for understanding how scientists, machines, and future quantum computers can learn and discover new phenomena governing our quantum-mechanical universe (molecules, materials, pharmaceutics, exotic quantum matter, engineered quantum devices, etc.).
 
-I utilize concepts and tools in quantum information theory, quantum many-body physics, learning theory, and complexity theory to formalize and explore new mathematical questions spawning from various directions, including:
+I utilize concepts and tools in quantum information theory, quantum many-body physics, learning theory, and complexity theory to formalize and explore new questions spawning from the following directions:
 * When can quantum machines learn and predict better than classical machines?
 * How to accelerate/automate the development of quantum and physical sciences?
 * What physical phenomena can classical vs quantum machines learn and discover?
