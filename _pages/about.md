@@ -33,13 +33,17 @@ My ultimate dream is to build quantum machines that can discover new facets of o
 
 <a href="https://scholar.google.com/citations?user=2y5YF-gAAAAJ&hl=en" target="_blank">Google Scholar</a> provides a full list under chronological/citations order. Selected publications are labeled by :dart:.
 
-1. *Learning quantum states and unitaries of bounded gate complexity* <br>
-H. Zhao, L. Lewis, I. Kannan, Y. Quek, **H.-Y. Huang**, M. C. Caro.<br>
-*arXiv (2023).* [<a href="https://arxiv.org/abs/2310.19882" target="_blank">pdf</a>]
+1. *Learning shallow quantum circuits* <br>
+**H.-Y. Huang**, Y. Liu, M. Broughton, .<br>
+*Short plenary talk at QIP (2024).* [<a href="https://arxiv.org/abs/2401.10095" target="_blank">pdf</a>] [<a href="https://hsinyuan-huang.github.io/assets/img/Learning-shallow-QC-QIP.pdf" target="_blank">QIP Slide</a>] [<a href="https://x.com/RobertHuangHY/status/1748917003170332700?s=20" target="_blank">Twitter thread</a>]
 
 1. *Local minima in quantum systems* <br>
 **(alphabetical order)** C.-F. Chen, **H.-Y. Huang**, J. Preskill, L. Zhou.<br>
-*arXiv (2023).* [<a href="https://arxiv.org/abs/2309.16596" target="_blank">pdf</a>] [<a href="https://twitter.com/RobertHuangHY/status/1707861752942145672" target="_blank">Twitter thread</a>]
+*Contributed talk at QIP (2024).* [<a href="https://arxiv.org/abs/2309.16596" target="_blank">pdf</a>] [<a href="https://twitter.com/RobertHuangHY/status/1707861752942145672" target="_blank">Twitter thread</a>]
+
+1. *Learning quantum states and unitaries of bounded gate complexity* <br>
+H. Zhao, L. Lewis, I. Kannan, Y. Quek, **H.-Y. Huang**, M. C. Caro.<br>
+*arXiv (2023).* [<a href="https://arxiv.org/abs/2310.19882" target="_blank">pdf</a>]
 
 1. *The complexity of NISQ* <br>
 **(alphabetical order)** S. Chen, J. Cotler, H.-Y. Huang, J. Li.<br>
@@ -226,7 +230,7 @@ A. Elben, R. Kueng, **H.-Y. Huang**, R. van Bijnen, C. Kokail, M. Dalmonte, P. C
 I have previously worked on machine learning at <a href="https://scholar.google.com/citations?user=SLMkts8AAAAJ&hl=en" target="_blank">Chih-Jen Lin's group</a>, deep learning at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-ai/" target="_blank">Microsoft Research</a> and <a href="https://allenai.org/" target="_blank">Allen Institute of AI</a>, and biology at <a href="http://sbl.csie.org/JuanLab/doku.php?id=PI:Hsueh-Fen%20Juan" target="_blank">Hsueh-Fen Juan's lab</a>.
 
 
-{:start="36"}
+{:start="37"}
 5. *FlowQA: grasping flow in history for conversational machine comprehension* <br>
 **H.-Y. Huang**, E. Choi, W. Yih. <br>
 *ICLR (2019)*. [<a href="https://arxiv.org/abs/1810.06683" target="_blank">pdf</a>]
