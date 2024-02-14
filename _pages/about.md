@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Hsin-Yuan Huang (pronounced as "Shin Yuan Huan", 黃信元), a visiting scientist at MIT (2023 to 2024) and a research scientist at Google Quantum AI. I received my Ph.D. in 2023 advised by John Preskill and Thomas Vidick. I also go by the name Robert.
+I am Hsin-Yuan Huang (pronounced as "Shin Yuan Huan", 黃信元), a visiting scientist at MIT and a research scientist at Google Quantum AI. I received my Ph.D. in 2023 advised by John Preskill and Thomas Vidick. I also go by the name Robert.
 
 In 2025, I will start as an Assistant Professor of Theoretical Physics at <a href="https://www.caltech.edu/" target="_blank">Caltech</a>.
 
