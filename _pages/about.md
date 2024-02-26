@@ -34,11 +34,11 @@ My ultimate dream is to build quantum machines that can discover new facets of o
 
 1. *Learning shallow quantum circuits* <br>
 **H.-Y. Huang**<sup>$\dagger$</sup> (co-first author), Y. Liu<sup>$\dagger$</sup>, M. Broughton, I. Kim, A. Anshu, Z. Landau, J. R. McClean.<br>
-*Short plenary talk at QIP (2024).* [<a href="https://arxiv.org/abs/2401.10095" target="_blank">pdf</a>] [<a href="https://hsinyuan-huang.github.io/assets/img/Learning-shallow-QC-QIP.pdf" target="_blank">QIP Slide</a>] [<a href="https://x.com/RobertHuangHY/status/1748917003170332700?s=20" target="_blank">Twitter thread</a>] [<a href="https://pennylane.ai/qml/demos/tutorial_learningshallow/" target="_blank">PennyLane Demo</a>]
+*STOC 2024, Short plenary talk at QIP (2024).* [<a href="https://arxiv.org/abs/2401.10095" target="_blank">pdf</a>] [<a href="https://hsinyuan-huang.github.io/assets/img/Learning-shallow-QC-QIP.pdf" target="_blank">QIP Slide</a>] [<a href="https://x.com/RobertHuangHY/status/1748917003170332700?s=20" target="_blank">Twitter thread</a>] [<a href="https://pennylane.ai/qml/demos/tutorial_learningshallow/" target="_blank">PennyLane Demo</a>]
 
 1. *Local minima in quantum systems* <br>
 **(alphabetical order)** C.-F. Chen, H.-Y. Huang, J. Preskill, L. Zhou.<br>
-*Contributed talk at QIP (2024).* [<a href="https://arxiv.org/abs/2309.16596" target="_blank">pdf</a>] [<a href="https://twitter.com/RobertHuangHY/status/1707861752942145672" target="_blank">Twitter thread</a>]
+*STOC 2024, Contributed talk at QIP (2024).* [<a href="https://arxiv.org/abs/2309.16596" target="_blank">pdf</a>] [<a href="https://twitter.com/RobertHuangHY/status/1707861752942145672" target="_blank">Twitter thread</a>]
 
 1. *Learning quantum states and unitaries of bounded gate complexity* <br>
 H. Zhao, L. Lewis, I. Kannan, Y. Quek, **H.-Y. Huang**, M. C. Caro.<br>
