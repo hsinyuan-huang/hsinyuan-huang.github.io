@@ -16,6 +16,7 @@ In 2025, I will start as an Assistant Professor of Theoretical Physics at <a hre
 My research aims to build a rigorous foundation for understanding how scientists, machines, and future quantum computers can learn and discover new phenomena governing our quantum-mechanical universe (molecules, materials, pharmaceutics, exotic quantum matter, engineered quantum devices, etc.).
 
 I utilize concepts and tools in quantum information theory, quantum many-body physics, learning theory, and complexity theory to formalize and explore new questions spawning from the following directions:
+
 * When can quantum machines learn and predict better than classical machines?
 * How to accelerate/automate the development of quantum and physical sciences?
 * What physical phenomena can classical vs quantum machines learn and discover?
@@ -254,4 +255,4 @@ H.-F. Yu, **H.-Y. Huang**, I. S. Dhillon, C.-J. Lin. <br>
 
 1. *Dissecting the human protein-protein interaction network via phylogenetic decomposition* <br>
 C.-Y. Chen, A. Ho, **H.-Y. Huang**, H.-F. Juan and H.-C. Huang. <br>
-*<a href="https://www.nature.com/articles/srep07153" target="_blank">Scientific Reports (2014)</a>*.
+*[Scientific Reports (2014)](https://www.nature.com/articles/srep07153)*.
