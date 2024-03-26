@@ -40,7 +40,8 @@ My ultimate dream is to build quantum machines that can discover new facets of o
 
 1. *Local minima in quantum systems* <br>
 **(alphabetical order)** C.-F. Chen, H.-Y. Huang, J. Preskill, L. Zhou.<br>
-*STOC (2024), Contributed talk at QIP (2024).* [<a href="https://arxiv.org/abs/2309.16596" target="_blank">pdf</a>] [<a href="https://twitter.com/RobertHuangHY/status/1707861752942145672" target="_blank">Twitter thread</a>] [<a href="https://www.quantamagazine.org/physicists-finally-find-a-problem-only-quantum-computers-can-do-20240312/" target="_blank">Quanta Magazine</a>]
+*STOC (2024), Contributed talk at QIP (2024).*<br>
+[<a href="https://arxiv.org/abs/2309.16596" target="_blank">pdf</a>] [<a href="https://twitter.com/RobertHuangHY/status/1707861752942145672" target="_blank">Twitter thread</a>] [<a href="https://www.quantamagazine.org/physicists-finally-find-a-problem-only-quantum-computers-can-do-20240312/" target="_blank">Quanta Magazine</a>]
 
 1. *Learning conservation laws in unknown quantum dynamics* <br>
 Y. Zhan, A. Elben, **Hsin-Yuan Huang**, Y. Tong. <br>
