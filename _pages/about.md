@@ -42,6 +42,10 @@ My ultimate dream is to build quantum machines that can discover new facets of o
 **(alphabetical order)** C.-F. Chen, H.-Y. Huang, J. Preskill, L. Zhou.<br>
 *STOC (2024), Contributed talk at QIP (2024).* [<a href="https://arxiv.org/abs/2309.16596" target="_blank">pdf</a>] [<a href="https://twitter.com/RobertHuangHY/status/1707861752942145672" target="_blank">Twitter thread</a>] [<a href="https://www.quantamagazine.org/physicists-finally-find-a-problem-only-quantum-computers-can-do-20240312/" target="_blank">Quanta Magazine</a>]
 
+1. *Learning conservation laws in unknown quantum dynamics* <br>
+Y. Zhan, A. Elben, **Hsin-Yuan Huang**, Y. Tong. <br>
+*<a href="https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.010350" target="_blank">PRX Quantum (2024)</a>.* [<a href="https://arxiv.org/abs/2309.00774" target="_blank">pdf</a>]
+
 1. *Entanglement-enabled advantage for learning a bosonic random displacement channel* <br>
 C. Oh, S. Chen, Y. Wong, S. Zhou, **H.-Y. Huang**, J. A.H. Nielsen, Z.-H. Liu, J. S. Neergaard-Nielsen, U. L. Andersen, L. Jiang, J. Preskill.<br>
 *arXiv (2024).* [<a href="https://arxiv.org/abs/2402.18809" target="_blank">pdf</a>]
@@ -49,6 +53,10 @@ C. Oh, S. Chen, Y. Wong, S. Zhou, **H.-Y. Huang**, J. A.H. Nielsen, Z.-H. Liu, J
 1. *Learning quantum states and unitaries of bounded gate complexity* <br>
 H. Zhao, L. Lewis, I. Kannan, Y. Quek, **H.-Y. Huang**, M. C. Caro.<br>
 *arXiv (2023).* [<a href="https://arxiv.org/abs/2310.19882" target="_blank">pdf</a>]
+
+1. *On quantum backpropagation, information reuse, and cheating measurement collapse* <br>
+A. Abbas, R. King, **H.-Y. Huang**, W. J Huggins, R. Movassagh, D. Gilboa, J. R McClean
+*<a href="https://proceedings.neurips.cc/paper_files/paper/2023/hash/8c3caae2f725c8e2a55ecd600563d172-Abstract-Conference.html" target="_blank">NeurIPS 2023 Spotlight</a>.* [<a href="https://arxiv.org/abs/2305.13362" target="_blank">pdf</a>]
 
 1. *Improved machine learning algorithm for predicting ground state properties* <br>
 L. Lewis, **H.-Y. Huang**, V. T. Tran, S. Lehner, R. Kueng, J. Preskill.<br>
@@ -62,14 +70,6 @@ L. Lewis, **H.-Y. Huang**, V. T. Tran, S. Lehner, R. Kueng, J. Preskill.<br>
 1. *Tight bounds on Pauli channel learning without entanglement* <br>
 S. Chen, C. Oh, S. Zhou, **H.-Y. Huang**, L. Jiang. <br>
 *arXiv (2023).* [<a href="https://arxiv.org/abs/2309.13461" target="_blank">pdf</a>]
-
-1. *Learning conservation laws in unknown quantum dynamics* <br>
-Y. Zhan, A. Elben, **Hsin-Yuan Huang**, Y. Tong. <br>
-*arXiv (2023).* [<a href="https://arxiv.org/abs/2309.00774" target="_blank">pdf</a>]
-
-1. *On quantum backpropagation, information reuse, and cheating measurement collapse* <br>
-A. Abbas, R. King, **H.-Y. Huang**, W. J Huggins, R. Movassagh, D. Gilboa, J. R McClean
-*NeurIPS 2023 Spotlight.* [<a href="https://arxiv.org/abs/2305.13362" target="_blank">pdf</a>]
 
 1. *Out-of-distribution generalization for learning quantum dynamics* <br>
 M. C. Caro<sup>$\dagger$</sup>, **H.-Y. Huang**<sup>$\dagger$</sup> (co-first author), N. Ezzell, J. Gibbs, A. T. Sornborger, L. Cincio, P. J. Coles, Z. Holmes.<br>
