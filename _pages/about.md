@@ -11,7 +11,7 @@ I am Hsin-Yuan Huang (pronounced as "Shin Yuan Huan", 黃信元), a visiting sci
 
 In 2025, I will start as an Assistant Professor of Theoretical Physics at <a href="https://www.caltech.edu/" target="_blank">Caltech</a>.
 
-## Research Interest:
+## Research Interest
 
 My research aims to build a rigorous foundation for understanding how scientists, machines, and future quantum computers can learn and discover new phenomena governing our quantum-mechanical universe (molecules, materials, pharmaceutics, exotic quantum matter, engineered quantum devices, etc.).
 
@@ -29,7 +29,7 @@ My ultimate dream is to build quantum machines that can discover new facets of o
      style="text-align:center; width:65%; border-radius:15%; padding-top:15px; padding-bottom:1px" />
 </center>
 
-## Publications:
+## Publications
 
 <a href="https://scholar.google.com/citations?user=2y5YF-gAAAAJ&hl=en" target="_blank">Google Scholar</a> provides a full list under chronological/citations order. Selected publications are labeled by :dart:.
 
