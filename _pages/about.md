@@ -48,7 +48,7 @@ T. Schuster, J. Haferkamp, **H.-Y. Huang**<br>
 [<a href="https://arxiv.org/abs/2309.16596" target="_blank">pdf</a>] [<a href="https://x.com/RobertHuangHY/status/1707861752942145672" target="_blank">Thread on X</a>] [<a href="https://www.quantamagazine.org/physicists-finally-find-a-problem-only-quantum-computers-can-do-20240312/" target="_blank">Quanta Magazine</a>]
 
 1. *Learning conservation laws in unknown quantum dynamics* <br>
-Y. Zhan, A. Elben, **Hsin-Yuan Huang**, Y. Tong. <br>
+Y. Zhan, A. Elben, **H.-Y. Huang**, Y. Tong. <br>
 *<a href="https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.010350" target="_blank">PRX Quantum (2024)</a>.* [<a href="https://arxiv.org/abs/2309.00774" target="_blank">pdf</a>]
 
 1. *Entanglement-enabled advantage for learning a bosonic random displacement channel* <br>
