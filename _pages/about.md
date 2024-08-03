@@ -34,31 +34,36 @@ My ultimate dream is to build quantum machines that can discover new facets of o
 <a href="https://scholar.google.com/citations?user=2y5YF-gAAAAJ&hl=en" target="_blank">Google Scholar</a> provides a full list under chronological/citations order. Selected publications are labeled by :dart:.
 
 
-1. *Random unitaries in extremely low depth* <br>
+1. :dart: *Random unitaries in extremely low depth* <br>
 T. Schuster, J. Haferkamp, **H.-Y. Huang**<br>
 *arXiv (2024).* [<a href="https://arxiv.org/abs/2407.07754" target="_blank">pdf</a>] [<a href="https://x.com/RobertHuangHY/status/1811282817743208706" target="_blank">Thread on X</a>]
 
 
-1. *Certifying almost all quantum states with few single-qubit measurements* <br>
+1. :dart: *Certifying almost all quantum states with few single-qubit measurements* <br>
 **(alphabetical order)** H.-Y. Huang, J. Preskill, M. Soleimanifar.<br>
 *FOCS (2024), Contributed talk at QIP (2024).* [<a href="https://arxiv.org/abs/2404.07281" target="_blank">pdf</a>] [<a href="https://x.com/RobertHuangHY/status/1780093918488773026" target="_blank">Thread on X</a>]
 
 
-1. *Learning shallow quantum circuits* <br>
-**H.-Y. Huang**<sup>$\dagger$</sup> (co-first author), Y. Liu<sup>$\dagger$</sup>, M. Broughton, I. Kim, A. Anshu, Z. Landau, J. R. McClean.<br>
-*STOC (2024), Short plenary talk at QIP (2024).*<br>
-[<a href="https://arxiv.org/abs/2401.10095" target="_blank">pdf</a>] [<a href="https://hsinyuan-huang.github.io/assets/img/Learning-shallow-QC-QIP.pdf" target="_blank">QIP Slide</a>] [<a href="https://x.com/RobertHuangHY/status/1748917003170332700?s=20" target="_blank">Thread on X</a>] [<a href="https://pennylane.ai/qml/demos/tutorial_learningshallow/" target="_blank">PennyLane Demo</a>]
-
-
-1. *Local minima in quantum systems* <br>
-**(alphabetical order)** C.-F. Chen, H.-Y. Huang, J. Preskill, L. Zhou.<br>
-*STOC (2024), Contributed talk at QIP (2024).*<br>
-[<a href="https://arxiv.org/abs/2309.16596" target="_blank">pdf</a>] [<a href="https://x.com/RobertHuangHY/status/1707861752942145672" target="_blank">Thread on X</a>] [<a href="https://www.quantamagazine.org/physicists-finally-find-a-problem-only-quantum-computers-can-do-20240312/" target="_blank">Quanta Magazine</a>]
+1. *Dynamical simulation via quantum machine learning with provable generalization* <br>
+J. Gibbs, Z. Holmes, M. C. Caro, N. Ezzell, **H.-Y. Huang**, L. Cincio, A. T. Sornborger, P. J. Coles. <br>
+*<a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.013241" target="_blank">Physical Review Research (2024)</a>.* [<a href="https://arxiv.org/abs/2204.10269" target="_blank">pdf</a>]
 
 
 1. *Tight bounds on Pauli channel learning without entanglement* <br>
 S. Chen, C. Oh, S. Zhou, **H.-Y. Huang**, L. Jiang. <br>
 *<a href="https://doi.org/10.1103/PhysRevLett.132.180805" target="_blank">Physical Review Letters (2024)</a>.* [<a href="https://arxiv.org/abs/2309.13461" target="_blank">pdf</a>]
+
+
+1. :dart: *Learning shallow quantum circuits* <br>
+**H.-Y. Huang**<sup>$\dagger$</sup> (co-first author), Y. Liu<sup>$\dagger$</sup>, M. Broughton, I. Kim, A. Anshu, Z. Landau, J. R. McClean.<br>
+*STOC (2024), Short plenary talk at QIP (2024).*<br>
+[<a href="https://arxiv.org/abs/2401.10095" target="_blank">pdf</a>] [<a href="https://hsinyuan-huang.github.io/assets/img/Learning-shallow-QC-QIP.pdf" target="_blank">QIP Slide</a>] [<a href="https://x.com/RobertHuangHY/status/1748917003170332700?s=20" target="_blank">Thread on X</a>] [<a href="https://pennylane.ai/qml/demos/tutorial_learningshallow/" target="_blank">PennyLane Demo</a>]
+
+
+1. :dart: *Local minima in quantum systems* <br>
+**(alphabetical order)** C.-F. Chen, H.-Y. Huang, J. Preskill, L. Zhou.<br>
+*STOC (2024), Contributed talk at QIP (2024).*<br>
+[<a href="https://arxiv.org/abs/2309.16596" target="_blank">pdf</a>] [<a href="https://x.com/RobertHuangHY/status/1707861752942145672" target="_blank">Thread on X</a>] [<a href="https://www.quantamagazine.org/physicists-finally-find-a-problem-only-quantum-computers-can-do-20240312/" target="_blank">Quanta Magazine</a>]
 
 
 1. *Learning conservation laws in unknown quantum dynamics* <br>
@@ -70,11 +75,6 @@ Y. Zhan, A. Elben, **H.-Y. Huang**, Y. Tong. <br>
 L. Lewis, **H.-Y. Huang**, V. T. Tran, S. Lehner, R. Kueng, J. Preskill.<br>
 *<a href="https://www.nature.com/articles/s41467-024-45014-7" target="_blank">Nature Communications (2024)</a>, Contributed talk at QIP (2023).* <br>
 [<a href="https://arxiv.org/abs/2301.13169" target="_blank">pdf</a>] [<a href="https://github.com/lllewis234/improved-ml-algorithm" target="_blank">code</a>] [<a href="https://x.com/RobertHuangHY/status/1620505355360038912" target="_blank">Thread on X</a>] [<a href="https://www.quantamagazine.org/machine-learning-aids-classical-modeling-of-quantum-systems-20230914/" target="_blank">Quanta Magazine</a>]
-
-
-1. *Dynamical simulation via quantum machine learning with provable generalization* <br>
-J. Gibbs, Z. Holmes, M. C. Caro, N. Ezzell, **H.-Y. Huang**, L. Cincio, A. T. Sornborger, P. J. Coles. <br>
-*<a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.013241" target="_blank">Physical Review Research (2024)</a>.* [<a href="https://arxiv.org/abs/2204.10269" target="_blank">pdf</a>]
 
 
 1. *Entanglement-enabled advantage for learning a bosonic random displacement channel* <br>
