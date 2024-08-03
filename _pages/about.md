@@ -33,18 +33,22 @@ My ultimate dream is to build quantum machines that can discover new facets of o
 
 <a href="https://scholar.google.com/citations?user=2y5YF-gAAAAJ&hl=en" target="_blank">Google Scholar</a> provides a full list under chronological/citations order. Selected publications are labeled by :dart:.
 
+
 1. *Random unitaries in extremely low depth* <br>
 T. Schuster, J. Haferkamp, **H.-Y. Huang**<br>
 *arXiv (2024).* [<a href="https://arxiv.org/abs/2407.07754" target="_blank">pdf</a>] [<a href="https://x.com/RobertHuangHY/status/1811282817743208706" target="_blank">Thread on X</a>]
+
 
 1. *Certifying almost all quantum states with few single-qubit measurements* <br>
 **(alphabetical order)** H.-Y. Huang, J. Preskill, M. Soleimanifar.<br>
 *FOCS (2024), Contributed talk at QIP (2024).*<br> [<a href="https://arxiv.org/abs/2404.07281" target="_blank">pdf</a>] [<a href="https://x.com/RobertHuangHY/status/1780093918488773026" target="_blank">Thread on X</a>]
 
+
 1. *Learning shallow quantum circuits* <br>
 **H.-Y. Huang**<sup>$\dagger$</sup> (co-first author), Y. Liu<sup>$\dagger$</sup>, M. Broughton, I. Kim, A. Anshu, Z. Landau, J. R. McClean.<br>
 *STOC (2024), Short plenary talk at QIP (2024).*<br>
 [<a href="https://arxiv.org/abs/2401.10095" target="_blank">pdf</a>] [<a href="https://hsinyuan-huang.github.io/assets/img/Learning-shallow-QC-QIP.pdf" target="_blank">QIP Slide</a>] [<a href="https://x.com/RobertHuangHY/status/1748917003170332700?s=20" target="_blank">Thread on X</a>] [<a href="https://pennylane.ai/qml/demos/tutorial_learningshallow/" target="_blank">PennyLane Demo</a>]
+
 
 1. *Local minima in quantum systems* <br>
 **(alphabetical order)** C.-F. Chen, H.-Y. Huang, J. Preskill, L. Zhou.<br>
@@ -126,6 +130,7 @@ J. Cotler<sup>$\dagger$</sup>, D. Mark<sup>$\dagger$</sup>, **H.-Y. Huang**<sup>
 1. *The randomized measurement toolbox* <br>
 **(alphabetical order)** A. Elben, S. Flammia, H.-Y. Huang, R. Kueng, J. Preskill, B. Vermersch, P. Zoller.<br>
 *<a href="https://www.nature.com/articles/s42254-022-00535-2" target="_blank">Nature Review Physics (2022)</a>.* [<a href="https://arxiv.org/abs/2203.11374" target="_blank">pdf</a>] [<a href="https://www.youtube.com/watch?v=FXdJoJ0qcZY&ab_channel=caltech" target="_blank">Tutorial at QIP 2022</a>]
+
 
 1. *Hardware-efficient learning of quantum many-body states* <br>
 K. V. Kirk, J. Cotler, **H.-Y. Huang**, M. D. Lukin. <br>
