@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Hsin-Yuan Huang (pronounced as "Shin Yuan Huan", 黃信元), a visiting scientist at MIT and a research scientist at Google Quantum AI. I received my Ph.D. in 2023 advised by John Preskill and Thomas Vidick. I also go by the name Robert.
+I am Hsin-Yuan Huang (pronounced as "Shin Yuan Huan", 黃信元), a senior research scientist at Google Quantum AI and a visiting scientist at MIT. I received my Ph.D. in 2023 advised by John Preskill and Thomas Vidick. I also go by the name Robert.
 
 In 2025, I will start as an Assistant Professor of Theoretical Physics at <a href="https://www.caltech.edu/" target="_blank">Caltech</a>.
 
@@ -37,6 +37,11 @@ My ultimate dream is to build quantum machines that can discover new facets of o
 T. Schuster, J. Haferkamp, **H.-Y. Huang**<br>
 *arXiv (2024).* [<a href="https://arxiv.org/abs/2407.07754" target="_blank">pdf</a>] [<a href="https://x.com/RobertHuangHY/status/1811282817743208706" target="_blank">Thread on X</a>]
 
+1. *Certifying almost all quantum states with few single-qubit measurements* <br>
+**(alphabetical order)** H.-Y. Huang, J. Preskill, M. Soleimanifar.<br>
+*FOCS (2024), Contributed talk at QIP (2024).*<br>
+[<a href="https://arxiv.org/abs/2404.07281" target="_blank">pdf</a>] [<a href="https://x.com/RobertHuangHY/status/1780093918488773026" target="_blank">Thread on X</a>]
+
 1. *Learning shallow quantum circuits* <br>
 **H.-Y. Huang**<sup>$\dagger$</sup> (co-first author), Y. Liu<sup>$\dagger$</sup>, M. Broughton, I. Kim, A. Anshu, Z. Landau, J. R. McClean.<br>
 *STOC (2024), Short plenary talk at QIP (2024).*<br>
@@ -47,9 +52,22 @@ T. Schuster, J. Haferkamp, **H.-Y. Huang**<br>
 *STOC (2024), Contributed talk at QIP (2024).*<br>
 [<a href="https://arxiv.org/abs/2309.16596" target="_blank">pdf</a>] [<a href="https://x.com/RobertHuangHY/status/1707861752942145672" target="_blank">Thread on X</a>] [<a href="https://www.quantamagazine.org/physicists-finally-find-a-problem-only-quantum-computers-can-do-20240312/" target="_blank">Quanta Magazine</a>]
 
+1. *Tight bounds on Pauli channel learning without entanglement* <br>
+S. Chen, C. Oh, S. Zhou, **H.-Y. Huang**, L. Jiang. <br>
+*<a href="https://doi.org/10.1103/PhysRevLett.132.180805" target="_blank">Physical Review Letters (2024)</a>.* [<a href="https://arxiv.org/abs/2309.13461" target="_blank">pdf</a>]
+
 1. *Learning conservation laws in unknown quantum dynamics* <br>
 Y. Zhan, A. Elben, **H.-Y. Huang**, Y. Tong. <br>
 *<a href="https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.010350" target="_blank">PRX Quantum (2024)</a>.* [<a href="https://arxiv.org/abs/2309.00774" target="_blank">pdf</a>]
+
+1. *Improved machine learning algorithm for predicting ground state properties* <br>
+L. Lewis, **H.-Y. Huang**, V. T. Tran, S. Lehner, R. Kueng, J. Preskill.<br>
+*<a href="https://www.nature.com/articles/s41467-024-45014-7" target="_blank">Nature Communications (2024)</a>, Contributed talk at QIP (2023).* <br>
+[<a href="https://arxiv.org/abs/2301.13169" target="_blank">pdf</a>] [<a href="https://github.com/lllewis234/improved-ml-algorithm" target="_blank">code</a>] [<a href="https://x.com/RobertHuangHY/status/1620505355360038912" target="_blank">Thread on X</a>] [<a href="https://www.quantamagazine.org/machine-learning-aids-classical-modeling-of-quantum-systems-20230914/" target="_blank">Quanta Magazine</a>]
+
+1. *Dynamical simulation via quantum machine learning with provable generalization* <br>
+J. Gibbs, Z. Holmes, M. C. Caro, N. Ezzell, **H.-Y. Huang**, L. Cincio, A. T. Sornborger, P. J. Coles. <br>
+*<a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.013241" target="_blank">Physical Review Research (2024)</a>.* [<a href="https://arxiv.org/abs/2204.10269" target="_blank">pdf</a>]
 
 1. *Entanglement-enabled advantage for learning a bosonic random displacement channel* <br>
 C. Oh, S. Chen, Y. Wong, S. Zhou, **H.-Y. Huang**, J. A.H. Nielsen, Z.-H. Liu, J. S. Neergaard-Nielsen, U. L. Andersen, L. Jiang, J. Preskill.<br>
@@ -63,30 +81,25 @@ H. Zhao, L. Lewis, I. Kannan, Y. Quek, **H.-Y. Huang**, M. C. Caro.<br>
 A. Abbas, R. King, **H.-Y. Huang**, W. J Huggins, R. Movassagh, D. Gilboa, J. R McClean
 *<a href="https://proceedings.neurips.cc/paper_files/paper/2023/hash/8c3caae2f725c8e2a55ecd600563d172-Abstract-Conference.html" target="_blank">NeurIPS 2023 Spotlight</a>.* [<a href="https://arxiv.org/abs/2305.13362" target="_blank">pdf</a>]
 
-1. *Improved machine learning algorithm for predicting ground state properties* <br>
-L. Lewis, **H.-Y. Huang**, V. T. Tran, S. Lehner, R. Kueng, J. Preskill.<br>
-*<a href="https://www.nature.com/articles/s41467-024-45014-7" target="_blank">Nature Communications (2024)</a>, Contributed talk at QIP (2023).* <br>
-[<a href="https://arxiv.org/abs/2301.13169" target="_blank">pdf</a>] [<a href="https://github.com/lllewis234/improved-ml-algorithm" target="_blank">code</a>] [<a href="https://x.com/RobertHuangHY/status/1620505355360038912" target="_blank">Thread on X</a>] [<a href="https://www.quantamagazine.org/machine-learning-aids-classical-modeling-of-quantum-systems-20230914/" target="_blank">Quanta Magazine</a>]
+1. *Learning to predict arbitrary quantum processes* <br>
+**H.-Y. Huang**, S. Chen, J. Preskill.<br>
+*<a href="https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.4.040337" target="_blank">PRX Quantum (2023)</a>, Contributed talk at QIP (2023).* [<a href="https://arxiv.org/abs/2210.14894" target="_blank">pdf</a>] [<a href="https://github.com/hsinyuan-huang/learning-quantum-process" target="_blank">code</a>] [<a href="https://x.com/RobertHuangHY/status/1585433883146825728" target="_blank">Thread on X</a>]
 
 1. *The complexity of NISQ* <br>
 **(alphabetical order)** S. Chen, J. Cotler, H.-Y. Huang, J. Li.<br>
 *<a href="https://www.nature.com/articles/s41467-023-41217-6" target="_blank">Nature Communications (2023)</a>, Contributed talk at QIP (2023).* [<a href="https://arxiv.org/abs/2210.07234" target="_blank">pdf</a>]
 
-1. *Tight bounds on Pauli channel learning without entanglement* <br>
-S. Chen, C. Oh, S. Zhou, **H.-Y. Huang**, L. Jiang. <br>
-*arXiv (2023).* [<a href="https://arxiv.org/abs/2309.13461" target="_blank">pdf</a>]
-
 1. *Out-of-distribution generalization for learning quantum dynamics* <br>
 M. C. Caro<sup>$\dagger$</sup>, **H.-Y. Huang**<sup>$\dagger$</sup> (co-first author), N. Ezzell, J. Gibbs, A. T. Sornborger, L. Cincio, P. J. Coles, Z. Holmes.<br>
 *<a href="https://www.nature.com/articles/s41467-023-39381-w" target="_blank">Nature Communications (2023)</a>.* [<a href="https://arxiv.org/abs/2204.10268" target="_blank">pdf</a>] [<a href="https://www.eurekalert.org/news-releases/994275">News</a>]
 
-1. *Learning many-body Hamiltonians with Heisenberg-limited scaling* <br>
-**H.-Y. Huang**<sup>$\dagger$</sup> (co-first author), Y. Tong<sup>$\dagger$</sup>, Di Fang, Yuan Su. <br>
-*<a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.200403" target="_blank">Physical Review Letters (2023)</a>, Short plenary talk at QIP (2023).* [<a href="https://arxiv.org/abs/2210.03030" target="_blank">pdf</a>] [<a href="https://x.com/RobertHuangHY/status/1578350030641328128" target="_blank">Thread on X</a>]
-
 1. *The power and limitations of learning quantum dynamics incoherently* <br>
 S. Jerbi, J. Gibbs, M. S. Rudolph, M. C. Caro, P. J. Coles, **H.-Y. Huang**, Z. Holmes.<br>
 *arXiv (2023).* [<a href="https://arxiv.org/abs/2303.12834" target="_blank">pdf</a>]
+
+1. *Learning many-body Hamiltonians with Heisenberg-limited scaling* <br>
+**H.-Y. Huang**<sup>$\dagger$</sup> (co-first author), Y. Tong<sup>$\dagger$</sup>, Di Fang, Yuan Su. <br>
+*<a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.200403" target="_blank">Physical Review Letters (2023)</a>, Short plenary talk at QIP (2023).* [<a href="https://arxiv.org/abs/2210.03030" target="_blank">pdf</a>] [<a href="https://x.com/RobertHuangHY/status/1578350030641328128" target="_blank">Thread on X</a>]
 
 1. *Preparing random states and benchmarking with many-body quantum chaos* <br>
 J. Choi, A. L. Shaw, I. S. Madjarov, X. Xie, R. Finkelstein, J. P. Covey, J. S. Cotler, D. K. Mark, **H.-Y. Huang**, A. Kale, H. Pichler, F. G. S. L. Brandao, S. Choi, M. Endres. <br>
@@ -97,17 +110,13 @@ J. Cotler<sup>$\dagger$</sup>, D. Mark<sup>$\dagger$</sup>, **H.-Y. Huang**<sup>
 *<a href="https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.4.010311?ft=1" target="_blank">PRX Quantum (2023)</a>.*
 [<a href="https://arxiv.org/abs/2103.03536" target="_blank">pdf</a>]
 
-1. *Hardware-efficient learning of quantum many-body states* <br>
-K. V. Kirk, J. Cotler, **H.-Y. Huang**, M. D. Lukin. <br>
-*arXiv (2022).* [<a href="https://arxiv.org/abs/2212.06084" target="_blank">pdf</a>]
-
 1. *The randomized measurement toolbox* <br>
 **(alphabetical order)** A. Elben, S. Flammia, H.-Y. Huang, R. Kueng, J. Preskill, B. Vermersch, P. Zoller.<br>
 *<a href="https://www.nature.com/articles/s42254-022-00535-2" target="_blank">Nature Review Physics (2022)</a>.* [<a href="https://arxiv.org/abs/2203.11374" target="_blank">pdf</a>] [<a href="https://www.youtube.com/watch?v=FXdJoJ0qcZY&ab_channel=caltech" target="_blank">Tutorial at QIP 2022</a>]
 
-1. *Learning to predict arbitrary quantum processes* <br>
-**H.-Y. Huang**, S. Chen, J. Preskill.<br>
-*Contributed talk at QIP (2023).* [<a href="https://arxiv.org/abs/2210.14894" target="_blank">pdf</a>] [<a href="https://github.com/hsinyuan-huang/learning-quantum-process" target="_blank">code</a>] [<a href="https://x.com/RobertHuangHY/status/1585433883146825728" target="_blank">Thread on X</a>]
+1. *Hardware-efficient learning of quantum many-body states* <br>
+K. V. Kirk, J. Cotler, **H.-Y. Huang**, M. D. Lukin. <br>
+*arXiv (2022).* [<a href="https://arxiv.org/abs/2212.06084" target="_blank">pdf</a>]
 
 1. :dart:  *Provably efficient machine learning for quantum many-body problems* <br>
 **H.-Y. Huang**, R. Kueng, G. Torlai, V. V. Albert, J. Preskill. <br>
@@ -140,12 +149,6 @@ M. C. Caro, **H.-Y. Huang**, M. Cerezo, K. Sharma, A. Sornborger, L. Cincio, P. 
 *H.-Y. Huang, S. Flammia, J. Preskill.* <br>
 *Contributed talk at QIP (2022).*
 [<a href="https://arxiv.org/abs/2204.13691" target="_blank">pdf</a>]
-
-
-1. *Dynamical simulation via quantum machine learning with provable generalization* <br>
-J. Gibbs, Z. Holmes, M. C. Caro, N. Ezzell, **H.-Y. Huang**, L. Cincio, A. T. Sornborger, P. J. Coles. <br>
-*arXiv (2022).*
-[<a href="https://arxiv.org/abs/2204.10269" target="_blank">pdf</a>]
 
 
 1. *Learning quantum states from their classical shadows* <br>
