@@ -71,15 +71,15 @@ L. Lewis, **H.-Y. Huang**, V. T. Tran, S. Lehner, R. Kueng, J. Preskill.<br>
 [<a href="https://arxiv.org/abs/2301.13169" target="_blank">pdf</a>] [<a href="https://github.com/lllewis234/improved-ml-algorithm" target="_blank">code</a>] [<a href="https://x.com/RobertHuangHY/status/1620505355360038912" target="_blank">Thread on X</a>] [<a href="https://www.quantamagazine.org/machine-learning-aids-classical-modeling-of-quantum-systems-20230914/" target="_blank">Quanta Magazine</a>]
 
 
+1. *Entanglement-enabled advantage for learning a bosonic random displacement channel* <br>
+C. Oh, S. Chen, Y. Wong, S. Zhou, **H.-Y. Huang**, J. A.H. Nielsen, Z.-H. Liu, J. S. Neergaard-Nielsen, U. L. Andersen, L. Jiang, J. Preskill.<br>
+*arXiv (2024).* [<a href="https://arxiv.org/abs/2402.18809" target="_blank">pdf</a>]
+
+
 1. :dart: *Local minima in quantum systems* <br>
 **(alphabetical order)** C.-F. Chen, H.-Y. Huang, J. Preskill, L. Zhou.<br>
 *STOC (2024), Contributed talk at QIP (2024).*<br>
 [<a href="https://arxiv.org/abs/2309.16596" target="_blank">pdf</a>] [<a href="https://x.com/RobertHuangHY/status/1707861752942145672" target="_blank">Thread on X</a>] [<a href="https://www.quantamagazine.org/physicists-finally-find-a-problem-only-quantum-computers-can-do-20240312/" target="_blank">Quanta Magazine</a>]
-
-
-1. *Entanglement-enabled advantage for learning a bosonic random displacement channel* <br>
-C. Oh, S. Chen, Y. Wong, S. Zhou, **H.-Y. Huang**, J. A.H. Nielsen, Z.-H. Liu, J. S. Neergaard-Nielsen, U. L. Andersen, L. Jiang, J. Preskill.<br>
-*arXiv (2024).* [<a href="https://arxiv.org/abs/2402.18809" target="_blank">pdf</a>]
 
 
 1. *Learning quantum states and unitaries of bounded gate complexity* <br>
