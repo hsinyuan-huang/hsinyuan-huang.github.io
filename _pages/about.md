@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Hsin-Yuan Huang (pronounced as "Shin Yuan Huan", 黃信元), a senior research scientist at Google Quantum AI and a visiting scientist at MIT. I received my Ph.D. in 2023 advised by John Preskill and Thomas Vidick. I also go by the name Robert.
+I am Hsin-Yuan Huang (pronounced as "Shin Yuan Huan", 黃信元), a senior research scientist at Google Quantum AI and a visiting scientist at MIT. I also go by the name Robert. I received my Ph.D. in 2024 advised by John Preskill and Thomas Vidick. My Ph.D. thesis titled *Learning in the quantum universe* has been awarded the Milton and Francis Clauser doctoral prize (awarded to one among all Caltech 2024 graduates).
 
 In 2025, I will start as an Assistant Professor of Theoretical Physics at <a href="https://www.caltech.edu/" target="_blank">Caltech</a>.
 
@@ -34,7 +34,7 @@ My ultimate dream is to build quantum machines that can discover new facets of o
 <a href="https://scholar.google.com/citations?user=2y5YF-gAAAAJ&hl=en" target="_blank">Google Scholar</a> provides a full list under chronological/citations order. Selected publications are labeled by :dart:.
 
 
-1. :dart: *Random unitaries in extremely low depth* <br>
+1. *Random unitaries in extremely low depth* <br>
 T. Schuster, J. Haferkamp, **H.-Y. Huang**<br>
 *arXiv (2024).* [<a href="https://arxiv.org/abs/2407.07754" target="_blank">pdf</a>] [<a href="https://x.com/RobertHuangHY/status/1811282817743208706" target="_blank">Thread on X</a>]
 
@@ -255,27 +255,19 @@ A. Elben, R. Kueng, **H.-Y. Huang**, R. van Bijnen, C. Kokail, M. Dalmonte, P. C
 [<a href="https://arxiv.org/abs/2002.08953" target="_blank">pdf</a>] [<a href="https://github.com/hsinyuan-huang/predicting-quantum-properties" target="_blank">code</a>] [<a href="https://en.wikipedia.org/wiki/Classical_shadow" target="_blank">Wikipedia page</a>] [<a href="https://pennylane.ai/qml/demos/tutorial_classical_shadows.html" target="_blank">PennyLane Tutorial</a>] [<a href="https://www.youtube.com/watch?v=NXejv2wVwas&t=2553s&ab_channel=SimonsInstitute" target="_blank">Talk by John Preskill</a>] [<a href="https://phys.org/news/2020-07-method-properties-complex-quantum.html" target="_blank">Phys.org News</a>] [<a href="https://www.quantamagazine.org/machine-learning-aids-classical-modeling-of-quantum-systems-20230914/" target="_blank">Quanta Magazine</a>]
 
 
-* * *
-
-### >> Pre-quantum
-
-I have previously worked on machine learning at <a href="https://scholar.google.com/citations?user=SLMkts8AAAAJ&hl=en" target="_blank">Chih-Jen Lin's group</a>, deep learning at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-ai/" target="_blank">Microsoft Research</a> and <a href="https://allenai.org/" target="_blank">Allen Institute of AI</a>, and biology at <a href="http://sbl.csie.org/JuanLab/doku.php?id=PI:Hsueh-Fen%20Juan" target="_blank">Hsueh-Fen Juan's lab</a>.
-
-
-{:start="40"}
-5. *FlowQA: grasping flow in history for conversational machine comprehension* <br>
+1. *FlowQA: grasping flow in history for conversational machine comprehension* <br>
 **H.-Y. Huang**, E. Choi, W. Yih. <br>
 *ICLR (2019)*. [<a href="https://arxiv.org/abs/1810.06683" target="_blank">pdf</a>]
 
-4. *FusionNet: Fusing via Fully-aware attention with application to machine comprehension* <br>
+1. *FusionNet: Fusing via Fully-aware attention with application to machine comprehension* <br>
 **H.-Y. Huang**, C. Zhu, Y. Shen, W. Chen. <br>
 *ICLR (2018)*.  [<a href="https://arxiv.org/abs/1711.07341" target="_blank">pdf</a>]
 
-3. *A unified algorithm for one-class structured matrix factorization with side information* <br>
+1. *A unified algorithm for one-class structured matrix factorization with side information* <br>
 H.-F. Yu, **H.-Y. Huang**, I. S. Dhillon, C.-J. Lin. <br>
 *AAAI (2017)*. [<a href="https://www.csie.ntu.edu.tw/~cjlin/papers/ocmf-side/biased-leml-aaai-with-supp.pdf" target="_blank">pdf</a>]
 
-2. *Linear and kernel classification: When to use which?* <br>
+1. *Linear and kernel classification: When to use which?* <br>
 **H.-Y. Huang**, C.-J. Lin. <br>
 *SDM (2016)*. [<a href="https://www.csie.ntu.edu.tw/~cjlin/papers/kernel-check/kcheck.pdf" target="_blank">pdf</a>]
 
