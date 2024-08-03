@@ -45,8 +45,7 @@ T. Schuster, J. Haferkamp, **H.-Y. Huang**<br>
 
 
 1. *Dynamical simulation via quantum machine learning with provable generalization* <br>
-J. Gibbs, Z. Holmes, M. C. Caro, N. Ezzell, **H.-Y. Huang**, L. Cincio, A. T. Sornborger, P. J. Coles. <br>
-*<a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.013241" target="_blank">Physical Review Research (2024)</a>.* [<a href="https://arxiv.org/abs/2204.10269" target="_blank">pdf</a>]
+J. Gibbs, Z. Holmes, M. C. Caro, N. Ezzell, **H.-Y. Huang**, L. Cincio, A. T. Sornborger, P. J. Coles. *<a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.013241" target="_blank">Physical Review Research (2024)</a>.* [<a href="https://arxiv.org/abs/2204.10269" target="_blank">pdf</a>]
 
 
 1. *Tight bounds on Pauli channel learning without entanglement* <br>
