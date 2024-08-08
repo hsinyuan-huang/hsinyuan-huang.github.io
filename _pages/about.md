@@ -7,15 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I am Hsin-Yuan Huang (黃信元, pronounced "Shin Yuan Huan"). I also go by Robert. I am currently a Senior Research Scientist at Google Quantum AI and a Visiting Scientist at MIT. In 2025, I will join [Caltech](https://www.caltech.edu/) as an Assistant Professor of Theoretical Physics.
+I am Hsin-Yuan Huang (黃信元, pronounced "Shin Yuan Huan"). I also go by the name Robert. I am currently a Senior Research Scientist at Google Quantum AI and a Visiting Scientist at MIT. In 2025, I will join [Caltech](https://www.caltech.edu/) as an Assistant Professor of Theoretical Physics.
 
-I received my Ph.D. under the guidance of John Preskill and Thomas Vidick. My dissertation, titled *Learning in the Quantum Universe*, was honored with the Milton and Francis Clauser Doctoral Prize --- an award conferred annually to a single doctoral dissertation across all disciplines at Caltech that demonstrates the highest degree of originality and potential for opening up new avenues of human thought and endeavor.
+I received my Ph.D. under the guidance of John Preskill and Thomas Vidick. My doctoral dissertation, titled *Learning in the Quantum Universe*, was honored with the Milton and Francis Clauser Doctoral Prize --- an award conferred annually to a single doctoral dissertation across all disciplines at Caltech that demonstrates the highest degree of originality and potential for opening up new avenues of human thought and endeavor.
 
 ## Research Interest
 
 My research aims to build a rigorous foundation for understanding how scientists, machines, and future quantum computers can learn and discover new phenomena governing our quantum-mechanical universe (molecules, materials, pharmaceutics, exotic quantum matter, engineered quantum devices, etc.).
 
-I leverage concepts and tools from quantum information theory, quantum many-body physics, learning theory, and complexity theory to formalize and explore new questions in the following directions:
+I leverage concepts from quantum information theory, quantum many-body physics, learning theory, and complexity theory to formalize and explore new questions in the following directions:
 
 * When can quantum machines learn and predict better than classical machines?
 * How to accelerate/automate the development of quantum and physical sciences?
