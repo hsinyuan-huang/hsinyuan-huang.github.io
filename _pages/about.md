@@ -31,7 +31,7 @@ My ultimate goal is to build quantum machines capable of discovering new facets 
 
 ## Publications
 
-<a href="https://scholar.google.com/citations?user=2y5YF-gAAAAJ&hl=en" target="_blank">Google Scholar</a> provides a full list under chronological/citations order. Selected publications are labeled by :dart:.
+<a href="https://scholar.google.com/citations?user=2y5YF-gAAAAJ" target="_blank">Google Scholar</a> provides a full list under chronological/citations order. Selected publications are labeled by :dart:.
 
 
 1. :dart: *Random unitaries in extremely low depth* <br>
