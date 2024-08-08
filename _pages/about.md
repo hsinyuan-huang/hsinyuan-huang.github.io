@@ -15,7 +15,7 @@ I received my Ph.D. under the guidance of John Preskill and Thomas Vidick. My do
 
 My research aims to build a rigorous foundation for understanding how scientists, machines, and future quantum computers can learn and discover new phenomena governing our quantum-mechanical universe (molecules, materials, pharmaceutics, exotic quantum matter, engineered quantum devices, etc.).
 
-I leverage concepts from quantum information theory, quantum many-body physics, learning theory, and complexity theory to formalize and explore new questions in the following directions:
+I leverage insights from quantum information theory, quantum many-body physics, learning theory, and complexity theory to formalize and explore new questions in the following directions:
 
 * When can quantum machines learn and predict better than classical machines?
 * How to accelerate/automate the development of quantum and physical sciences?
