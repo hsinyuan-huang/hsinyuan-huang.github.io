@@ -7,21 +7,21 @@ redirect_from:
   - /about.html
 ---
 
-I am Hsin-Yuan Huang (pronounced as "Shin Yuan Huan", 黃信元), a senior research scientist at Google Quantum AI and a visiting scientist at MIT. I also go by the name Robert. I received my Ph.D. in 2024 advised by John Preskill and Thomas Vidick.
+I am Hsin-Yuan Huang (黃信元, pronounced "Shin Yuan Huan"). I also use the name Robert. I am currently a Senior Research Scientist at Google Quantum AI and a Visiting Scientist at MIT. In 2025, I will join [Caltech](https://www.caltech.edu/) as an Assistant Professor of Theoretical Physics.
 
-In 2025, I will start as an Assistant Professor of Theoretical Physics at <a href="https://www.caltech.edu/" target="_blank">Caltech</a>.
+I received my Ph.D. in 2024 under the guidance of John Preskill and Thomas Vidick. My dissertation, *Learning in the Quantum Universe*, was honored with the Milton and Francis Clauser Doctoral Prize --- an award bestowed annually to a single dissertation across all disciplines at Caltech for its originality and potential to open new avenues of human thought and endeavor. I am immensely grateful for this recognition, which emboldens me to venture further into the uncharted realms of physics, information, and learning.
 
 ## Research Interest
 
 My research aims to build a rigorous foundation for understanding how scientists, machines, and future quantum computers can learn and discover new phenomena governing our quantum-mechanical universe (molecules, materials, pharmaceutics, exotic quantum matter, engineered quantum devices, etc.).
 
-I utilize concepts and tools in quantum information theory, quantum many-body physics, learning theory, and complexity theory to formalize and explore new questions spawning from the following directions:
+I leverage concepts and tools from quantum information theory, quantum many-body physics, learning theory, and complexity theory to formalize and explore new questions in the following directions:
 
 * When can quantum machines learn and predict better than classical machines?
 * How to accelerate/automate the development of quantum and physical sciences?
 * What physical phenomena can classical vs quantum machines learn and discover?
 
-My Ph.D. thesis *Learning in the quantum universe* was awarded the Milton and Francis Clauser doctoral prize (awarded annually to a single doctoral dissertation among all Caltech Ph.D. graduates). My ultimate dream is to build quantum machines that can discover new facets of our universe beyond the capabilities of humans and classical machines.
+My ultimate goal is to build quantum machines capable of discovering new facets of our universe beyond the capabilities of humans and classical machines.
 
 <center>
 <img src="assets/img/Intelligence.jpg"
