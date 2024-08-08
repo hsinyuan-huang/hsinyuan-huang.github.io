@@ -34,23 +34,19 @@ My Ph.D. thesis titled *Learning in the quantum universe* received the Milton an
 <a href="https://scholar.google.com/citations?user=2y5YF-gAAAAJ&hl=en" target="_blank">Google Scholar</a> provides a full list under chronological/citations order. Selected publications are labeled by :dart:.
 
 
-1. *Random unitaries in extremely low depth* <br>
+1. :dart: *Random unitaries in extremely low depth* <br>
 T. Schuster, J. Haferkamp, **H.-Y. Huang**<br>
 *arXiv (2024).* [<a href="https://arxiv.org/abs/2407.07754" target="_blank">pdf</a>] [<a href="https://x.com/RobertHuangHY/status/1811282817743208706" target="_blank">Thread on X</a>]
-
-
-1. :dart: *Certifying almost all quantum states with few single-qubit measurements* <br>
-**(alphabetical order)** H.-Y. Huang, J. Preskill, M. Soleimanifar.<br>
-*FOCS (2024), Contributed talk at QIP (2024).* [<a href="https://arxiv.org/abs/2404.07281" target="_blank">pdf</a>] [<a href="https://x.com/RobertHuangHY/status/1780093918488773026" target="_blank">Thread on X</a>]
-
-
-1. *Dynamical simulation via quantum machine learning with provable generalization* <br>
-J. Gibbs, Z. Holmes, M. C. Caro, N. Ezzell, **H.-Y. Huang**, L. Cincio, A. T. Sornborger, P. J. Coles. *<a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.013241" target="_blank">Physical Review Research (2024)</a>.* [<a href="https://arxiv.org/abs/2204.10269" target="_blank">pdf</a>]
 
 
 1. *Tight bounds on Pauli channel learning without entanglement* <br>
 S. Chen, C. Oh, S. Zhou, **H.-Y. Huang**, L. Jiang. <br>
 *<a href="https://doi.org/10.1103/PhysRevLett.132.180805" target="_blank">Physical Review Letters (2024)</a>.* [<a href="https://arxiv.org/abs/2309.13461" target="_blank">pdf</a>]
+
+
+1. :dart: *Certifying almost all quantum states with few single-qubit measurements* <br>
+**(alphabetical order)** H.-Y. Huang, J. Preskill, M. Soleimanifar.<br>
+*FOCS (2024), Contributed talk at QIP (2024).* [<a href="https://arxiv.org/abs/2404.07281" target="_blank">pdf</a>] [<a href="https://x.com/RobertHuangHY/status/1780093918488773026" target="_blank">Thread on X</a>]
 
 
 1. *Learning conservation laws in unknown quantum dynamics* <br>
@@ -107,14 +103,17 @@ M. C. Caro<sup>$\dagger$</sup>, **H.-Y. Huang**<sup>$\dagger$</sup> (co-first au
 *<a href="https://www.nature.com/articles/s41467-023-39381-w" target="_blank">Nature Communications (2023)</a>.* [<a href="https://arxiv.org/abs/2204.10268" target="_blank">pdf</a>] [<a href="https://www.eurekalert.org/news-releases/994275">News</a>]
 
 
-1. *The power and limitations of learning quantum dynamics incoherently* <br>
-S. Jerbi, J. Gibbs, M. S. Rudolph, M. C. Caro, P. J. Coles, **H.-Y. Huang**, Z. Holmes.<br>
-*arXiv (2023).* [<a href="https://arxiv.org/abs/2303.12834" target="_blank">pdf</a>]
+1. *Dynamical simulation via quantum machine learning with provable generalization* <br>
+J. Gibbs, Z. Holmes, M. C. Caro, N. Ezzell, **H.-Y. Huang**, L. Cincio, A. T. Sornborger, P. J. Coles. *<a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.013241" target="_blank">Physical Review Research (2024)</a>.* [<a href="https://arxiv.org/abs/2204.10269" target="_blank">pdf</a>]
 
 
 1. *Learning many-body Hamiltonians with Heisenberg-limited scaling* <br>
 **H.-Y. Huang**<sup>$\dagger$</sup> (co-first author), Y. Tong<sup>$\dagger$</sup>, Di Fang, Yuan Su. <br>
 *<a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.200403" target="_blank">Physical Review Letters (2023)</a>, Short plenary talk at QIP (2023).* [<a href="https://arxiv.org/abs/2210.03030" target="_blank">pdf</a>] [<a href="https://x.com/RobertHuangHY/status/1578350030641328128" target="_blank">Thread on X</a>]
+
+1. *The power and limitations of learning quantum dynamics incoherently* <br>
+S. Jerbi, J. Gibbs, M. S. Rudolph, M. C. Caro, P. J. Coles, **H.-Y. Huang**, Z. Holmes.<br>
+*arXiv (2023).* [<a href="https://arxiv.org/abs/2303.12834" target="_blank">pdf</a>]
 
 1. *Preparing random states and benchmarking with many-body quantum chaos* <br>
 J. Choi, A. L. Shaw, I. S. Madjarov, X. Xie, R. Finkelstein, J. P. Covey, J. S. Cotler, D. K. Mark, **H.-Y. Huang**, A. Kale, H. Pichler, F. G. S. L. Brandao, S. Choi, M. Endres. <br>
