@@ -21,9 +21,7 @@ I utilize concepts and tools in quantum information theory, quantum many-body ph
 * How to accelerate/automate the development of quantum and physical sciences?
 * What physical phenomena can classical vs quantum machines learn and discover?
 
-My Ph.D. thesis titled *Learning in the quantum universe* received the Milton and Francis Clauser doctoral prize (awarded annually to a single doctoral dissertation among all Caltech Ph.D. graduates).
-
-My ultimate dream is to build quantum machines that can discover new facets of our universe beyond the capabilities of humans and classical machines.
+My Ph.D. thesis *Learning in the quantum universe* was awarded the Milton and Francis Clauser doctoral prize (awarded annually to a single doctoral dissertation among all Caltech Ph.D. graduates). My ultimate dream is to build quantum machines that can discover new facets of our universe beyond the capabilities of humans and classical machines.
 
 <center>
 <img src="assets/img/Intelligence.jpg"
