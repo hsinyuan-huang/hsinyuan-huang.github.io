@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am Hsin-Yuan Huang (黃信元, pronounced "Shin Yuan Huan"). I also use the name Robert. I am currently a Senior Research Scientist at Google Quantum AI and a Visiting Scientist at MIT. In 2025, I will join [Caltech](https://www.caltech.edu/) as an Assistant Professor of Theoretical Physics.
+I am Hsin-Yuan Huang (黃信元, pronounced "Shin Yuan Huan"). I also use the name Robert. Currently, I am a Senior Research Scientist at Google Quantum AI and a Visiting Scientist at MIT. In 2025, I will join [Caltech](https://www.caltech.edu/) as an Assistant Professor of Theoretical Physics.
 
-I received my Ph.D. in 2024 under the guidance of John Preskill and Thomas Vidick. My dissertation, *Learning in the Quantum Universe*, was honored with the Milton and Francis Clauser Doctoral Prize --- an award bestowed annually to a single dissertation across all disciplines at Caltech for its originality and potential to open new avenues of human thought and endeavor. I am immensely grateful for this recognition, which emboldens me to venture further into the uncharted realms of physics, information, and learning.
+I received my Ph.D. in 2024 under the guidance of John Preskill and Thomas Vidick. My dissertation, *Learning in the Quantum Universe*, was honored with the prestigious Milton and Francis Clauser Doctoral Prize --- an award conferred annually to a single dissertation across all disciplines at Caltech in recognition of its originality and potential to open new avenues of human thought and endeavor. I am deeply humbled and inspired by this honor, which emboldens me to forge ahead in my quest to explore uncharted realms in physics, information, and learning.
 
 ## Research Interest
 
