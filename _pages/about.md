@@ -108,7 +108,7 @@ M. C. Caro<sup>$\dagger$</sup>, **H.-Y. Huang**<sup>$\dagger$</sup> (co-first au
 J. Gibbs, Z. Holmes, M. C. Caro, N. Ezzell, **H.-Y. Huang**, L. Cincio, A. T. Sornborger, P. J. Coles. *<a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.013241" target="_blank">Physical Review Research (2024)</a>.* [<a href="https://arxiv.org/abs/2204.10269" target="_blank">PDF</a>]
 
 
-1. *Learning many-body Hamiltonians with Heisenberg-limited scaling* <br>
+1. :dart: *Learning many-body Hamiltonians with Heisenberg-limited scaling* <br>
 **H.-Y. Huang**<sup>$\dagger$</sup> (co-first author), Y. Tong<sup>$\dagger$</sup>, Di Fang, Yuan Su. <br>
 *<a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.200403" target="_blank">Physical Review Letters (2023)</a>, Short plenary talk at QIP (2023).* [<a href="https://arxiv.org/abs/2210.03030" target="_blank">PDF</a>] [<a href="https://x.com/RobertHuangHY/status/1578350030641328128" target="_blank">Thread on X</a>]
 
