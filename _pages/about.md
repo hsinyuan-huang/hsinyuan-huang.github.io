@@ -46,7 +46,7 @@ S. Chen, C. Oh, S. Zhou, **H.-Y. Huang**, L. Jiang. <br>
 
 1. :dart: *Certifying almost all quantum states with few single-qubit measurements* <br>
 **(alphabetical order)** H.-Y. Huang, J. Preskill, M. Soleimanifar.<br>
-*FOCS (2024), Contributed talk at QIP (2024).* [<a href="https://arxiv.org/abs/2404.07281" target="_blank">pdf</a>] [<a href="https://x.com/RobertHuangHY/status/1780093918488773026" target="_blank">Thread on X</a>]
+*FOCS (2024), Contributed talk at QIP (2024).* [<a href="https://arxiv.org/abs/2404.07281" target="_blank">pdf</a>] [<a href="https://x.com/RobertHuangHY/status/1780093918488773026" target="_blank">Thread on X</a>] [<a href="https://github.com/hsinyuan-huang/certify-quantum-states" target="_blank">GitHub</a>]
 
 
 1. *Learning conservation laws in unknown quantum dynamics* <br>
@@ -201,7 +201,7 @@ J. R. McClean, N. C. Rubin, J. Lee, M. P. Harrigan, T. E. O'Brien, R. Babbush, W
 1. *Efficient estimation of Pauli observables by derandomization* <br>
 **H.-Y. Huang**, R. Kueng, J. Preskill. <br>
 *<a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.030503" target="_blank">Physical Review Letters (2021)</a>, TQC (2021).*
-[<a href="https://arxiv.org/abs/2103.07510" target="_blank">pdf</a>].
+[<a href="https://arxiv.org/abs/2103.07510" target="_blank">pdf</a>] [<a href="https://github.com/hsinyuan-huang/predicting-quantum-properties" target="_blank">GitHub</a>]
 
 
 1. :dart: *Power of data in quantum machine learning* <br>
@@ -251,7 +251,7 @@ A. Elben, R. Kueng, **H.-Y. Huang**, R. van Bijnen, C. Kokail, M. Dalmonte, P. C
 1. :dart: *Predicting many properties in a quantum system from very few measurements* <br>
 **H.-Y. Huang**, R. Kueng, J. Preskill. <br>
 *<a href="https://www.nature.com/articles/s41567-020-0932-7" target="_blank">Nature Physics (2020)</a>, Short plenary talk at QIP (2020).*<br>
-[<a href="https://arxiv.org/abs/2002.08953" target="_blank">pdf</a>] [<a href="https://github.com/hsinyuan-huang/predicting-quantum-properties" target="_blank">code</a>] [<a href="https://en.wikipedia.org/wiki/Classical_shadow" target="_blank">Wikipedia page</a>] [<a href="https://pennylane.ai/qml/demos/tutorial_classical_shadows.html" target="_blank">PennyLane Tutorial</a>] [<a href="https://www.youtube.com/watch?v=NXejv2wVwas&t=2553s&ab_channel=SimonsInstitute" target="_blank">Talk by John Preskill</a>] [<a href="https://phys.org/news/2020-07-method-properties-complex-quantum.html" target="_blank">Phys.org News</a>] [<a href="https://www.quantamagazine.org/machine-learning-aids-classical-modeling-of-quantum-systems-20230914/" target="_blank">Quanta Magazine</a>]
+[<a href="https://arxiv.org/abs/2002.08953" target="_blank">pdf</a>] [<a href="https://github.com/hsinyuan-huang/predicting-quantum-properties" target="_blank">GitHub</a>] [<a href="https://github.com/hsinyuan-huang/predicting-quantum-properties" target="_blank">code</a>] [<a href="https://en.wikipedia.org/wiki/Classical_shadow" target="_blank">Wikipedia page</a>] [<a href="https://pennylane.ai/qml/demos/tutorial_classical_shadows.html" target="_blank">PennyLane Tutorial</a>] [<a href="https://www.youtube.com/watch?v=NXejv2wVwas&t=2553s&ab_channel=SimonsInstitute" target="_blank">Talk by John Preskill</a>] [<a href="https://phys.org/news/2020-07-method-properties-complex-quantum.html" target="_blank">Phys.org News</a>] [<a href="https://www.quantamagazine.org/machine-learning-aids-classical-modeling-of-quantum-systems-20230914/" target="_blank">Quanta Magazine</a>]
 
 
 1. *FlowQA: grasping flow in history for conversational machine comprehension* <br>
