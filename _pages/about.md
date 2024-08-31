@@ -52,9 +52,6 @@ S. Chen, C. Oh, S. Zhou, **H.-Y. Huang**, L. Jiang. <br>
 *FOCS (2024), Contributed talk at QIP (2024).*<br>
 [<a href="https://arxiv.org/abs/2404.07281" target="_blank">PDF</a>] [<a href="https://x.com/RobertHuangHY/status/1780093918488773026" target="_blank">Thread on X</a>] [<a href="https://github.com/hsinyuan-huang/certify-quantum-states" target="_blank">GitHub Code</a>]
 
-1. *Thermalization and Criticality on an Analog-Digital Quantum Simulator* <br>
-**Google Quantum AI and Collaborators**<br>
-*arXiv (2024).* [<a href="https://arxiv.org/abs/2405.17385" target="_blank">PDF</a>]
 
 1. *Learning conservation laws in unknown quantum dynamics* <br>
 Y. Zhan, A. Elben, **H.-Y. Huang**, Y. Tong. <br>
