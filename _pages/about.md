@@ -34,11 +34,11 @@ My ultimate goal is to build quantum machines capable of discovering new facets 
 <a href="https://scholar.google.com/citations?user=2y5YF-gAAAAJ" target="_blank">Google Scholar</a> provides a full list under chronological/citations order. Selected publications are labeled by :dart:.
 
 1. *Quantum error correction below the surface code threshold* <br>
-**Google Quantum AI and Collaborators**<br>
+**(alphabetical order)** Google Quantum AI and Collaborators.<br>
 *arXiv (2024).* [<a href="https://arxiv.org/abs/2408.13687" target="_blank">PDF</a>]
 
 1. :dart: *Random unitaries in extremely low depth* <br>
-T. Schuster, J. Haferkamp, **H.-Y. Huang**<br>
+T. Schuster, J. Haferkamp, **H.-Y. Huang**.<br>
 *arXiv (2024).* [<a href="https://arxiv.org/abs/2407.07754" target="_blank">PDF</a>] [<a href="https://x.com/RobertHuangHY/status/1811282817743208706" target="_blank">Thread on X</a>]
 
 
