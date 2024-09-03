@@ -50,7 +50,7 @@ S. Chen, C. Oh, S. Zhou, **H.-Y. Huang**, L. Jiang. <br>
 1. :dart: *Certifying almost all quantum states with few single-qubit measurements* <br>
 **(alphabetical order)** H.-Y. Huang, J. Preskill, M. Soleimanifar.<br>
 *FOCS (2024), Contributed talk at QIP (2024).*<br>
-[<a href="https://arxiv.org/abs/2404.07281" target="_blank">PDF</a>] [<a href="https://x.com/RobertHuangHY/status/1780093918488773026" target="_blank">Thread on X</a>] [<a href="https://github.com/hsinyuan-huang/certify-quantum-states" target="_blank">GitHub Code</a>]
+[<a href="https://arxiv.org/abs/2404.07281" target="_blank">PDF</a>] [<a href="https://x.com/RobertHuangHY/status/1780093918488773026" target="_blank">Thread on X</a>] [<a href="https://github.com/hsinyuan-huang/certify-quantum-states" target="_blank">GitHub Code</a>] [<a href="https://www.youtube.com/live/o4EIME_ZVnU?si=kpK85SwxyoN6dso8" target="_blank">Invited talk at IBM</a>]
 
 
 1. *Learning conservation laws in unknown quantum dynamics* <br>
