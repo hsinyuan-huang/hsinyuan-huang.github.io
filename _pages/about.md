@@ -69,6 +69,7 @@ Y. Zhan, A. Elben, **H.-Y. Huang**, Y. Tong. <br>
 1. :dart: *Learning shallow quantum circuits* <br>
 **H.-Y. Huang**<sup>$\dagger$</sup> (co-first author), Y. Liu<sup>$\dagger$</sup>, M. Broughton, I. Kim, A. Anshu, Z. Landau, J. R. McClean.<br>
 *STOC (2024), Short plenary talk at QIP (2024).*<br>
+Invited to SIAM Journal of Computing Special Issue.<br>
 [<a href="https://arxiv.org/abs/2401.10095" target="_blank">PDF</a>] [<a href="https://hsinyuan-huang.github.io/assets/img/Learning-shallow-QC-QIP.pdf" target="_blank">QIP Slide</a>] [<a href="https://x.com/RobertHuangHY/status/1748917003170332700?s=20" target="_blank">Thread on X</a>] [<a href="https://pennylane.ai/qml/demos/tutorial_learningshallow/" target="_blank">PennyLane Demo</a>]
 
 
