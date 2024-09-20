@@ -34,7 +34,7 @@ My ultimate goal is to build quantum machines capable of discovering new facets 
 <a href="https://scholar.google.com/citations?user=2y5YF-gAAAAJ" target="_blank">Google Scholar</a> provides a full list under chronological/citations order. Selected publications are labeled by :dart:.
 
 1. *Predicting quantum channels over general product distributions* <br>
-S. Chen, J. D. Pont, J.-T. Hsieh, **H.-Y. Huang**, J. Lange, J. Li. <br>
+**(alphabetical order)** S. Chen, J. D. Pont, J.-T. Hsieh, H.-Y. Huang, J. Lange, J. Li. <br>
 *arXiv (2024).* [<a href="https://arxiv.org/abs/2409.03684" target="_blank">PDF</a>]
 
 1. *Classically estimating observables of noiseless quantum circuits* <br>
