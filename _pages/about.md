@@ -33,6 +33,10 @@ My ultimate goal is to build quantum machines capable of discovering new facets 
 
 <a href="https://scholar.google.com/citations?user=2y5YF-gAAAAJ" target="_blank">Google Scholar</a> provides a full list under chronological/citations order. Selected publications are labeled by :dart:.
 
+1. :dart: *How to construct random unitaries* <br>
+F. Ma, **H.-Y. Huang**.<br>
+*arXiv (2024).* [<a href="https://arxiv.org/abs/2410.10116" target="_blank">PDF</a>]
+
 1. *Predicting quantum channels over general product distributions* <br>
 **(alphabetical order)** S. Chen, J. D. Pont, J.-T. Hsieh, H.-Y. Huang, J. Lange, J. Li. <br>
 *arXiv (2024).* [<a href="https://arxiv.org/abs/2409.03684" target="_blank">PDF</a>]
@@ -230,7 +234,7 @@ J. R. McClean, N. C. Rubin, J. Lee, M. P. Harrigan, T. E. O'Brien, R. Babbush, W
 1. :dart: *Information-theoretic bounds on quantum advantage in machine learning* <br>
 **H.-Y. Huang**, R. Kueng, J. Preskill.<br>
 *<a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.190505" target="_blank">Physical Review Letters (Editor's Suggestion)</a>, Contributed talk at QIP (2021).*<br>
-[<a href="https://arxiv.org/abs/2101.02464" target="_blank">PDF</a>] [<a href="https://www.youtube.com/watch?v=d1_hBEJQUSA&t=1202s&ab_channel=MunichCenterforQuantumScience%26Technology" target="_blank">Talk at QIP</a>] [<a href="https://quantumfrontiers.com/2021/06/02/peeking-into-the-world-of-quantum-intelligence/" target="_blank">IQIM blog</a>]
+[<a href="https://arxiv.org/abs/2101.02464" target="_blank">PDF</a>] [<a href="https://www.youtube.com/watch?v=d1_hBEJQUSA&t=1202s&ab_channel=MunichCenterforQuantumScience%26Technology" target="_blank">Talk at QIP</a>] [<a href="https://quantumfrontiers.com/2021/06/02/peeking-into-the-world-of-quantum-intelligence/" target="_blank">IQIM blog</a>] [<a href="https://www.quantamagazine.org/quantum-memory-proves-exponentially-powerful-20241016/" target="_blank">Quanta Magazine</a>]
 
 
 1. *Nearly-tight Trotterization of interacting electrons* <br>
