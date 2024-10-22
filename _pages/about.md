@@ -33,6 +33,10 @@ My ultimate goal is to build quantum machines capable of discovering new facets 
 
 <a href="https://scholar.google.com/citations?user=2y5YF-gAAAAJ" target="_blank">Google Scholar</a> provides a full list under chronological/citations order. Selected publications are labeled by :dart:.
 
+1. *Predicting adaptively chosen observables in quantum systems* <br>
+J. Huang, L. Lewis, **H.-Y. Huang**, J. Preskill. <br>
+*arXiv (2024).* [<a href="https://arxiv.org/abs/2410.15501" target="_blank">PDF</a>]
+
 1. :dart: *How to construct random unitaries* <br>
 F. Ma, **H.-Y. Huang**.<br>
 *arXiv (2024).* [<a href="https://arxiv.org/abs/2410.10116" target="_blank">PDF</a>]
