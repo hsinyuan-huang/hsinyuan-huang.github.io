@@ -43,7 +43,7 @@ J. Huang, L. Lewis, **H.-Y. Huang**, J. Preskill. <br>
 
 1. :dart: *How to construct random unitaries* <br>
 F. Ma, **H.-Y. Huang**.<br>
-*arXiv (2024).* [<a href="https://arxiv.org/abs/2410.10116" target="_blank">PDF</a>]
+*Short plenary talk at QIP (2025).* [<a href="https://arxiv.org/abs/2410.10116" target="_blank">PDF</a>]
 
 1. *Predicting quantum channels over general product distributions* <br>
 **(alphabetical order)** S. Chen, J. D. Pont, J.-T. Hsieh, H.-Y. Huang, J. Lange, J. Li. <br>
@@ -59,7 +59,7 @@ A. Angrisani, A. Schmidhuber, M. S. Rudolph, M. Cerezo, Z. Holmes, **H.-Y. Huang
 
 1. :dart: *Random unitaries in extremely low depth* <br>
 T. Schuster, J. Haferkamp, **H.-Y. Huang**.<br>
-*arXiv (2024).* [<a href="https://arxiv.org/abs/2407.07754" target="_blank">PDF</a>] [<a href="https://x.com/RobertHuangHY/status/1811282817743208706" target="_blank">Thread on X</a>]
+*Long plenary talk at QIP (2025).*  [<a href="https://arxiv.org/abs/2407.07754" target="_blank">PDF</a>] [<a href="https://x.com/RobertHuangHY/status/1811282817743208706" target="_blank">Thread on X</a>]
 
 
 1. *Tight bounds on Pauli channel learning without entanglement* <br>
@@ -162,7 +162,7 @@ K. V. Kirk, J. Cotler, **H.-Y. Huang**, M. D. Lukin. <br>
 
 1. :dart:  *Provably efficient machine learning for quantum many-body problems* <br>
 **H.-Y. Huang**, R. Kueng, G. Torlai, V. V. Albert, J. Preskill. <br>
-*<a href="https://www.science.org/doi/10.1126/science.abk3333" target="_blank">Science (2022)</a>, Plenary talk at QIP (2022).* <br>
+*<a href="https://www.science.org/doi/10.1126/science.abk3333" target="_blank">Science (2022)</a>, Long plenary talk at QIP (2022).* <br>
 [<a href="https://arxiv.org/abs/2106.12627" target="_blank">PDF</a>] [<a href="https://github.com/hsinyuan-huang/provable-ml-quantum" target="_blank">GitHub Code</a>] [<a href="https://x.com/RobertHuangHY/status/1408230497512087554" target="_blank">Thread on X</a>] [<a href="https://www.caltech.edu/about/news/classical-machine-learning-can-solve-tricky-quantum-problems" target="_blank">Caltech News</a>] [<a href="https://phys.org/news/2022-09-traditional-quantum-problems.html" target="_blank">Phys.org News</a>] [<a href="https://spectrum.ieee.org/machine-learning-quantum" target="_blank">IEEE Spectrum</a>]<br>
 [<a href="https://pennylane.ai/qml/demos/tutorial_ml_classical_shadows.html" target="_blank">PennyLane Tutorial</a>] [<a href="https://youtu.be/W-vGcWZYQeA" target="_blank">Invited talk at Simons Institute</a>] [<a href="https://www.quantamagazine.org/machine-learning-aids-classical-modeling-of-quantum-systems-20230914/" target="_blank">Quanta Magazine</a>]
 
