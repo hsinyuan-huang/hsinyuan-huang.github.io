@@ -33,6 +33,14 @@ My ultimate goal is to build quantum machines capable of discovering new facets 
 
 <a href="https://scholar.google.com/citations?user=2y5YF-gAAAAJ" target="_blank">Google Scholar</a> provides a full list under chronological/citations order. Selected publications are labeled by :dart:.
 
+1. :dart: *Random unitaries in extremely low depth* <br>
+T. Schuster, J. Haferkamp, **H.-Y. Huang**.<br>
+*Long plenary talk at QIP (2025).*  [<a href="https://arxiv.org/abs/2407.07754" target="_blank">PDF</a>] [<a href="https://x.com/RobertHuangHY/status/1811282817743208706" target="_blank">Thread on X</a>]
+
+1. :dart: *How to construct random unitaries* <br>
+F. Ma, **H.-Y. Huang**.<br>
+*Short plenary talk at QIP (2025).* [<a href="https://arxiv.org/abs/2410.10116" target="_blank">PDF</a>]
+
 1. *Learning shallow quantum circuits with many-qubit gates* <br>
 F. Vasconcelos, **H.-Y. Huang**. <br>
 *arXiv (2024).* [<a href="https://arxiv.org/abs/2410.16693" target="_blank">PDF</a>]
@@ -40,10 +48,6 @@ F. Vasconcelos, **H.-Y. Huang**. <br>
 1. *Predicting adaptively chosen observables in quantum systems* <br>
 J. Huang, L. Lewis, **H.-Y. Huang**, J. Preskill. <br>
 *arXiv (2024).* [<a href="https://arxiv.org/abs/2410.15501" target="_blank">PDF</a>]
-
-1. :dart: *How to construct random unitaries* <br>
-F. Ma, **H.-Y. Huang**.<br>
-*Short plenary talk at QIP (2025).* [<a href="https://arxiv.org/abs/2410.10116" target="_blank">PDF</a>]
 
 1. *Predicting quantum channels over general product distributions* <br>
 **(alphabetical order)** S. Chen, J. D. Pont, J.-T. Hsieh, H.-Y. Huang, J. Lange, J. Li. <br>
@@ -56,11 +60,6 @@ A. Angrisani, A. Schmidhuber, M. S. Rudolph, M. Cerezo, Z. Holmes, **H.-Y. Huang
 1. *Quantum error correction below the surface code threshold* <br>
 **(alphabetical order)** Google Quantum AI and Collaborators.<br>
 *arXiv (2024).* [<a href="https://arxiv.org/abs/2408.13687" target="_blank">PDF</a>]
-
-1. :dart: *Random unitaries in extremely low depth* <br>
-T. Schuster, J. Haferkamp, **H.-Y. Huang**.<br>
-*Long plenary talk at QIP (2025).*  [<a href="https://arxiv.org/abs/2407.07754" target="_blank">PDF</a>] [<a href="https://x.com/RobertHuangHY/status/1811282817743208706" target="_blank">Thread on X</a>]
-
 
 1. *Tight bounds on Pauli channel learning without entanglement* <br>
 S. Chen, C. Oh, S. Zhou, **H.-Y. Huang**, L. Jiang. <br>
