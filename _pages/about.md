@@ -75,6 +75,11 @@ S. Chen, C. Oh, S. Zhou, **H.-Y. Huang**, L. Jiang. <br>
 [<a href="https://arxiv.org/abs/2404.07281" target="_blank">PDF</a>] [<a href="https://x.com/RobertHuangHY/status/1780093918488773026" target="_blank">Thread on X</a>] [<a href="https://github.com/hsinyuan-huang/certify-quantum-states" target="_blank">GitHub Code</a>] [<a href="https://www.youtube.com/live/o4EIME_ZVnU?si=kpK85SwxyoN6dso8" target="_blank">Invited talk at IBM</a>]
 
 
+1. *Learning quantum states and unitaries of bounded gate complexity* <br>
+H. Zhao, L. Lewis, I. Kannan, Y. Quek, **H.-Y. Huang**, M. C. Caro.<br>
+*[<a href="https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.040306" target="_blank">PRX Quantum (2024)</a>]* [<a href="https://arxiv.org/abs/2310.19882" target="_blank">PDF</a>]
+
+
 1. *Learning conservation laws in unknown quantum dynamics* <br>
 Y. Zhan, A. Elben, **H.-Y. Huang**, Y. Tong. <br>
 *<a href="https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.010350" target="_blank">PRX Quantum (2024)</a>.* [<a href="https://arxiv.org/abs/2309.00774" target="_blank">PDF</a>]
@@ -98,11 +103,8 @@ L. Lewis, **H.-Y. Huang**, V. T. Tran, S. Lehner, R. Kueng, J. Preskill.<br>
 *STOC (2024), Contributed talk at QIP (2024).*<br>
 [<a href="https://arxiv.org/abs/2309.16596" target="_blank">PDF</a>] [<a href="https://x.com/RobertHuangHY/status/1707861752942145672" target="_blank">Thread on X</a>] [<a href="https://www.quantamagazine.org/physicists-finally-find-a-problem-only-quantum-computers-can-do-20240312/" target="_blank">Quanta Magazine</a>]
 
-
-1. *Learning quantum states and unitaries of bounded gate complexity* <br>
-H. Zhao, L. Lewis, I. Kannan, Y. Quek, **H.-Y. Huang**, M. C. Caro.<br>
-*arXiv (2023).* [<a href="https://arxiv.org/abs/2310.19882" target="_blank">PDF</a>]
-
+1. *Dynamical simulation via quantum machine learning with provable generalization* <br>
+J. Gibbs, Z. Holmes, M. C. Caro, N. Ezzell, **H.-Y. Huang**, L. Cincio, A. T. Sornborger, P. J. Coles. *<a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.013241" target="_blank">Physical Review Research (2024)</a>.* [<a href="https://arxiv.org/abs/2204.10269" target="_blank">PDF</a>]
 
 1. *On quantum backpropagation, information reuse, and cheating measurement collapse* <br>
 A. Abbas, R. King, **H.-Y. Huang**, W. J Huggins, R. Movassagh, D. Gilboa, J. R McClean
@@ -123,10 +125,6 @@ A. Abbas, R. King, **H.-Y. Huang**, W. J Huggins, R. Movassagh, D. Gilboa, J. R 
 1. *Out-of-distribution generalization for learning quantum dynamics* <br>
 M. C. Caro<sup>$\dagger$</sup>, **H.-Y. Huang**<sup>$\dagger$</sup> (co-first author), N. Ezzell, J. Gibbs, A. T. Sornborger, L. Cincio, P. J. Coles, Z. Holmes.<br>
 *<a href="https://www.nature.com/articles/s41467-023-39381-w" target="_blank">Nature Communications (2023)</a>.* [<a href="https://arxiv.org/abs/2204.10268" target="_blank">PDF</a>] [<a href="https://www.eurekalert.org/news-releases/994275">News</a>]
-
-
-1. *Dynamical simulation via quantum machine learning with provable generalization* <br>
-J. Gibbs, Z. Holmes, M. C. Caro, N. Ezzell, **H.-Y. Huang**, L. Cincio, A. T. Sornborger, P. J. Coles. *<a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.013241" target="_blank">Physical Review Research (2024)</a>.* [<a href="https://arxiv.org/abs/2204.10269" target="_blank">PDF</a>]
 
 
 1. :dart: *Learning many-body Hamiltonians with Heisenberg-limited scaling* <br>
