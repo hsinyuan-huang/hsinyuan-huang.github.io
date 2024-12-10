@@ -37,9 +37,17 @@ My ultimate goal is to build quantum machines capable of discovering new facets 
 T. Schuster, J. Haferkamp, **H.-Y. Huang**.<br>
 *Long plenary talk at QIP (2025).*  [<a href="https://arxiv.org/abs/2407.07754" target="_blank">PDF</a>] [<a href="https://x.com/RobertHuangHY/status/1811282817743208706" target="_blank">Thread on X</a>]
 
+1. *Quantum error correction below the surface code threshold* <br>
+**(alphabetical order)** Google Quantum AI and Collaborators.<br>
+*<a href="https://www.nature.com/articles/s41586-024-08449-y" target="_blank">Nature (2024)</a>.* [<a href="https://arxiv.org/abs/2408.13687" target="_blank">PDF</a>] [<a href="https://www.quantamagazine.org/quantum-computers-cross-critical-error-threshold-20241209/" target="_blank">Quanta Magazine</a>] [<a href="https://arxiv.org/abs/2408.13687" target="_blank">PDF</a>] [<a href="https://www.nature.com/articles/d41586-024-04028-3" target="_blank">Nature News</a>] [<a href="https://www.nytimes.com/2024/12/09/technology/google-quantum-computing.html" target="_blank">New York Times</a>] 
+
 1. :dart: *How to construct random unitaries* <br>
 F. Ma, **H.-Y. Huang**.<br>
 *Short plenary talk at QIP (2025).* [<a href="https://arxiv.org/abs/2410.10116" target="_blank">PDF</a>]
+
+1. *Entanglement-enabled advantage for learning a bosonic random displacement channel* <br>
+C. Oh, S. Chen, Y. Wong, S. Zhou, **H.-Y. Huang**, J. A.H. Nielsen, Z.-H. Liu, J. S. Neergaard-Nielsen, U. L. Andersen, L. Jiang, J. Preskill.<br>
+*[<a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.230604" target="_blank">Physical Review Letters (2024)</a>]* [<a href="https://arxiv.org/abs/2402.18809" target="_blank">PDF</a>]
 
 1. *Learning shallow quantum circuits with many-qubit gates* <br>
 F. Vasconcelos, **H.-Y. Huang**. <br>
@@ -55,16 +63,11 @@ J. Huang, L. Lewis, **H.-Y. Huang**, J. Preskill. <br>
 
 1. *Classically estimating observables of noiseless quantum circuits* <br>
 A. Angrisani, A. Schmidhuber, M. S. Rudolph, M. Cerezo, Z. Holmes, **H.-Y. Huang**.<br>
-*arXiv (2024).* [<a href="https://arxiv.org/abs/2409.0170" target="_blank">PDF</a>]
-
-1. *Quantum error correction below the surface code threshold* <br>
-**(alphabetical order)** Google Quantum AI and Collaborators.<br>
-*arXiv (2024).* [<a href="https://arxiv.org/abs/2408.13687" target="_blank">PDF</a>]
+*arXiv (2024).* [<a href="https://arxiv.org/abs/2409.01706" target="_blank">PDF</a>]
 
 1. *Tight bounds on Pauli channel learning without entanglement* <br>
 S. Chen, C. Oh, S. Zhou, **H.-Y. Huang**, L. Jiang. <br>
 *<a href="https://doi.org/10.1103/PhysRevLett.132.180805" target="_blank">Physical Review Letters (2024)</a>.* [<a href="https://arxiv.org/abs/2309.13461" target="_blank">PDF</a>]
-
 
 1. :dart: *Certifying almost all quantum states with few single-qubit measurements* <br>
 **(alphabetical order)** H.-Y. Huang, J. Preskill, M. Soleimanifar.<br>
@@ -88,11 +91,6 @@ Invited to SIAM Journal of Computing Special Issue.<br>
 L. Lewis, **H.-Y. Huang**, V. T. Tran, S. Lehner, R. Kueng, J. Preskill.<br>
 *<a href="https://www.nature.com/articles/s41467-024-45014-7" target="_blank">Nature Communications (2024)</a>, Contributed talk at QIP (2023).* <br>
 [<a href="https://arxiv.org/abs/2301.13169" target="_blank">PDF</a>] [<a href="https://github.com/lllewis234/improved-ml-algorithm" target="_blank">GitHub Code</a>] [<a href="https://x.com/RobertHuangHY/status/1620505355360038912" target="_blank">Thread on X</a>] [<a href="https://www.quantamagazine.org/machine-learning-aids-classical-modeling-of-quantum-systems-20230914/" target="_blank">Quanta Magazine</a>]
-
-
-1. *Entanglement-enabled advantage for learning a bosonic random displacement channel* <br>
-C. Oh, S. Chen, Y. Wong, S. Zhou, **H.-Y. Huang**, J. A.H. Nielsen, Z.-H. Liu, J. S. Neergaard-Nielsen, U. L. Andersen, L. Jiang, J. Preskill.<br>
-*arXiv (2024).* [<a href="https://arxiv.org/abs/2402.18809" target="_blank">PDF</a>]
 
 
 1. :dart: *Local minima in quantum systems* <br>
