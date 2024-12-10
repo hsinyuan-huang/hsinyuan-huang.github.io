@@ -43,8 +43,7 @@ F. Ma, **H.-Y. Huang**.<br>
 
 1. *Quantum error correction below the surface code threshold* <br>
 **(alphabetical order)** Google Quantum AI and Collaborators.<br>
-*<a href="https://www.nature.com/articles/s41586-024-08449-y" target="_blank">Nature (2024)</a>.*<br>
-[<a href="https://arxiv.org/abs/2408.13687" target="_blank">PDF</a>] [<a href="https://www.quantamagazine.org/quantum-computers-cross-critical-error-threshold-20241209/" target="_blank">Quanta Magazine</a>] [<a href="https://physics.aps.org/articles/v17/176" target="_blank">Physics News</a>] [<a href="https://www.nature.com/articles/d41586-024-04028-3" target="_blank">Nature News</a>] [<a href="https://www.nytimes.com/2024/12/09/technology/google-quantum-computing.html" target="_blank">New York Times</a>] 
+*<a href="https://www.nature.com/articles/s41586-024-08449-y" target="_blank">Nature (2024)</a>.* [<a href="https://arxiv.org/abs/2408.13687" target="_blank">PDF</a>]<br> [<a href="https://www.quantamagazine.org/quantum-computers-cross-critical-error-threshold-20241209/" target="_blank">Quanta Magazine</a>] [<a href="https://physics.aps.org/articles/v17/176" target="_blank">Physics News</a>] [<a href="https://www.nature.com/articles/d41586-024-04028-3" target="_blank">Nature News</a>] [<a href="https://www.nytimes.com/2024/12/09/technology/google-quantum-computing.html" target="_blank">New York Times</a>] 
 
 1. *Entanglement-enabled advantage for learning a bosonic random displacement channel* <br>
 C. Oh, S. Chen, Y. Wong, S. Zhou, **H.-Y. Huang**, J. A.H. Nielsen, Z.-H. Liu, J. S. Neergaard-Nielsen, U. L. Andersen, L. Jiang, J. Preskill.<br>
