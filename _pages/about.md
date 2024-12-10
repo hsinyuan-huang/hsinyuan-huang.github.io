@@ -43,8 +43,7 @@ F. Ma, **H.-Y. Huang**.<br>
 
 1. *Quantum error correction below the surface code threshold* <br>
 **(alphabetical order)** Google Quantum AI and Collaborators.<br>
-*<a href="https://www.nature.com/articles/s41586-024-08449-y" target="_blank">Nature (2024)</a>.*<br>
-[<a href="https://arxiv.org/abs/2408.13687" target="_blank">PDF</a>] [<a href="https://www.quantamagazine.org/quantum-computers-cross-critical-error-threshold-20241209/" target="_blank">Quanta Magazine</a>] [<a href="https://physics.aps.org/articles/v17/176" target="_blank">Physics News</a>] [<a href="https://www.nature.com/articles/d41586-024-04028-3" target="_blank">Nature News</a>] [<a href="https://www.nytimes.com/2024/12/09/technology/google-quantum-computing.html" target="_blank">New York Times</a>] 
+*<a href="https://www.nature.com/articles/s41586-024-08449-y" target="_blank">Nature (2024)</a>.* [<a href="https://arxiv.org/abs/2408.13687" target="_blank">PDF</a>]<br> [<a href="https://www.quantamagazine.org/quantum-computers-cross-critical-error-threshold-20241209/" target="_blank">Quanta Magazine</a>] [<a href="https://physics.aps.org/articles/v17/176" target="_blank">Physics News</a>] [<a href="https://www.nature.com/articles/d41586-024-04028-3" target="_blank">Nature News</a>] [<a href="https://www.nytimes.com/2024/12/09/technology/google-quantum-computing.html" target="_blank">New York Times</a>] 
 
 1. *Entanglement-enabled advantage for learning a bosonic random displacement channel* <br>
 C. Oh, S. Chen, Y. Wong, S. Zhou, **H.-Y. Huang**, J. A.H. Nielsen, Z.-H. Liu, J. S. Neergaard-Nielsen, U. L. Andersen, L. Jiang, J. Preskill.<br>
@@ -75,28 +74,24 @@ A. Angrisani, A. Schmidhuber, M. S. Rudolph, M. Cerezo, Z. Holmes, **H.-Y. Huang
 S. Chen, C. Oh, S. Zhou, **H.-Y. Huang**, L. Jiang. <br>
 *<a href="https://doi.org/10.1103/PhysRevLett.132.180805" target="_blank">Physical Review Letters (2024)</a>.* [<a href="https://arxiv.org/abs/2309.13461" target="_blank">PDF</a>]
 
-1. *Learning quantum states and unitaries of bounded gate complexity* <br>
-H. Zhao, L. Lewis, I. Kannan, Y. Quek, **H.-Y. Huang**, M. C. Caro.<br>
-*<a href="https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.040306" target="_blank">PRX Quantum (2024)</a>* [<a href="https://arxiv.org/abs/2310.19882" target="_blank">PDF</a>]
-
-
-1. *Learning conservation laws in unknown quantum dynamics* <br>
-Y. Zhan, A. Elben, **H.-Y. Huang**, Y. Tong. <br>
-*<a href="https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.010350" target="_blank">PRX Quantum (2024)</a>.* [<a href="https://arxiv.org/abs/2309.00774" target="_blank">PDF</a>]
-
-
 1. :dart: *Learning shallow quantum circuits* <br>
 **H.-Y. Huang**<sup>$\dagger$</sup> (co-first author), Y. Liu<sup>$\dagger$</sup>, M. Broughton, I. Kim, A. Anshu, Z. Landau, J. R. McClean.<br>
 *STOC (2024), Short plenary talk at QIP (2024).*<br>
 Invited to SIAM Journal of Computing Special Issue.<br>
 [<a href="https://arxiv.org/abs/2401.10095" target="_blank">PDF</a>] [<a href="https://hsinyuan-huang.github.io/assets/img/Learning-shallow-QC-QIP.pdf" target="_blank">QIP Slide</a>] [<a href="https://x.com/RobertHuangHY/status/1748917003170332700?s=20" target="_blank">Thread on X</a>] [<a href="https://pennylane.ai/qml/demos/tutorial_learningshallow/" target="_blank">PennyLane Demo</a>]
 
+1. *Learning quantum states and unitaries of bounded gate complexity* <br>
+H. Zhao, L. Lewis, I. Kannan, Y. Quek, **H.-Y. Huang**, M. C. Caro.<br>
+*<a href="https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.040306" target="_blank">PRX Quantum (2024)</a>* [<a href="https://arxiv.org/abs/2310.19882" target="_blank">PDF</a>]
+
+1. *Learning conservation laws in unknown quantum dynamics* <br>
+Y. Zhan, A. Elben, **H.-Y. Huang**, Y. Tong. <br>
+*<a href="https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.010350" target="_blank">PRX Quantum (2024)</a>.* [<a href="https://arxiv.org/abs/2309.00774" target="_blank">PDF</a>]
 
 1. *Improved machine learning algorithm for predicting ground state properties* <br>
 L. Lewis, **H.-Y. Huang**, V. T. Tran, S. Lehner, R. Kueng, J. Preskill.<br>
 *<a href="https://www.nature.com/articles/s41467-024-45014-7" target="_blank">Nature Communications (2024)</a>, Contributed talk at QIP (2023).* <br>
 [<a href="https://arxiv.org/abs/2301.13169" target="_blank">PDF</a>] [<a href="https://github.com/lllewis234/improved-ml-algorithm" target="_blank">GitHub Code</a>] [<a href="https://x.com/RobertHuangHY/status/1620505355360038912" target="_blank">Thread on X</a>] [<a href="https://www.quantamagazine.org/machine-learning-aids-classical-modeling-of-quantum-systems-20230914/" target="_blank">Quanta Magazine</a>]
-
 
 1. :dart: *Local minima in quantum systems* <br>
 **(alphabetical order)** C.-F. Chen, H.-Y. Huang, J. Preskill, L. Zhou.<br>
