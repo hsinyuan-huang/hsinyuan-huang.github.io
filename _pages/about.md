@@ -38,7 +38,7 @@ R. R. Allen, F. Machado, I. L. Chuang, **H.-Y. Huang**, S. Choi.<br>
 *arXiv (2025).* [<a href="https://arxiv.org/abs/2501.07625" target="_blank">PDF</a>]
 
 1. *Myths around quantum computation before full fault tolerance: What no-go theorems rule out and what they don't* <br>
-Z. Zimborás, B. Koczor, Z. Holmes, E.-M. Borrelli, A. Gilyén, **H.-Y. Huang**, Z. Cai, A. Acín, L. Aolita, L. Banchi, F. G. S. L. Brandão, D. Cavalcanti, T. Cubitt, S. N. Filippov, G. García-Pérez, J. Goold, O. Kálmán, E. Kyoseva, M. A.C. Rossi, B. Sokolov, I. Tavernelli, S. Maniscalco
+Z. Zimborás, B. Koczor, Z. Holmes, E.-M. Borrelli, A. Gilyén, **H.-Y. Huang**, Z. Cai, A. Acín, L. Aolita, L. Banchi, F. G. S. L. Brandão, D. Cavalcanti, T. Cubitt, S. N. Filippov, G. García-Pérez, J. Goold, O. Kálmán, E. Kyoseva, M. A.C. Rossi, B. Sokolov, I. Tavernelli, S. Maniscalco.<br>
 *arXiv (2025).* [<a href="https://arxiv.org/abs/2501.05694" target="_blank">PDF</a>]
 
 1. :dart: *Random unitaries in extremely low depth* <br>
