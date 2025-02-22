@@ -33,6 +33,11 @@ My ultimate goal is to build quantum machines capable of discovering new facets 
 
 <a href="https://scholar.google.com/citations?user=2y5YF-gAAAAJ" target="_blank">Google Scholar</a> provides a full list under chronological/citations order. Selected publications are labeled by :dart:.
 
+1. :dart: *Local minima in quantum systems* <br>
+**(alphabetical order)** C.-F. Chen, H.-Y. Huang, J. Preskill, L. Zhou.<br>
+*<a href="https://www.nature.com/articles/s41567-025-02781-4" target="_blank">Nature Physics (2025)</a>, STOC (2024), Contributed talk at QIP (2024).*<br>
+[<a href="https://arxiv.org/abs/2309.16596" target="_blank">PDF</a>] [<a href="https://x.com/RobertHuangHY/status/1707861752942145672" target="_blank">Thread on X</a>] [<a href="https://www.quantamagazine.org/physicists-finally-find-a-problem-only-quantum-computers-can-do-20240312/" target="_blank">Quanta Magazine</a>]
+
 1. *Quantum Computing Enhanced Sensing* <br>
 R. R. Allen, F. Machado, I. L. Chuang, **H.-Y. Huang**, S. Choi.<br>
 *arXiv (2025).* [<a href="https://arxiv.org/abs/2501.07625" target="_blank">PDF</a>]
@@ -100,11 +105,6 @@ Y. Zhan, A. Elben, **H.-Y. Huang**, Y. Tong. <br>
 L. Lewis, **H.-Y. Huang**, V. T. Tran, S. Lehner, R. Kueng, J. Preskill.<br>
 *<a href="https://www.nature.com/articles/s41467-024-45014-7" target="_blank">Nature Communications (2024)</a>, Contributed talk at QIP (2023).* <br>
 [<a href="https://arxiv.org/abs/2301.13169" target="_blank">PDF</a>] [<a href="https://github.com/lllewis234/improved-ml-algorithm" target="_blank">GitHub Code</a>] [<a href="https://x.com/RobertHuangHY/status/1620505355360038912" target="_blank">Thread on X</a>] [<a href="https://www.quantamagazine.org/machine-learning-aids-classical-modeling-of-quantum-systems-20230914/" target="_blank">Quanta Magazine</a>]
-
-1. :dart: *Local minima in quantum systems* <br>
-**(alphabetical order)** C.-F. Chen, H.-Y. Huang, J. Preskill, L. Zhou.<br>
-*STOC (2024), Contributed talk at QIP (2024).*<br>
-[<a href="https://arxiv.org/abs/2309.16596" target="_blank">PDF</a>] [<a href="https://x.com/RobertHuangHY/status/1707861752942145672" target="_blank">Thread on X</a>] [<a href="https://www.quantamagazine.org/physicists-finally-find-a-problem-only-quantum-computers-can-do-20240312/" target="_blank">Quanta Magazine</a>]
 
 1. *Dynamical simulation via quantum machine learning with provable generalization* <br>
 J. Gibbs, Z. Holmes, M. C. Caro, N. Ezzell, **H.-Y. Huang**, L. Cincio, A. T. Sornborger, P. J. Coles. *<a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.013241" target="_blank">Physical Review Research (2024)</a>.* [<a href="https://arxiv.org/abs/2204.10269" target="_blank">PDF</a>]
