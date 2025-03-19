@@ -38,6 +38,14 @@ My ultimate goal is to build quantum machines capable of discovering new facets 
 *<a href="https://www.nature.com/articles/s41567-025-02781-4" target="_blank">Nature Physics (2025)</a>, STOC (2024), Contributed talk at QIP (2024).*<br>
 [<a href="https://arxiv.org/abs/2309.16596" target="_blank">PDF</a>] [<a href="https://x.com/RobertHuangHY/status/1707861752942145672" target="_blank">Thread on X</a>] [<a href="https://www.quantamagazine.org/physicists-finally-find-a-problem-only-quantum-computers-can-do-20240312/" target="_blank">Quanta Magazine</a>]
 
+1. :dart: *How to construct random unitaries* <br>
+F. Ma, **H.-Y. Huang**.<br>
+*STOC (2025), Short plenary talk at QIP (2025).* [<a href="https://arxiv.org/abs/2410.10116" target="_blank">PDF</a>]
+
+1. *Quantum learning advantage on a scalable photonic platform* <br>
+Z.-H. Liu, R. Brunel, E. E. B. Østergaard, O. Cordero, S. Chen, Y. Wong, J. A. H. Nielsen, A. B. Bregnsbo, S. Zhou, **H.-Y. Huang**, C. Oh, L. Jiang, J. Preskill, J. S. Neergaard-Nielsen, U. L. Andersen.<br>
+*arXiv (2025).* [<a href="https://arxiv.org/abs/2502.07770" target="_blank">PDF</a>]
+
 1. *Quantum Computing Enhanced Sensing* <br>
 R. R. Allen, F. Machado, I. L. Chuang, **H.-Y. Huang**, S. Choi.<br>
 *arXiv (2025).* [<a href="https://arxiv.org/abs/2501.07625" target="_blank">PDF</a>]
@@ -49,10 +57,6 @@ Z. Zimborás, B. Koczor, Z. Holmes, E.-M. Borrelli, A. Gilyén, **H.-Y. Huang**,
 1. :dart: *Random unitaries in extremely low depth* <br>
 T. Schuster, J. Haferkamp, **H.-Y. Huang**.<br>
 *Long plenary talk at QIP (2025).*  [<a href="https://arxiv.org/abs/2407.07754" target="_blank">PDF</a>] [<a href="https://x.com/RobertHuangHY/status/1811282817743208706" target="_blank">Thread on X</a>]
-
-1. :dart: *How to construct random unitaries* <br>
-F. Ma, **H.-Y. Huang**.<br>
-*Short plenary talk at QIP (2025).* [<a href="https://arxiv.org/abs/2410.10116" target="_blank">PDF</a>]
 
 1. *Quantum error correction below the surface code threshold* <br>
 **(alphabetical order)** Google Quantum AI and Collaborators.<br>
