@@ -40,7 +40,7 @@ My ultimate goal is to build quantum machines capable of discovering new facets 
 
 1. :dart: *How to construct random unitaries* <br>
 F. Ma, **H.-Y. Huang**.<br>
-*STOC (2025), Short plenary talk at QIP (2025).* [<a href="https://arxiv.org/abs/2410.10116" target="_blank">PDF</a>]
+*STOC (2025), Short plenary talk at QIP (2025).* [<a href="https://arxiv.org/abs/2410.10116" target="_blank">PDF</a>] [<a href="https://www.quantamagazine.org/the-high-cost-of-quantum-randomness-is-dropping-20250328/" target="_blank">Quanta Magazine</a>]
 
 1. *Quantum learning advantage on a scalable photonic platform* <br>
 Z.-H. Liu, R. Brunel, E. E. B. Østergaard, O. Cordero, S. Chen, Y. Wong, J. A. H. Nielsen, A. B. Bregnsbo, S. Zhou, **H.-Y. Huang**, C. Oh, L. Jiang, J. Preskill, J. S. Neergaard-Nielsen, U. L. Andersen.<br>
