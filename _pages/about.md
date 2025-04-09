@@ -36,7 +36,7 @@ I received my Ph.D. under the guidance of John Preskill and Thomas Vidick. My do
 1. :dart: *Local minima in quantum systems* <br>
 **(alphabetical order)** C.-F. Chen, H.-Y. Huang, J. Preskill, L. Zhou.<br>
 *<a href="https://www.nature.com/articles/s41567-025-02781-4" target="_blank">Nature Physics (2025)</a>, STOC (2024), Contributed talk at QIP (2024).*<br>
-[<a href="https://arxiv.org/abs/2309.16596" target="_blank">PDF</a>] [<a href="https://x.com/RobertHuangHY/status/1707861752942145672" target="_blank">Thread on X</a>] [<a href="https://www.quantamagazine.org/physicists-finally-find-a-problem-only-quantum-computers-can-do-20240312/" target="_blank">Quanta Magazine</a>]
+[<a href="https://arxiv.org/abs/2309.16596" target="_blank">PDF</a>] [<a href="https://x.com/RobertHuangHY/status/1707861752942145672" target="_blank">Thread on X</a>] [<a href="https://www.quantamagazine.org/physicists-finally-find-a-problem-only-quantum-computers-can-do-20240312/" target="_blank">Quanta Magazine</a>] [<a href="https://www.caltech.edu/about/news/proving-quantum-computers-have-the-edge" target="_blank">Caltech Story</a>]
 
 1. :dart: *How to construct random unitaries* <br>
 F. Ma, **H.-Y. Huang**.<br>
