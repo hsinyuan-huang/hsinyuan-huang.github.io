@@ -38,7 +38,9 @@ My ultimate goal is to build quantum machines capable of discovering new facets 
 
 1. :dart: *How to construct random unitaries* <br>
 F. Ma, **H.-Y. Huang**.<br>
-*STOC (2025), Short plenary talk at QIP (2025).* [<a href="https://arxiv.org/abs/2410.10116" target="_blank">PDF</a>] [<a href="https://www.quantamagazine.org/the-high-cost-of-quantum-randomness-is-dropping-20250328/" target="_blank">Quanta Magazine</a>]
+*STOC (2025), Short plenary talk at QIP (2025).*<br>
+Invited to SIAM Journal of Computing Special Issue.<br>
+[<a href="https://arxiv.org/abs/2410.10116" target="_blank">PDF</a>] [<a href="https://www.quantamagazine.org/the-high-cost-of-quantum-randomness-is-dropping-20250328/" target="_blank">Quanta Magazine</a>]
 
 1. *Quantum learning advantage on a scalable photonic platform* <br>
 Z.-H. Liu, R. Brunel, E. E. B. Østergaard, O. Cordero, S. Chen, Y. Wong, J. A. H. Nielsen, A. B. Bregnsbo, S. Zhou, **H.-Y. Huang**, C. Oh, L. Jiang, J. Preskill, J. S. Neergaard-Nielsen, U. L. Andersen.<br>
@@ -56,6 +58,14 @@ Z. Zimborás, B. Koczor, Z. Holmes, E.-M. Borrelli, A. Gilyén, **H.-Y. Huang**,
 T. Schuster, J. Haferkamp, **H.-Y. Huang**.<br>
 *Long plenary talk at QIP (2025).*  [<a href="https://arxiv.org/abs/2407.07754" target="_blank">PDF</a>] [<a href="https://x.com/RobertHuangHY/status/1811282817743208706" target="_blank">Thread on X</a>]
 
+1. *Predicting quantum channels over general product distributions* <br>
+**(alphabetical order)** S. Chen, J. D. Pont, J.-T. Hsieh, H.-Y. Huang, J. Lange, J. Li. <br>
+*COLT (2025).* [<a href="https://arxiv.org/abs/2409.03684" target="_blank">PDF</a>]
+
+1. *Learning shallow quantum circuits with many-qubit gates* <br>
+F. Vasconcelos, **H.-Y. Huang**. <br>
+*COLT (2025).* [<a href="https://arxiv.org/abs/2410.16693" target="_blank">PDF</a>]
+
 1. *Quantum error correction below the surface code threshold* <br>
 **(alphabetical order)** Google Quantum AI and Collaborators.<br>
 *<a href="https://www.nature.com/articles/s41586-024-08449-y" target="_blank">Nature (2024)</a>.* [<a href="https://arxiv.org/abs/2408.13687" target="_blank">PDF</a>]<br> [<a href="https://www.quantamagazine.org/quantum-computers-cross-critical-error-threshold-20241209/" target="_blank">Quanta Magazine</a>] [<a href="https://physics.aps.org/articles/v17/176" target="_blank">Physics News</a>] [<a href="https://www.nature.com/articles/d41586-024-04028-3" target="_blank">Nature News</a>] [<a href="https://www.nytimes.com/2024/12/09/technology/google-quantum-computing.html" target="_blank">New York Times</a>] 
@@ -63,10 +73,6 @@ T. Schuster, J. Haferkamp, **H.-Y. Huang**.<br>
 1. *Entanglement-enabled advantage for learning a bosonic random displacement channel* <br>
 C. Oh, S. Chen, Y. Wong, S. Zhou, **H.-Y. Huang**, J. A.H. Nielsen, Z.-H. Liu, J. S. Neergaard-Nielsen, U. L. Andersen, L. Jiang, J. Preskill.<br>
 *<a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.230604" target="_blank">Physical Review Letters (2024)</a>* [<a href="https://arxiv.org/abs/2402.18809" target="_blank">PDF</a>]
-
-1. *Learning shallow quantum circuits with many-qubit gates* <br>
-F. Vasconcelos, **H.-Y. Huang**. <br>
-*arXiv (2024).* [<a href="https://arxiv.org/abs/2410.16693" target="_blank">PDF</a>]
 
 1. *Predicting adaptively chosen observables in quantum systems* <br>
 J. Huang, L. Lewis, **H.-Y. Huang**, J. Preskill. <br>
@@ -76,10 +82,6 @@ J. Huang, L. Lewis, **H.-Y. Huang**, J. Preskill. <br>
 **(alphabetical order)** H.-Y. Huang, J. Preskill, M. Soleimanifar.<br>
 *FOCS (2024), Contributed talk at QIP (2024).*<br>
 [<a href="https://arxiv.org/abs/2404.07281" target="_blank">PDF</a>] [<a href="https://x.com/RobertHuangHY/status/1780093918488773026" target="_blank">Thread on X</a>] [<a href="https://github.com/hsinyuan-huang/certify-quantum-states" target="_blank">GitHub Code</a>] [<a href="https://www.youtube.com/live/o4EIME_ZVnU?si=kpK85SwxyoN6dso8" target="_blank">Invited talk at IBM</a>]
-
-1. *Predicting quantum channels over general product distributions* <br>
-**(alphabetical order)** S. Chen, J. D. Pont, J.-T. Hsieh, H.-Y. Huang, J. Lange, J. Li. <br>
-*arXiv (2024).* [<a href="https://arxiv.org/abs/2409.03684" target="_blank">PDF</a>]
 
 1. *Classically estimating observables of noiseless quantum circuits* <br>
 A. Angrisani, A. Schmidhuber, M. S. Rudolph, M. Cerezo, Z. Holmes, **H.-Y. Huang**.<br>
