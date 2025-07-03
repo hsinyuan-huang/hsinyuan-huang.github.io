@@ -31,6 +31,10 @@ My ultimate goal is to build quantum machines capable of discovering new facets 
 
 <a href="https://scholar.google.com/citations?user=2y5YF-gAAAAJ" target="_blank">Google Scholar</a> provides a full list under chronological/citations order. Selected publications are labeled by :dart:.
 
+1. :dart: *Random unitaries in extremely low depth* <br>
+T. Schuster, J. Haferkamp, **H.-Y. Huang**.<br>
+*<a href="https://www.science.org/doi/10.1126/science.adv8590" target="_blank">Science (2025)</a>, *Long plenary talk at QIP (2025).*  [<a href="https://arxiv.org/abs/2407.07754" target="_blank">PDF</a>] [<a href="https://x.com/RobertHuangHY/status/1811282817743208706" target="_blank">Thread on X</a>] [<a href="https://www.science.org/doi/10.1126/science.adz0147" target="_blank">Science Perspective</a>]
+
 1. :dart: *Local minima in quantum systems* <br>
 **(alphabetical order)** C.-F. Chen, H.-Y. Huang, J. Preskill, L. Zhou.<br>
 *<a href="https://www.nature.com/articles/s41567-025-02781-4" target="_blank">Nature Physics (2025)</a>, STOC (2024), Contributed talk at QIP (2024).*<br>
@@ -53,10 +57,6 @@ R. R. Allen, F. Machado, I. L. Chuang, **H.-Y. Huang**, S. Choi.<br>
 1. *Myths around quantum computation before full fault tolerance: What no-go theorems rule out and what they don't* <br>
 Z. Zimborás, B. Koczor, Z. Holmes, E.-M. Borrelli, A. Gilyén, **H.-Y. Huang**, Z. Cai, A. Acín, L. Aolita, L. Banchi, F. G. S. L. Brandão, D. Cavalcanti, T. Cubitt, S. N. Filippov, G. García-Pérez, J. Goold, O. Kálmán, E. Kyoseva, M. A.C. Rossi, B. Sokolov, I. Tavernelli, S. Maniscalco.<br>
 *arXiv (2025).* [<a href="https://arxiv.org/abs/2501.05694" target="_blank">PDF</a>]
-
-1. :dart: *Random unitaries in extremely low depth* <br>
-T. Schuster, J. Haferkamp, **H.-Y. Huang**.<br>
-*Long plenary talk at QIP (2025).*  [<a href="https://arxiv.org/abs/2407.07754" target="_blank">PDF</a>] [<a href="https://x.com/RobertHuangHY/status/1811282817743208706" target="_blank">Thread on X</a>]
 
 1. *Predicting quantum channels over general product distributions* <br>
 **(alphabetical order)** S. Chen, J. D. Pont, J.-T. Hsieh, H.-Y. Huang, J. Lange, J. Li. <br>
