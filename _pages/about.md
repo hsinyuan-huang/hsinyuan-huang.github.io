@@ -36,7 +36,7 @@ My ultimate goal is to build quantum machines capable of discovering new facets 
 1. :dart: *Random unitaries in extremely low depth* <br>
 T. Schuster, J. Haferkamp, **H.-Y. Huang**.<br>
 *<a href="https://www.science.org/doi/10.1126/science.adv8590" target="_blank">Science (2025)</a>, Long plenary talk at QIP (2025).*<br>
-[<a href="https://arxiv.org/abs/2407.07754" target="_blank">PDF</a>] [<a href="https://x.com/RobertHuangHY/status/1811282817743208706" target="_blank">Thread on X</a>] [<a href="https://www.science.org/doi/10.1126/science.adz0147" target="_blank">Science Perspective</a>]
+[<a href="https://arxiv.org/abs/2407.07754" target="_blank">PDF</a>] [<a href="https://x.com/RobertHuangHY/status/1811282817743208706" target="_blank">Thread on X</a>] [<a href="https://www.science.org/doi/10.1126/science.adz0147" target="_blank">Science Perspective</a>] [<a href="https://www.newscientist.com/article/2486991-quantum-computers-are-surprisingly-random-but-thats-a-good-thing/" target="_blank">New Scientist</a>] [<a href="https://phys.org/news/2025-07-randomness-key-powerful-quantum.html" target="_blank">Phys.org News</a>]
 
 1. :dart: *Local minima in quantum systems* <br>
 **(alphabetical order)** C.-F. Chen, H.-Y. Huang, J. Preskill, L. Zhou.<br>
