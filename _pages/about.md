@@ -31,19 +31,23 @@ My ultimate goal is to build quantum machines capable of discovering new facets 
 
 ## Publications
 
-<a href="https://scholar.google.com/citations?user=2y5YF-gAAAAJ" target="_blank">Google Scholar</a> provides a full list under chronological/citations order. Selected publications are labeled by :dart:.
+<a href="https://scholar.google.com/citations?user=2y5YF-gAAAAJ" target="_blank">Google Scholar</a> provides a full list under chronological/citations order.
 
-1. :dart: *Random unitaries in extremely low depth* <br>
+1. *The vast world of quantum advantage* <br>
+**H.-Y. Huang**, S. Choi, J. R. McClean, J. Preskill.<br>
+*arXiv (2025).* [<a href="https://arxiv.org/abs/2508.05720" target="_blank">PDF</a>]
+
+1. *Random unitaries in extremely low depth* <br>
 T. Schuster, J. Haferkamp, **H.-Y. Huang**.<br>
 *<a href="https://www.science.org/doi/10.1126/science.adv8590" target="_blank">Science (2025)</a>, Long plenary talk at QIP (2025).*<br>
 [<a href="https://arxiv.org/abs/2407.07754" target="_blank">PDF</a>] [<a href="https://x.com/RobertHuangHY/status/1811282817743208706" target="_blank">Thread on X</a>] [<a href="https://www.science.org/doi/10.1126/science.adz0147" target="_blank">Science Perspective</a>] [<a href="https://www.newscientist.com/article/2486991-quantum-computers-are-surprisingly-random-but-thats-a-good-thing/" target="_blank">New Scientist</a>] [<a href="https://phys.org/news/2025-07-randomness-key-powerful-quantum.html" target="_blank">Phys.org News</a>] [<a href="https://www.caltech.edu/about/news/quantum-chaos-kicks-in-sooner-than-previously-thought" target="_blank">Caltech Story</a>]
 
-1. :dart: *Local minima in quantum systems* <br>
+1. *Local minima in quantum systems* <br>
 **(alphabetical order)** C.-F. Chen, H.-Y. Huang, J. Preskill, L. Zhou.<br>
 *<a href="https://www.nature.com/articles/s41567-025-02781-4" target="_blank">Nature Physics (2025)</a>, STOC (2024), Contributed talk at QIP (2024).*<br>
 [<a href="https://arxiv.org/abs/2309.16596" target="_blank">PDF</a>] [<a href="https://x.com/RobertHuangHY/status/1707861752942145672" target="_blank">Thread on X</a>] [<a href="https://www.quantamagazine.org/physicists-finally-find-a-problem-only-quantum-computers-can-do-20240312/" target="_blank">Quanta Magazine</a>] [<a href="https://www.caltech.edu/about/news/proving-quantum-computers-have-the-edge" target="_blank">Caltech Story</a>]
 
-1. :dart: *How to construct random unitaries* <br>
+1. *How to construct random unitaries* <br>
 F. Ma, **H.-Y. Huang**.<br>
 *STOC (2025), Short plenary talk at QIP (2025).*<br>
 Invited to SIAM Journal of Computing Special Issue.<br>
@@ -81,7 +85,7 @@ C. Oh, S. Chen, Y. Wong, S. Zhou, **H.-Y. Huang**, J. A.H. Nielsen, Z.-H. Liu, J
 J. Huang, L. Lewis, **H.-Y. Huang**, J. Preskill. <br>
 *arXiv (2024).* [<a href="https://arxiv.org/abs/2410.15501" target="_blank">PDF</a>]
 
-1. :dart: *Certifying almost all quantum states with few single-qubit measurements* <br>
+1. *Certifying almost all quantum states with few single-qubit measurements* <br>
 **(alphabetical order)** H.-Y. Huang, J. Preskill, M. Soleimanifar.<br>
 *FOCS (2024), Contributed talk at QIP (2024).*<br>
 [<a href="https://arxiv.org/abs/2404.07281" target="_blank">PDF</a>] [<a href="https://x.com/RobertHuangHY/status/1780093918488773026" target="_blank">Thread on X</a>] [<a href="https://github.com/hsinyuan-huang/certify-quantum-states" target="_blank">GitHub Code</a>] [<a href="https://www.youtube.com/live/o4EIME_ZVnU?si=kpK85SwxyoN6dso8" target="_blank">Invited talk at IBM</a>]
@@ -94,7 +98,7 @@ A. Angrisani, A. Schmidhuber, M. S. Rudolph, M. Cerezo, Z. Holmes, **H.-Y. Huang
 S. Chen, C. Oh, S. Zhou, **H.-Y. Huang**, L. Jiang. <br>
 *<a href="https://doi.org/10.1103/PhysRevLett.132.180805" target="_blank">Physical Review Letters (2024)</a>.* [<a href="https://arxiv.org/abs/2309.13461" target="_blank">PDF</a>]
 
-1. :dart: *Learning shallow quantum circuits* <br>
+1. *Learning shallow quantum circuits* <br>
 **H.-Y. Huang**<sup>$\dagger$</sup> (co-first author), Y. Liu<sup>$\dagger$</sup>, M. Broughton, I. Kim, A. Anshu, Z. Landau, J. R. McClean.<br>
 *STOC (2024), Short plenary talk at QIP (2024).*<br>
 Invited to SIAM Journal of Computing Special Issue.<br>
@@ -137,7 +141,7 @@ M. C. Caro<sup>$\dagger$</sup>, **H.-Y. Huang**<sup>$\dagger$</sup> (co-first au
 *<a href="https://www.nature.com/articles/s41467-023-39381-w" target="_blank">Nature Communications (2023)</a>.* [<a href="https://arxiv.org/abs/2204.10268" target="_blank">PDF</a>] [<a href="https://www.eurekalert.org/news-releases/994275">News</a>]
 
 
-1. :dart: *Learning many-body Hamiltonians with Heisenberg-limited scaling* <br>
+1. *Learning many-body Hamiltonians with Heisenberg-limited scaling* <br>
 **H.-Y. Huang**<sup>$\dagger$</sup> (co-first author), Y. Tong<sup>$\dagger$</sup>, Di Fang, Yuan Su. <br>
 *<a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.200403" target="_blank">Physical Review Letters (2023)</a>, Short plenary talk at QIP (2023).* [<a href="https://arxiv.org/abs/2210.03030" target="_blank">PDF</a>] [<a href="https://x.com/RobertHuangHY/status/1578350030641328128" target="_blank">Thread on X</a>]
 
@@ -165,7 +169,7 @@ J. Cotler<sup>$\dagger$</sup>, D. Mark<sup>$\dagger$</sup>, **H.-Y. Huang**<sup>
 K. V. Kirk, J. Cotler, **H.-Y. Huang**, M. D. Lukin. <br>
 *arXiv (2022).* [<a href="https://arxiv.org/abs/2212.06084" target="_blank">PDF</a>]
 
-1. :dart:  *Provably efficient machine learning for quantum many-body problems* <br>
+1. *Provably efficient machine learning for quantum many-body problems* <br>
 **H.-Y. Huang**, R. Kueng, G. Torlai, V. V. Albert, J. Preskill. <br>
 *<a href="https://www.science.org/doi/10.1126/science.abk3333" target="_blank">Science (2022)</a>, Long plenary talk at QIP (2022).* <br>
 [<a href="https://arxiv.org/abs/2106.12627" target="_blank">PDF</a>] [<a href="https://github.com/hsinyuan-huang/provable-ml-quantum" target="_blank">GitHub Code</a>] [<a href="https://x.com/RobertHuangHY/status/1408230497512087554" target="_blank">Thread on X</a>] [<a href="https://www.caltech.edu/about/news/classical-machine-learning-can-solve-tricky-quantum-problems" target="_blank">Caltech News</a>] [<a href="https://phys.org/news/2022-09-traditional-quantum-problems.html" target="_blank">Phys.org News</a>] [<a href="https://spectrum.ieee.org/machine-learning-quantum" target="_blank">IEEE Spectrum</a>]<br>
@@ -184,7 +188,7 @@ M. C. Caro, **H.-Y. Huang**, M. Cerezo, K. Sharma, A. Sornborger, L. Cincio, P. 
 [<a href="https://arxiv.org/abs/2111.05292" target="_blank">PDF</a>] [<a href="https://discover.lanl.gov/news/0823-quantum-ai" target="_blank">Los Alamos News</a>] [<a href="https://pennylane.ai/qml/demos/tutorial_learning_few_data.html" target="_blank">PennyLane Tutorial</a>]
 
 
-1. :dart:  *Quantum advantage in learning from experiments* <br>
+1. *Quantum advantage in learning from experiments* <br>
 **H.-Y. Huang**, M. Broughton, J. Cotler, S. Chen, J. Li, M. Mohseni, H. Neven, R. Babbush, R. Kueng, J. Preskill, J. R. McClean. <br>
 *<a href="https://www.science.org/doi/10.1126/science.abn7293" target="_blank">Science (2022)</a>.*<br>
 [<a href="https://arxiv.org/abs/2112.00778" target="_blank">PDF</a>] [<a href="https://x.com/RobertHuangHY/status/1466678468213542912" target="_blank">Thread on X</a>] [<a href="https://arstechnica.com/science/2022/06/quantum-computer-succeeds-where-a-classical-algorithm-fails/" target="_blank">arsTECHNICA News</a>] [<a href="https://www.sciencenews.org/article/quantum-physics-machine-learning-google-computer" target="_blank">ScienceNews</a>] [<a href="https://phys.org/news/2022-06-theory-quantum-exponentially-faster-tasks.html" target="_blank">Phys.org News</a>] [<a href="https://www.wired.com/story/quantum-advantage-showdowns-have-no-clear-winners/" target="_blank">WIRED News</a>]
@@ -234,7 +238,7 @@ J. R. McClean, N. C. Rubin, J. Lee, M. P. Harrigan, T. E. O'Brien, R. Babbush, W
 [<a href="https://arxiv.org/abs/2103.07510" target="_blank">PDF</a>] [<a href="https://github.com/hsinyuan-huang/predicting-quantum-properties" target="_blank">GitHub Code</a>]
 
 
-1. :dart: *Power of data in quantum machine learning* <br>
+1. *Power of data in quantum machine learning* <br>
 **H.-Y. Huang**, M. Broughton, M. Mohseni, R. Babbush, S. Boixo, H. Neven, J. R. McClean. <br>
 *<a href="https://www.nature.com/articles/s41467-021-22539-9" target="_blank">Nature Communications (Featured)</a>, Contributed talk at QIP (2021).*<br>
 [<a href="https://arxiv.org/abs/2011.01938" target="_blank">PDF</a>]
@@ -244,7 +248,7 @@ J. R. McClean, N. C. Rubin, J. Lee, M. P. Harrigan, T. E. O'Brien, R. Babbush, W
 [<a href="https://www.tensorflow.org/quantum/tutorials/quantum_data" target="_blank">TensorFlow Quantum Tutorial</a>]
 
 
-1. :dart: *Information-theoretic bounds on quantum advantage in machine learning* <br>
+1. *Information-theoretic bounds on quantum advantage in machine learning* <br>
 **H.-Y. Huang**, R. Kueng, J. Preskill.<br>
 *<a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.190505" target="_blank">Physical Review Letters (Editor's Suggestion)</a>, Contributed talk at QIP (2021).*<br>
 [<a href="https://arxiv.org/abs/2101.02464" target="_blank">PDF</a>] [<a href="https://www.youtube.com/watch?v=d1_hBEJQUSA&t=1202s&ab_channel=MunichCenterforQuantumScience%26Technology" target="_blank">Talk at QIP</a>] [<a href="https://quantumfrontiers.com/2021/06/02/peeking-into-the-world-of-quantum-intelligence/" target="_blank">IQIM blog</a>] [<a href="https://www.quantamagazine.org/quantum-memory-proves-exponentially-powerful-20241016/" target="_blank">Quanta Magazine</a>]
@@ -278,7 +282,7 @@ A. Elben, R. Kueng, **H.-Y. Huang**, R. van Bijnen, C. Kokail, M. Dalmonte, P. C
 *<a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.200501" target="_blank">Physical Review Letters (2020)</a>.* [<a href="https://arxiv.org/abs/2007.06305" target="_blank">PDF</a>]
 
 
-1. :dart: *Predicting many properties in a quantum system from very few measurements* <br>
+1. *Predicting many properties in a quantum system from very few measurements* <br>
 **H.-Y. Huang**, R. Kueng, J. Preskill. <br>
 *<a href="https://www.nature.com/articles/s41567-020-0932-7" target="_blank">Nature Physics (2020)</a>, Short plenary talk at QIP (2020).*<br>
 [<a href="https://arxiv.org/abs/2002.08953" target="_blank">PDF</a>] [<a href="https://github.com/hsinyuan-huang/predicting-quantum-properties" target="_blank">GitHub Code</a>] [<a href="https://en.wikipedia.org/wiki/Classical_shadow" target="_blank">Wikipedia page</a>] [<a href="https://pennylane.ai/qml/demos/tutorial_classical_shadows.html" target="_blank">PennyLane Tutorial</a>] [<a href="https://www.youtube.com/watch?v=NXejv2wVwas&t=2553s&ab_channel=SimonsInstitute" target="_blank">Talk by John Preskill</a>] [<a href="https://phys.org/news/2020-07-method-properties-complex-quantum.html" target="_blank">Phys.org News</a>] [<a href="https://www.quantamagazine.org/machine-learning-aids-classical-modeling-of-quantum-systems-20230914/" target="_blank">Quanta Magazine</a>]
