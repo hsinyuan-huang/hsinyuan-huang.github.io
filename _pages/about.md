@@ -37,6 +37,10 @@ My ultimate goal is to build quantum machines capable of discovering new facets 
 **H.-Y. Huang**, S. Choi, J. R. McClean, J. Preskill.<br>
 *arXiv (2025).* [<a href="https://arxiv.org/abs/2508.05720" target="_blank">PDF</a>]
 
+1. *Unitary designs in nearly optimal depth* <br>
+L. Cui, T. Schuster, F. Brandao, **H.-Y. Huang**.<br>
+*arXiv (2025).* [<a href="https://arxiv.org/abs/2507.06216" target="_blank">PDF</a>]
+
 1. *Random unitaries in extremely low depth* <br>
 T. Schuster, J. Haferkamp, **H.-Y. Huang**.<br>
 *<a href="https://www.science.org/doi/10.1126/science.adv8590" target="_blank">Science (2025)</a>, Long plenary talk at QIP (2025).*<br>
