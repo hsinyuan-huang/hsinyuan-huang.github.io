@@ -33,6 +33,11 @@ My ultimate goal is to build quantum machines capable of discovering new facets 
 
 <a href="https://scholar.google.com/citations?user=2y5YF-gAAAAJ" target="_blank">Google Scholar</a> provides a full list under chronological/citations order.
 
+1. *Certifying almost all quantum states with few single-qubit measurements* <br>
+**(alphabetical order)** H.-Y. Huang, J. Preskill, M. Soleimanifar.<br>
+*Nature Physics (2025), FOCS (2024), Contributed talk at QIP (2024).*<br>
+[<a href="https://arxiv.org/abs/2404.07281" target="_blank">PDF</a>] [<a href="https://rdcu.be/eFHct" target="_blank">PDF for Nature Physics</a>] [<a href="https://x.com/RobertHuangHY/status/1780093918488773026" target="_blank">Thread on X</a>] [<a href="https://github.com/hsinyuan-huang/certify-quantum-states" target="_blank">GitHub Code</a>] [<a href="https://www.youtube.com/live/o4EIME_ZVnU?si=kpK85SwxyoN6dso8" target="_blank">Invited talk at IBM</a>]
+
 1. *The vast world of quantum advantage* <br>
 **H.-Y. Huang**, S. Choi, J. R. McClean, J. Preskill.<br>
 *arXiv (2025).* [<a href="https://arxiv.org/abs/2508.05720" target="_blank">PDF</a>]
@@ -88,11 +93,6 @@ C. Oh, S. Chen, Y. Wong, S. Zhou, **H.-Y. Huang**, J. A.H. Nielsen, Z.-H. Liu, J
 1. *Predicting adaptively chosen observables in quantum systems* <br>
 J. Huang, L. Lewis, **H.-Y. Huang**, J. Preskill. <br>
 *arXiv (2024).* [<a href="https://arxiv.org/abs/2410.15501" target="_blank">PDF</a>]
-
-1. *Certifying almost all quantum states with few single-qubit measurements* <br>
-**(alphabetical order)** H.-Y. Huang, J. Preskill, M. Soleimanifar.<br>
-*FOCS (2024), Contributed talk at QIP (2024).*<br>
-[<a href="https://arxiv.org/abs/2404.07281" target="_blank">PDF</a>] [<a href="https://x.com/RobertHuangHY/status/1780093918488773026" target="_blank">Thread on X</a>] [<a href="https://github.com/hsinyuan-huang/certify-quantum-states" target="_blank">GitHub Code</a>] [<a href="https://www.youtube.com/live/o4EIME_ZVnU?si=kpK85SwxyoN6dso8" target="_blank">Invited talk at IBM</a>]
 
 1. *Classically estimating observables of noiseless quantum circuits* <br>
 A. Angrisani, A. Schmidhuber, M. S. Rudolph, M. Cerezo, Z. Holmes, **H.-Y. Huang**.<br>
