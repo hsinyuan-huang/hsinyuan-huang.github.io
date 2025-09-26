@@ -35,7 +35,7 @@ My ultimate goal is to build quantum machines capable of discovering new facets 
 
 1. *Quantum learning advantage on a scalable photonic platform* <br>
 Z.-H. Liu, R. Brunel, E. E. B. Østergaard, O. Cordero, S. Chen, Y. Wong, J. A. H. Nielsen, A. B. Bregnsbo, S. Zhou, **H.-Y. Huang**, C. Oh, L. Jiang, J. Preskill, J. S. Neergaard-Nielsen, U. L. Andersen.<br>
-*Science (2025).* [<a href="https://arxiv.org/abs/2502.07770" target="_blank">PDF</a>] [<a href="https://pme.uchicago.edu/news/multi-institution-collaboration-achieves-quantum-advantage-probing-quantum-systems" target="_blank">UChicago News</a>]
+*<a href="https://www.science.org/doi/10.1126/science.adv2560" target="_blank">Science (2025)</a>.* [<a href="https://arxiv.org/abs/2502.07770" target="_blank">PDF</a>] [<a href="https://pme.uchicago.edu/news/multi-institution-collaboration-achieves-quantum-advantage-probing-quantum-systems" target="_blank">UChicago News</a>] [<a href="https://phys.org/news/2025-09-proven-quantum-advantage-task-million.html" target="_blank">TU Denmark News</a>]
 
 1. *Generative quantum advantage for classical and quantum problems* <br>
 **H.-Y. Huang**, M. Broughton, N. Eassa, H. Neven, R. Babbush, J. R. McClean.<br>
@@ -43,7 +43,7 @@ Z.-H. Liu, R. Brunel, E. E. B. Østergaard, O. Cordero, S. Chen, Y. Wong, J. A. 
 
 1. *Certifying almost all quantum states with few single-qubit measurements* <br>
 **(alphabetical order)** H.-Y. Huang, J. Preskill, M. Soleimanifar.<br>
-*Nature Physics (2025), FOCS (2024), Contributed talk at QIP (2024).*<br>
+*<a href="https://www.nature.com/articles/s41567-025-03025-1" target="_blank">Nature Physics (2025)</a>, FOCS (2024), Contributed talk at QIP (2024).*<br>
 [<a href="https://arxiv.org/abs/2404.07281" target="_blank">PDF</a>] [<a href="https://rdcu.be/eFHct" target="_blank">PDF for Nature Physics</a>] [<a href="https://x.com/RobertHuangHY/status/1780093918488773026" target="_blank">Thread on X</a>] [<a href="https://github.com/hsinyuan-huang/certify-quantum-states" target="_blank">GitHub Code</a>] [<a href="https://www.youtube.com/live/o4EIME_ZVnU?si=kpK85SwxyoN6dso8" target="_blank">Invited talk at IBM</a>]
 
 1. *The vast world of quantum advantage* <br>
