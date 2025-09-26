@@ -33,6 +33,14 @@ My ultimate goal is to build quantum machines capable of discovering new facets 
 
 <a href="https://scholar.google.com/citations?user=2y5YF-gAAAAJ" target="_blank">Google Scholar</a> provides a full list under chronological/citations order.
 
+1. *Quantum learning advantage on a scalable photonic platform* <br>
+Z.-H. Liu, R. Brunel, E. E. B. Østergaard, O. Cordero, S. Chen, Y. Wong, J. A. H. Nielsen, A. B. Bregnsbo, S. Zhou, **H.-Y. Huang**, C. Oh, L. Jiang, J. Preskill, J. S. Neergaard-Nielsen, U. L. Andersen.<br>
+*Science (2025).* [<a href="https://arxiv.org/abs/2502.07770" target="_blank">PDF</a>] [<a href="https://pme.uchicago.edu/news/multi-institution-collaboration-achieves-quantum-advantage-probing-quantum-systems" target="_blank">UChicago News</a>]
+
+1. *Generative quantum advantage for classical and quantum problems* <br>
+**H.-Y. Huang**, M. Broughton, N. Eassa, H. Neven, R. Babbush, J. R. McClean.<br>
+*arXiv (2025).* [<a href="https://arxiv.org/abs/2509.09033" target="_blank">PDF</a>]
+
 1. *Certifying almost all quantum states with few single-qubit measurements* <br>
 **(alphabetical order)** H.-Y. Huang, J. Preskill, M. Soleimanifar.<br>
 *Nature Physics (2025), FOCS (2024), Contributed talk at QIP (2024).*<br>
@@ -61,10 +69,6 @@ F. Ma, **H.-Y. Huang**.<br>
 *STOC (2025), Short plenary talk at QIP (2025).*<br>
 Invited to SIAM Journal of Computing Special Issue.<br>
 [<a href="https://arxiv.org/abs/2410.10116" target="_blank">PDF</a>] [<a href="https://www.quantamagazine.org/the-high-cost-of-quantum-randomness-is-dropping-20250328/" target="_blank">Quanta Magazine</a>]
-
-1. *Quantum learning advantage on a scalable photonic platform* <br>
-Z.-H. Liu, R. Brunel, E. E. B. Østergaard, O. Cordero, S. Chen, Y. Wong, J. A. H. Nielsen, A. B. Bregnsbo, S. Zhou, **H.-Y. Huang**, C. Oh, L. Jiang, J. Preskill, J. S. Neergaard-Nielsen, U. L. Andersen.<br>
-*arXiv (2025).* [<a href="https://arxiv.org/abs/2502.07770" target="_blank">PDF</a>]
 
 1. *Quantum Computing Enhanced Sensing* <br>
 R. R. Allen, F. Machado, I. L. Chuang, **H.-Y. Huang**, S. Choi.<br>
