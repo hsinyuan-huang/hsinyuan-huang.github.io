@@ -37,6 +37,10 @@ Fall 2025: <a href="https://caltech-quantum-learning-theory.github.io/" target="
 
 <a href="https://scholar.google.com/citations?user=2y5YF-gAAAAJ" target="_blank">Google Scholar</a> provides a full list under chronological/citations order.
 
+1. *Strong random unitaries and fast scrambling* <br>
+ T. Schuster, F. Ma, A. Lombardi, F. Brandao, **H.-Y. Huang**.<br>
+*arXiv (2025).* [<a href="https://arxiv.org/abs/2509.26310" target="_blank">PDF</a>]
+
 1. *Quantum learning advantage on a scalable photonic platform* <br>
 Z.-H. Liu, R. Brunel, E. E. B. Østergaard, O. Cordero, S. Chen, Y. Wong, J. A. H. Nielsen, A. B. Bregnsbo, S. Zhou, **H.-Y. Huang**, C. Oh, L. Jiang, J. Preskill, J. S. Neergaard-Nielsen, U. L. Andersen.<br>
 *<a href="https://www.science.org/doi/10.1126/science.adv2560" target="_blank">Science (2025)</a>.* [<a href="https://arxiv.org/abs/2502.07770" target="_blank">PDF</a>] [<a href="https://pme.uchicago.edu/news/multi-institution-collaboration-achieves-quantum-advantage-probing-quantum-systems" target="_blank">UChicago News</a>] [<a href="https://phys.org/news/2025-09-proven-quantum-advantage-task-million.html" target="_blank">TU Denmark News</a>] [<a href="https://perimeterinstitute.ca/news/new-experiment-shows-quantum-advantage-learning-about-physical-systems" target="_blank">Perimeter Institute News</a>]
