@@ -37,6 +37,22 @@ Fall 2025: <a href="https://caltech-quantum-learning-theory.github.io/" target="
 
 <a href="https://scholar.google.com/citations?user=2y5YF-gAAAAJ" target="_blank">Google Scholar</a> provides a full list under chronological/citations order.
 
+1. *Random unitaries that conserve energy* <br>
+L. Mao, L. Cui, T. Schuster, **H.-Y. Huang**.<br>
+*arXiv (2025).* [<a href="https://arxiv.org/abs/2510.08448" target="_blank">PDF</a>]
+
+1. *Random unitaries from Hamiltonian dynamics* <br>
+L. Cui, T. Schuster, L. Mao, **H.-Y. Huang**, F Brandao.<br>
+*arXiv (2025).* [<a href="https://arxiv.org/abs/2510.08434" target="_blank">PDF</a>]
+
+1. *Hardness of recognizing phases of matter* <br>
+T. Schuster, D. Kufel, N. Yao, **H.-Y. Huang**.<br>
+*arXiv (2025).* [<a href="https://arxiv.org/abs/2510.08503" target="_blank">PDF</a>]
+
+1. *Quantum Probe Tomography* <br>
+S. Chen, J. Cotler, **H.-Y. Huang**.<br>
+*arXiv (2025).* [<a href="https://arxiv.org/abs/2510.08499" target="_blank">PDF</a>]
+
 1. *Strong random unitaries and fast scrambling* <br>
  T. Schuster, F. Ma, A. Lombardi, F. Brandao, **H.-Y. Huang**.<br>
 *arXiv (2025).* [<a href="https://arxiv.org/abs/2509.26310" target="_blank">PDF</a>]
