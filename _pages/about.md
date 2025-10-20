@@ -68,7 +68,7 @@ Z.-H. Liu, R. Brunel, E. E. B. Østergaard, O. Cordero, S. Chen, Y. Wong, J. A. 
 1. *Certifying almost all quantum states with few single-qubit measurements* <br>
 **(alphabetical order)** H.-Y. Huang, J. Preskill, M. Soleimanifar.<br>
 *<a href="https://www.nature.com/articles/s41567-025-03025-1" target="_blank">Nature Physics (2025)</a>, FOCS (2024), Contributed talk at QIP (2024).*<br>
-[<a href="https://arxiv.org/abs/2404.07281" target="_blank">PDF</a>] [<a href="https://rdcu.be/eFHct" target="_blank">PDF for Nature Physics</a>] [<a href="https://x.com/RobertHuangHY/status/1780093918488773026" target="_blank">Thread on X</a>] [<a href="https://github.com/hsinyuan-huang/certify-quantum-states" target="_blank">GitHub Code</a>] [<a href="https://www.youtube.com/live/o4EIME_ZVnU?si=kpK85SwxyoN6dso8" target="_blank">Invited talk at IBM</a>] [<a href>="https://phys.org/news/2025-10-rigorous-approach-quantifies-quantum-states.html" target="_blank">Phys.org News</a>]
+[<a href="https://arxiv.org/abs/2404.07281" target="_blank">PDF</a>] [<a href="https://rdcu.be/eFHct" target="_blank">PDF for Nature Physics</a>] [<a href="https://x.com/RobertHuangHY/status/1780093918488773026" target="_blank">Thread on X</a>] [<a href="https://github.com/hsinyuan-huang/certify-quantum-states" target="_blank">GitHub Code</a>] [<a href="https://www.youtube.com/live/o4EIME_ZVnU?si=kpK85SwxyoN6dso8" target="_blank">Invited talk at IBM</a>] [<a href="https://phys.org/news/2025-10-rigorous-approach-quantifies-quantum-states.html" target="_blank">Phys.org News</a>]
 
 1. *The vast world of quantum advantage* <br>
 **H.-Y. Huang**, S. Choi, J. R. McClean, J. Preskill.<br>
