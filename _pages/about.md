@@ -9,7 +9,7 @@ redirect_from:
 
 I am Hsin-Yuan Huang (黃信元, pronounced "Shin Yuan Huan"). I also go by Robert.
 
-I am an Assistant Professor of Theoretical Physics at [Caltech](https://www.caltech.edu/). I was previously a Staff Research Scientist at [Google Quantum AI](https://quantumai.google/), a visiting faculty at [Stanford Univeristy](https://qfarm.stanford.edu/), and a visiting scientist at [MIT Center for Theoretical Physics](https://physics.mit.edu/research/labs-centers/mit-center-for-theoretical-physics-leinweber-institute/) and [Simons Institute for the Theory of Computing, UC Berkeley](https://simons.berkeley.edu/homepage). I received my Ph.D. under the guidance of John Preskill and Thomas Vidick. My doctoral dissertation, titled *Learning in the Quantum Universe*, was honored with the Milton and Francis Clauser Doctoral Prize, an award conferred annually to a single doctoral dissertation across all disciplines at Caltech that demonstrates the highest degree of originality and potential for opening up new avenues of human thought and endeavor.
+I am the CTO of [Oratomic](https://oratomic.com/) and an Assistant Professor of Theoretical Physics at [Caltech](https://www.caltech.edu/). I was previously a Staff Research Scientist at [Google Quantum AI](https://quantumai.google/), a visiting faculty at [Stanford Univeristy](https://qfarm.stanford.edu/), and a visiting scientist at [MIT Center for Theoretical Physics](https://physics.mit.edu/research/labs-centers/mit-center-for-theoretical-physics-leinweber-institute/) and [Simons Institute for the Theory of Computing, UC Berkeley](https://simons.berkeley.edu/homepage). I received my Ph.D. under the guidance of John Preskill and Thomas Vidick. My doctoral dissertation, titled *Learning in the Quantum Universe*, was honored with the Milton and Francis Clauser Doctoral Prize, an award conferred annually to a single doctoral dissertation across all disciplines at Caltech that demonstrates the highest degree of originality and potential for opening up new avenues of human thought and endeavor.
 
 ## Research Interest
 
@@ -17,8 +17,8 @@ My research aims to build a rigorous foundation for understanding how scientists
 
 I leverage quantum information theory, quantum many-body physics, learning theory, and complexity theory to formalize and explore new questions in the following directions:
 
-* When can quantum machines learn and predict better than classical machines?
 * How to accelerate/automate the development of quantum and physical sciences?
+* When can quantum machines learn and predict better than classical machines?
 * What physical phenomena can classical vs quantum machines learn and discover?
 
 My ultimate goal is to build quantum machines capable of discovering new facets of our universe beyond the capabilities of humans and classical machines.
@@ -36,6 +36,10 @@ Fall 2025: <a href="https://caltech-quantum-learning-theory.github.io/" target="
 ## Publications
 
 <a href="https://scholar.google.com/citations?user=2y5YF-gAAAAJ" target="_blank">Google Scholar</a> provides a full list under chronological/citations order.
+
+1. *Shor's algorithm is possible with as few as 10,000 reconfigurable atomic qubits* <br>
+M. Cain, Q. Xu, R. King, L. R. B. Picard, H. Levine, M. Endres, J. Preskill, **H.-Y. Huang**, D. Bluvstein.<br>
+*arXiv (2026).* [<a href="https://arxiv.org/abs/2603.28627" target="_blank">PDF</a>]
 
 1. *Strong random unitaries and fast scrambling* <br>
  T. Schuster, F. Ma, A. Lombardi, F. Brandao, **H.-Y. Huang**.<br>
