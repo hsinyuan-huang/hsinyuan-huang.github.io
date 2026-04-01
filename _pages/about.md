@@ -39,7 +39,7 @@ Fall 2025: <a href="https://caltech-quantum-learning-theory.github.io/" target="
 
 1. *Shor's algorithm is possible with as few as 10,000 reconfigurable atomic qubits* <br>
 M. Cain, Q. Xu, R. King, L. R. B. Picard, H. Levine, M. Endres, J. Preskill, **H.-Y. Huang**, D. Bluvstein.<br>
-*arXiv (2026).* [<a href="https://arxiv.org/abs/2603.28627" target="_blank">PDF</a>]
+*arXiv (2026).* [<a href="https://arxiv.org/abs/2603.28627" target="_blank">PDF</a>] [<a href="https://www.caltech.edu/about/news/caltech-team-finds-useful-quantum-computers-could-be-built-with-as-few-as-10000-qubits" target="_blank">Caltech News</a>] [<a href="https://www.sciencenews.org/article/quantum-bits-crack-internet-encryption" target="_blank">Science News</a>] [<a href="https://arstechnica.com/security/2026/03/new-quantum-computing-advances-heighten-threat-to-elliptic-curve-cryptosystems/" target="_blank">Ars Technica</a>]
 
 1. *Strong random unitaries and fast scrambling* <br>
  T. Schuster, F. Ma, A. Lombardi, F. Brandao, **H.-Y. Huang**.<br>
