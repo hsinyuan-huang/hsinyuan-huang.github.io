@@ -37,6 +37,10 @@ Fall 2025: <a href="https://caltech-quantum-learning-theory.github.io/" target="
 
 <a href="https://scholar.google.com/citations?user=2y5YF-gAAAAJ" target="_blank">Google Scholar</a> provides a full list under chronological/citations order.
 
+1. *Exponential quantum advantage in processing massive classical data* <br>
+H. Zhao, A. Zlokapa, H. Neven, R. Babbush, J. Preskill, J. R. McClean, **H.-Y. Huang**.<br>
+*arXiv (2026).* [<a href="https://arxiv.org/abs/2604.07639" target="_blank">PDF</a>] [<a href="https://www.newscientist.com/article/2523443-we-might-finally-know-how-to-use-quantum-computers-to-boost-ai/" target="_blank">New Scientist</a>]
+
 1. *Shor's algorithm is possible with as few as 10,000 reconfigurable atomic qubits* <br>
 M. Cain, Q. Xu, R. King, L. R. B. Picard, H. Levine, M. Endres, J. Preskill, **H.-Y. Huang**, D. Bluvstein.<br>
 *arXiv (2026).* [<a href="https://arxiv.org/abs/2603.28627" target="_blank">PDF</a>] [<a href="https://www.caltech.edu/about/news/caltech-team-finds-useful-quantum-computers-could-be-built-with-as-few-as-10000-qubits" target="_blank">Caltech News</a>] [<a href="https://www.quantamagazine.org/new-advances-bring-the-era-of-quantum-computers-closer-than-ever-20260403/" target="_blank">Quanta Magazine</a>] [<a href="https://www.nature.com/articles/d41586-026-01054-1" target="_blank">Nature News</a>] [<a href="https://www.sciencenews.org/article/quantum-bits-crack-internet-encryption" target="_blank">Science News</a>] [<a href="https://arstechnica.com/security/2026/03/new-quantum-computing-advances-heighten-threat-to-elliptic-curve-cryptosystems/" target="_blank">Ars Technica</a>] [<a href="https://time.com/article/2026/04/07/ai-quantum-computing-advance/" target="_blank">Time Magazine</a>]
