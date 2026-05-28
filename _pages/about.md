@@ -36,11 +36,11 @@ Fall 2025: <a href="https://caltech-quantum-learning-theory.github.io/" target="
 ## Students
 
 * Aditya Bhardwaj
-* Xinyu Liu (Co-advised with <a href="https://www.preskill.caltech.edu/" target="_blank">John Preskill</a>)
-* Nadine Meister (Co-advised with <a href="https://www.endreslab.com/" target="_blank">Manuel Endres</a>)
-* <a href="https://hmzhao.me/" target="_blank">Haimeng Zhao</a> (Co-advised with <a href="https://www.preskill.caltech.edu/" target="_blank">John Preskill</a>)
-* Muzhou Ma (Richard) (Co-advised with <a href="https://www.preskill.caltech.edu/" target="_blank">John Preskill</a>)
-* Zachary Mann (Co-advised with <a href="https://www.preskill.caltech.edu/" target="_blank">John Preskill</a>)
+* Xinyu Liu (with <a href="https://www.preskill.caltech.edu/" target="_blank">John Preskill</a>)
+* Nadine Meister (with <a href="https://www.endreslab.com/" target="_blank">Manuel Endres</a>)
+* <a href="https://hmzhao.me/" target="_blank">Haimeng Zhao</a> (with <a href="https://www.preskill.caltech.edu/" target="_blank">John Preskill</a>)
+* Muzhou (Richard) Ma (with <a href="https://www.preskill.caltech.edu/" target="_blank">John Preskill</a>)
+* Zachary Mann (with <a href="https://www.preskill.caltech.edu/" target="_blank">John Preskill</a>)
 * Zhihan Zhang
 
 ## Publications
