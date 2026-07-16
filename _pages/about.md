@@ -33,6 +33,7 @@ My ultimate goal is to build quantum machines capable of discovering new facets 
 
 Fall 2025: <a href="https://caltech-quantum-learning-theory.github.io/" target="_blank">Caltech Ph 220 Quantum Learning Theory</a>
 
+<!--
 ## Students
 
 * Aditya Bhardwaj
@@ -42,6 +43,7 @@ Fall 2025: <a href="https://caltech-quantum-learning-theory.github.io/" target="
 * Muzhou (Richard) Ma (with <a href="https://www.preskill.caltech.edu/" target="_blank">John Preskill</a>)
 * Zachary Mann (with <a href="https://www.preskill.caltech.edu/" target="_blank">John Preskill</a>)
 * Zhihan Zhang
+-->
 
 ## Publications
 
